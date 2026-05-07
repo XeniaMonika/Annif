@@ -36,4 +36,4 @@ To extract only records containing the MARC `689` field, run `filter_data.py` fr
 python Scripts/filter_data.py
 ```
 
-This script reads `data.xml` from each source folder, keeps only records with `689`, and writes the output to `Data/data_filtered.xml`.
+This script reads `data.xml` from each source folder, keeps only records with `689`, and writes the output to `Data/data_xml.xml`.
