@@ -13,6 +13,16 @@ root = tree.getroot()
 def text_of(element):
     return element.text.strip() if element is not None and element.text else None
 
+def extract_689_keywords(record):
+    """Extract text from 689 field subfield a only"""
+    keywords = []
+    for datafield in record.findall(".//ns1:datafield[@tag='689']", ns):
+        for subfield in datafield.findall("ns1:subfield[@code='a']", ns):
+            text = text_of(subfield)
+            if text:
+                keywords.append(text)
+    return keywords
+
 records_by_author_title_isbn = defaultdict(list)
 
 for record in root:
@@ -54,6 +64,7 @@ else:
             "records": [
                 {
                     "id": text_of(record.find(".//ns1:controlfield[@tag='001']", ns)),
+                    "keywords": extract_689_keywords(record)
                 }
                 for record in recs
             ]
