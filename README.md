@@ -36,4 +36,19 @@ To extract only records containing the MARC `689` field, run `filter_data.py` fr
 python Scripts/filter_data.py
 ```
 
-This script reads `data.xml` from each source folder, keeps only records with `689`, and writes the output to `Data/data_xml.xml`.
+This script reads `data.xml` from each source folder, keeps only records with `689`, and writes the output to `Data/data_filtered.xml`.
+
+## Finding duplicate records
+
+To find duplicate records that share the same author, title, and ISBN, run `find_duplicates.py` from the repo root:
+
+```bash
+python Scripts/find_duplicates.py
+```
+
+The script prints duplicate groups to the console and saves duplicate metadata to:
+
+- `Data/Spanish_xml/duplicates_author_title_isbn.json`
+
+Use that JSON file to inspect duplicate records.
+
