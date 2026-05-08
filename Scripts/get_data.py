@@ -13,7 +13,8 @@ QUERIES_Hamburg = {
 
 BASE_URL_Verbundskatalog = "https://sru.k10plus.de/opac-de-627"
 QUERY_Verbundskatalog = {
-    "./Data/Spanish/ssg_7_34": "pica.ssg=7,34 and pica.spr=spa not pica.lsy=ip????? not pica.lsy=ni????? not pica.lsy=ro?????"
+    "./Data/Spanish/ssg_7_34": "pica.ssg=7,34 and pica.spr=spa not pica.lsy=ip????? not pica.lsy=ni????? not pica.lsy=ro?????",
+    "./Data/Spanish/sfk_fid_rom": "pica.sfk=fid rom de-18 and pica.spr=spa not pica.ssg=7,34 not pica.lsy=ip????? not pica.lsy=ro????? not pica.lsy=ni?????"
 }
 
 CHUNK_SIZE = 100

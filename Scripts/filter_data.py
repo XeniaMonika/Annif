@@ -6,7 +6,8 @@ folders = [
     "./Data/Spanish/lsy_ni",
     "./Data/Spanish/lsy_ro",
     "./Data/Spanish/lsy_ip",
-    "./Data/Spanish/ssg_7_34"
+    "./Data/Spanish/ssg_7_34",
+    "./Data/Spanish/sfk_fid_rom"
 ]
 
 output_folder = "./Data/Spanish"
@@ -19,6 +20,7 @@ ns = {"ns1": NS1}
 
 with open(output_file, "w", encoding="utf-8") as out:
     out.write("<records>\n")
+    total_count = 0
 
     for folder in folders:
         input_file = os.path.join(folder, "data.xml")
@@ -42,6 +44,7 @@ with open(output_file, "w", encoding="utf-8") as out:
             if has_689:
                 out.write(ET.tostring(record, encoding="unicode") + "\n")
                 count += 1
+                total_count += 1
 
              # Remove all 6xx except 689            
             
@@ -49,6 +52,8 @@ with open(output_file, "w", encoding="utf-8") as out:
         print(f"Added {count} records from {folder}")
 
     out.write("</records>")
+
+print(f"Saved {total_count} records to {output_file}")
 
 
   
