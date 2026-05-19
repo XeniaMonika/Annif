@@ -3,14 +3,14 @@ import os
 import re
 
 folders = [
-    "./Data/Spanish/lsy_ni",
-    "./Data/Spanish/lsy_ro",
-    "./Data/Spanish/lsy_ip",
-    "./Data/Spanish/ssg_7_34",
-    "./Data/Spanish/sfk_fid_rom"
+    "./MarcXML/Data/Spanish/lsy_ni",
+    "./MarcXML/Data/Spanish/lsy_ro",
+    "./MarcXML/Data/Spanish/lsy_ip",
+    "./MarcXML/Data/Spanish/ssg_7_34",
+    "./MarcXML/Data/Spanish/sfk_fid_rom"
 ]
 
-output_folder = "./Data/Spanish"
+output_folder = "./MarcXML/Data/Spanish"
 output_file = os.path.join(output_folder, "data_689.xml")
 os.makedirs(output_folder, exist_ok=True)
 

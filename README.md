@@ -37,7 +37,7 @@ To extract only records containing the GND keywords (Pica field `044K`), run `fi
 python Scripts/filter_data.py
 ```
 
-This script reads `data.xml` from each source folder, keeps only records with `689`, and writes the output to `Data/data_filtered.xml`.
+This script reads `data.xml` from each source folder, keeps only records with `044K`, and writes the output to `Data/data_gnd.xml`.
 
 ## Finding duplicate records
 
