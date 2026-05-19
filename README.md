@@ -31,7 +31,7 @@ The folders will be created automatically if they don't exist.
 
 ## Filtering data
 
-To extract only records containing the MARC `689` field, run `filter_data.py` from the repo root:
+To extract only records containing the GND keywords (Pica field `044K`), run `filter_data.py` from the repo root:
 
 ```bash
 python Scripts/filter_data.py
