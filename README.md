@@ -19,12 +19,13 @@ cd Scripts
 python get_data.py
 ```
 
-This will fetch records from the K10plus SRU API and save them as XML files
+This will fetch records in the PicaXML fromat from the K10plus SRU API and save them as XML files
 in the following locations:
 
 - `Data/Spanish/lsy_ni/data.xml`
 - `Data/Spanish/lsy_ro/data.xml`
 - `Data/Spanish/lsy_ip/data.xml`
+- `Data/Spanish/ssg_7_34/data.xml`
 
 The folders will be created automatically if they don't exist.
 
