@@ -32,7 +32,7 @@ with open(output_file, "w", encoding="utf-8") as out:
         for record in root:            
 
             has_gnd = any(
-                datafield.get("tag") == "044K"
+                datafield.get("tag") == "044K" or datafield.get("tag") == "041A" 
                 for datafield in record.findall(".//ns1:datafield", ns)
             )
             if has_gnd:
