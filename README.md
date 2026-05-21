@@ -41,14 +41,16 @@ This script reads `data.xml` from each source folder, keeps only records with `0
 
 ## Finding duplicate records
 
-To find duplicate records that share the same author, title, and ISBN, run `find_duplicates.py` from the repo root:
+To find duplicate records that share the same author and title run `find_duplicates_author_title.py` from the repo root. In order to find records that also share the same ISBN run `find_duplicates_author_title_isbn.py`
 
 ```bash
-python Scripts/find_duplicates.py
+python Scripts/find_duplicates_author_title_isbn.py
 ```
 
-The script prints duplicate groups to the console and saves duplicate metadata to:
+The scripts print duplicate groups to the console and saves duplicate metadata to:
 
+- `Data/Spanish_xml/duplicates_author_title.json`
+or
 - `Data/Spanish_xml/duplicates_author_title_isbn.json`
 
 Use that JSON file to inspect duplicate records.
