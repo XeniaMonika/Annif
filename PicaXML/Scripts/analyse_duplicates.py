@@ -1,7 +1,7 @@
 import json
 
-isbn_marc = "C:\\Users\\kudelamo\\Projects\\Annif\\MarcXML\\Data\\Spanish\\duplicates_author_title_isbn.json"
-isbn_pica = "C:\\Users\\kudelamo\\Projects\\Annif\\PicaXML\\Data\\Spanish\\duplicates_author_title_isbn.json"
+dataset_1 = "C:\\Users\\kudelamo\\Projects\\Annif\\PicaXML\\Data\\Spanish\\duplicates_author_title_isbn.json"
+dataset_2 = "C:\\Users\\kudelamo\\Projects\\Annif\\PicaXML\\Data\\Spanish\\duplicates_author_title.json"
 
 
 # Comapre th length of the isbn files fpr pica and marc
@@ -9,14 +9,14 @@ def load_json(path):
     with open(path, encoding="utf-8") as f:
         return json.load(f)
 try:
-    marc_data = load_json(isbn_marc)
-    pica_data = load_json(isbn_pica)
+    dataset_1_data = load_json(dataset_1)
+    dataset_2_data = load_json(dataset_2)
 except Exception as e:
     print(f"Error loading files: {e}")
     raise
 
-marc_len = len(marc_data) if hasattr(marc_data, "__len__") else 0
-pica_len = len(pica_data) if hasattr(pica_data, "__len__") else 0
+marc_len = len(dataset_1_data) if hasattr(dataset_1_data, "__len__") else 0
+pica_len = len(dataset_2_data) if hasattr(dataset_2_data, "__len__") else 0
 
 print(f"Marc document length: {marc_len}")
 print(f"Pica document length: {pica_len}")
@@ -45,8 +45,8 @@ def extract_titles(data):
 
     return [t.strip() for t in titles if isinstance(t, str) and t.strip()]
 
-marc_titles = set(extract_titles(marc_data))
-pica_titles = set(extract_titles(pica_data))
+marc_titles = set(extract_titles(dataset_1_data))
+pica_titles = set(extract_titles(dataset_2_data))
 
 same_titles = marc_titles & pica_titles
 all_titles = marc_titles | pica_titles

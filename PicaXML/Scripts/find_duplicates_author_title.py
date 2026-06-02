@@ -45,8 +45,7 @@ duplicates = {
 if not duplicates:
     print("No records found with the same author and the same title.")
 else:
-    total_duplicate_records = sum(len(recs) for recs in duplicates.values())
-   
+       
     for (author, title, subtitle), recs in sorted(duplicates.items(), key=lambda item: (-len(item[1]), item[0])):
         print(f"{len(recs)} records — author: {author!r}, title: {title!r}, subtitle: {subtitle!r}  ")
         for record in recs:
@@ -57,28 +56,42 @@ else:
             print("  isbn:", rec_isbn.text if rec_isbn is not None else "(no 004A)")
             print("  status:", rec_status.text if rec_status is not None else "(no 002@")
         print()
-    print(f"Found {len(duplicates)} duplicate groups with same author and title:")
-    print(f"Total duplicate records: {total_duplicate_records}\n")
+ 
 
     output_data = []
     for (author, title, subtitle), recs in duplicates.items():
-        output_data.append({
-            "author": author,
-            "title": title,
-            "subtitle": subtitle,  
-            "count": len(recs),
-            "records": [
-                {
-                    "id": text_of(record.find(".//ns1:datafield[@tag='003@']/ns1:subfield[@code='0']", ns)),
-                    "isbn": text_of(record.find(".//ns1:datafield[@tag='004A']/ns1:subfield[@code='0']", ns)),
-                    "status": text_of(record.find(".//ns1:datafield[@tag='002@']/ns1:subfield[@code='0']", ns)),
-                    "keywords": extract_gnd_keywords(record)
-                }
-                for record in recs
-            ]
-        })
+        records_data = [
+            {
+                "id": text_of(record.find(".//ns1:datafield[@tag='003@']/ns1:subfield[@code='0']", ns)),
+                "isbn": text_of(record.find(".//ns1:datafield[@tag='004A']/ns1:subfield[@code='0']", ns)),
+                "status": text_of(record.find(".//ns1:datafield[@tag='002@']/ns1:subfield[@code='0']", ns)),
+                "keywords": extract_gnd_keywords(record)
+            }
+            for record in recs
+        ]
+        
+        # Remove records that share the same ISBN
+        isbn_counts = defaultdict(int)
+        for rec_data in records_data:
+            if rec_data["isbn"]:
+                isbn_counts[rec_data["isbn"]] += 1
+        
+        filtered_records = [rec for rec in records_data if not rec["isbn"] or isbn_counts[rec["isbn"]] == 1]
+        
+        if filtered_records:
+            output_data.append({
+                "author": author,
+                "title": title,
+                "subtitle": subtitle,  
+                "count": len(filtered_records),
+                "records": filtered_records
+            })
+
+    total_duplicate_records = sum(len(group["records"]) for group in output_data)
+    print(f"Found {len(output_data)} duplicate groups with same author and title after filtering out records with the same ISBNs:")
+    print(f"Total duplicate records: {total_duplicate_records}\n")
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as out:
         json.dump(output_data, out, ensure_ascii=False, indent=2)
 
-    print(f"Saved duplicate groups to {OUTPUT_FILE}")
+    print(f"Saved duplicate groups to {OUTPUT_FILE} (same ISBNs filtered out)")
