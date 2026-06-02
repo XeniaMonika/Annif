@@ -32,8 +32,8 @@ for record in root:
     author_first_name = text_of(record.find(".//ns1:datafield[@tag='028A']/ns1:subfield[@code='D']", ns)) or text_of(record.find(".//ns1:datafield[@tag='028C']/ns1:subfield[@code='D']", ns))
     author_last_name = text_of(record.find(".//ns1:datafield[@tag='028A']/ns1:subfield[@code='A']", ns)) or text_of(record.find(".//ns1:datafield[@tag='028C']/ns1:subfield[@code='A']", ns))
     isbn = text_of(record.find(".//ns1:datafield[@tag='004A']/ns1:subfield[@code='0']", ns)) or ""
-    author = f"{author_last_name}, {author_first_name}" 
-    if title and author:
+    author = f"{author_last_name}, {author_first_name}"
+    if title and author and isbn:
         records_by_author_title_isbn[(author, title, subtitle, isbn)].append(record)
 
 # Keep only groups with duplicates
@@ -81,3 +81,4 @@ else:
         json.dump(output_data, out, ensure_ascii=False, indent=2)
 
     print(f"Saved duplicate groups to {OUTPUT_FILE}")
+    

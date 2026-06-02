@@ -50,8 +50,11 @@ pica_titles = set(extract_titles(dataset_2_data))
 
 same_titles = marc_titles & pica_titles
 all_titles = marc_titles | pica_titles
+ten_first_same_titles = list(same_titles)[:10]
+
 
 different_titles = all_titles - same_titles
 
 print(f"Same titles: {len(same_titles)}")
 print(f"Different titles: {len(different_titles)}")
+print(f"First 10 same titles: {ten_first_same_titles}")
