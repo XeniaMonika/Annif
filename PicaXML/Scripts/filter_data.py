@@ -42,10 +42,14 @@ with open(output_file, "w", encoding="utf-8") as out:
                 for datafield in record.findall(".//ns1:datafield", ns)
             )
             if has_gnd:
+                #remove @ from titles
+                for datafield in record.findall(".//ns1:datafield[@tag='021A']", ns):
+                    for subfield in datafield.findall("ns1:subfield[@code='a']", ns):
+                        subfield.text = re.sub(r"@", "", subfield.text or "")
                 out.write(ET.tostring(record, encoding="unicode") + "\n")
                 count += 1
-                total_count += 1
-        
+                total_count += 1     
+    
             
 
         print(f"Added {count} records from {folder}")
