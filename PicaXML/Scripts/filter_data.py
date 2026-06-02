@@ -46,6 +46,10 @@ with open(output_file, "w", encoding="utf-8") as out:
                 for datafield in record.findall(".//ns1:datafield[@tag='021A']", ns):
                     for subfield in datafield.findall("ns1:subfield[@code='a']", ns):
                         subfield.text = re.sub(r"@", "", subfield.text or "")
+                #remove - from isbn
+                for datafield in record.findall(".//ns1:datafield[@tag='004A']", ns):
+                    for subfield in datafield.findall("ns1:subfield[@code='0']", ns):
+                        subfield.text = re.sub(r"-", "", subfield.text or "")
                 out.write(ET.tostring(record, encoding="unicode") + "\n")
                 count += 1
                 total_count += 1     
