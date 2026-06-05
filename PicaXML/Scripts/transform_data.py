@@ -5,13 +5,12 @@ from collections import defaultdict
 
 # 1. Basic setup and parsing
 INPUT_FILE ="./PicaXML/Data/Spanish/data_gnd.xml"
-OUTPUT_FILE = "./PicaXML/Data/Spanish/Corpus.jsonl"
+OUTPUT_FILE = "./PicaXML/Data/Spanish/corpus.jsonl"
 NS1 = "info:srw/schema/5/picaXML-v1.0"
 ns= {"ns1": NS1}
 
 tree = ET.parse(INPUT_FILE)
 root = tree.getroot()
-count = 0
 
 # 2. Helper functions
 def text_of(element):
@@ -102,15 +101,6 @@ for record in root:
 
 remove_records([record for recs in records_by_author_title.values() for record in recs if len(recs) > 1], root)
 
-# Print titles of groups in records_by_author_title_isbn
-'''
-print("Titles in records_by_author_title_isbn:")
-for (author, title_full, isbn), recs in records_by_author_title_isbn.items():
-    if len(recs) > 1:
-        if title_full:
-            print(title_full)
-            print("_____________")
-'''
 
 # 5. Transform duplicates 
 for (author, title_full), recs in list(records_by_author_title.items()):
