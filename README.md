@@ -39,19 +39,18 @@ python Scripts/get_gnd_subset.py
 
 This script reads `data.xml` from each source folder, keeps only records with `044K`, and writes the output to `Data/data_gnd.xml`.
 
-## Finding duplicate records
+## Transform data 
 
-To find duplicate records that share the same author and title run `find_duplicates_author_title.py` from the repo root. In order to find records that also share the same ISBN run `find_duplicates_author_title_isbn.py`
+To transform the data from PICAXML to a format requested by Annif (here JSON Lines), run `transform_data.py` from the repo root. The file not only extracts the needed metadata from the XML structure, but also handles duplicate cases by merging titles with the same author, title, ISBN number and/or bibliographic level, or taking titles with the bigger amount of keywords when the bibliographic level of same-title records differ. The ready corpus in JSON Lines format is then saved as `corpus.jsonl` in the `data` folder.
+
 
 ```bash
-python Scripts/find_duplicates_author_title_isbn.py
+python Scripts/trasform_data.py
 ```
 
-The scripts print duplicate groups to the console and saves duplicate metadata to:
+## Inspect the corpus
+In order to get an overview about the composition of the corpus run `get_stats.py`. This script provides information about the size of the corpus, the amount of abstracts, TOC present in the data, the length of titles, as well as about the distribution of keywords in the corpus. The results are then saved in the `corpus_stats.md` file.
 
-- `Data/Spanish_xml/duplicates_author_title.json`
-or
-- `Data/Spanish_xml/duplicates_author_title_isbn.json`
-
-Use that JSON file to inspect duplicate records.
-
+```bash
+python Scripts/get_stats.py
+```
