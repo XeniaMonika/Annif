@@ -7,9 +7,9 @@ from requests.exceptions import ChunkedEncodingError, ConnectionError
 
 BASE_URL = "https://sru.k10plus.de/opac-de-627"
 QUERY = "pica.spr=spa"
-OUTPUT_FOLDER = "./PicaXML/Data/Spanish_ALL"
+OUTPUT_FOLDER = "./Data/Spanish_ALL"
 OUTPUT_FILE = "data_raw.xml"
-PROGRESS_FILE = "./PicaXML/Data/Spanish_ALL/progress.txt"
+PROGRESS_FILE = "./Data/Spanish_ALL/progress.txt"
 CHUNK_SIZE = 100
 REQUEST_DELAY = 2.0  # increased slightly to be gentler on the server
 MAX_RETRIES = 5

@@ -3,14 +3,14 @@ import os
 import re
 
 folders = [
-    "./PicaXML/Data/Spanish/lsy_ni",
-    "./PicaXML/Data/Spanish/lsy_ro",
-    "./PicaXML/Data/Spanish/lsy_ip",
-    "./PicaXML/Data/Spanish/ssg_7_34",
-    "./PicaXML/Data/Spanish/sfk_fid_rom"
+    "./Data/Spanish_FID/lsy_ni",
+    "./Data/Spanish_FID/lsy_ro",
+    "./Data/Spanish_FID/lsy_ip",
+    "./Data/Spanish_FID/ssg_7_34",
+    "./Data/Spanish_FID/sfk_fid_rom"
 ]
 
-output_folder = "./PicaXML/Data/Spanish"
+output_folder = "./PicaXML/Data/Spanish_FID"
 output_file = os.path.join(output_folder, "data_gnd.xml")
 os.makedirs(output_folder, exist_ok=True)
 

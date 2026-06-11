@@ -1,8 +1,8 @@
 import os
 import xml.etree.ElementTree as ET
 
-path_pica = "C:\\Users\\kudelamo\\Projects\\Annif\\PicaXML\\Data\\Spanish\\data_gnd.xml"
-path_marc = "C:\\Users\\kudelamo\\Projects\\Annif\\MarcXML\\Data\\Spanish\\data_689.xml"
+path_pica = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\data_gnd.xml"
+path_marc = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\data_689.xml"
 
 
 def read_ppns_marc(filename, target_tag):

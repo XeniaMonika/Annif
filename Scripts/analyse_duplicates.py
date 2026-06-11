@@ -1,7 +1,7 @@
 import json
 
-dataset_1 = "C:\\Users\\kudelamo\\Projects\\Annif\\PicaXML\\Data\\Spanish\\duplicates_author_title_isbn.json"
-dataset_2 = "C:\\Users\\kudelamo\\Projects\\Annif\\PicaXML\\Data\\Spanish\\duplicates_author_title.json"
+dataset_1 = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\duplicates_author_title_isbn.json"
+dataset_2 = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\duplicates_author_title.json"
 
 
 # Comapre th length of the isbn files fpr pica and marc

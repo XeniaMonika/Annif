@@ -6,15 +6,15 @@ import os
 
 BASE_URL_Hamburg = "https://sru.k10plus.de/opac-de-18"
 QUERIES_Hamburg = {
-    "./PicaXML/Data/Spanish/lsy_ni": "pica.lsy=ni????? and pica.spr=spa not pica.lsy=ip????? not pica.lsy=ro????? not pica.ssg=7,34",
-    "./PicaXML/Data/Spanish/lsy_ro": "pica.lsy=ro????? and pica.spr=spa not pica.lsy=ip????? not pica.lsy=ni????? not pica.ssg=7,34",
-    "./PicaXML/Data/Spanish/lsy_ip": "pica.lsy=ip????? and pica.spr=spa not pica.lsy=ro????? not pica.lsy=ni????? not pica.ssg=7,34"
+    "./Data/Spanish_FID/lsy_ni": "pica.lsy=ni????? and pica.spr=spa not pica.lsy=ip????? not pica.lsy=ro????? not pica.ssg=7,34",
+    "./Data/Spanish_FID/lsy_ro": "pica.lsy=ro????? and pica.spr=spa not pica.lsy=ip????? not pica.lsy=ni????? not pica.ssg=7,34",
+    "./Data/Spanish_FID/lsy_ip": "pica.lsy=ip????? and pica.spr=spa not pica.lsy=ro????? not pica.lsy=ni????? not pica.ssg=7,34"
 }
 
 BASE_URL_Verbundskatalog = "https://sru.k10plus.de/opac-de-627"
 QUERY_Verbundskatalog = {
-    "./PicaXML/Data/Spanish/ssg_7_34": "pica.ssg=7,34 and pica.spr=spa not pica.lsy=ip????? not pica.lsy=ni????? not pica.lsy=ro?????",
-    "./PicaXML/Data/Spanish/sfk_fid_rom": "pica.sfk=fid rom de-18 and pica.spr=spa not pica.ssg=7,34 not pica.lsy=ip????? not pica.lsy=ro????? not pica.lsy=ni?????"
+    "./Data/Spanish_FID/ssg_7_34": "pica.ssg=7,34 and pica.spr=spa not pica.lsy=ip????? not pica.lsy=ni????? not pica.lsy=ro?????",
+    "./Data/Spanish_FID/sfk_fid_rom": "pica.sfk=fid rom de-18 and pica.spr=spa not pica.ssg=7,34 not pica.lsy=ip????? not pica.lsy=ro????? not pica.lsy=ni?????"
 }
 
 CHUNK_SIZE = 100

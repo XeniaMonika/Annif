@@ -2,8 +2,8 @@ import json
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 
-INPUT_FILE = "./PicaXML/Data/Spanish/data_gnd.xml"
-OUTPUT_FILE = "./PicaXML/Data/Spanish/duplicates_author_title.json"
+INPUT_FILE = "./Data/Spanish_FID/data_gnd.xml"
+OUTPUT_FILE = "./Data/Spanish_FID/duplicates_author_title.json"
 NS1 = "info:srw/schema/5/picaXML-v1.0"
 ns= {"ns1": NS1}
 
