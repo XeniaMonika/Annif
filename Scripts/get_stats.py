@@ -2,7 +2,7 @@
 import json
 import xml.etree.ElementTree as ET
 from collections import Counter
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 path_data_raw = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\data_gnd.xml"
 path_data_ready = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\corpus.jsonl"
@@ -50,43 +50,6 @@ def subject_count_from_json(record):
 
     return 0
 
-def map_keywords_to_id(record):
-    """Return a list of unique keyword mappings as dicts: {'id': <id>, 'keyword': <text>}.
-
-    Duplicates (same tag and keyword) are removed while preserving order.
-    """
-    
-    mapped = []
-    seen = set()
-    for tag in ("044K", "041A"):
-        for datafield in record.findall(f".//ns1:datafield[@tag='{tag}']", ns):
-            subfield7 = datafield.find("ns1:subfield[@code='7']", ns)
-            if subfield7 is None:
-                continue
-
-            id_text = (subfield7.text or "").strip()
-            if not id_text:
-                continue
-
-            for subfield in datafield.findall("ns1:subfield", ns):
-                code = subfield.attrib.get("code")
-                if code not in ("a", "A"):
-                    continue
-
-                keyword_text = (subfield.text or "").strip()
-                if not keyword_text:
-                    continue
-
-                key = (id_text, keyword_text)
-                if key not in seen:
-                    seen.add(key)
-                    mapped.append({"id": id_text, "keyword": keyword_text})
-               
-   
-    return mapped
-
-
-
 
 
 tree = ET.parse(path_data_raw)
@@ -97,15 +60,9 @@ records = root.findall('.//record')
 if not records:
     records = list(root)
 
-mapped_keywords = []
-for record in records:
-    mapped_keywords.extend(map_keywords_to_id(record))
 
-
-
-print(f"Found {len(mapped_keywords)} mapped keywords in XML records")
-
-
+#WIP - analyze the distribution of keywords in the JSONL file and plot it, also print top 10 keywords with counts to a markdown file
+'''
 def keyword_distribution_from_jsonl(path_jsonl):
     keyword_counts = Counter()
     try:
@@ -158,3 +115,4 @@ if keyword_counts:
     print(f"Keyword frequency plot saved to: {plot_path}")
 else:
     print(f"No keywords found in {path_data_ready}")
+'''

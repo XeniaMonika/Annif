@@ -4,8 +4,8 @@ import xml.etree.ElementTree as ET
 from collections import defaultdict
 
 # 1. Basic setup and parsing
-INPUT_FILE ="./PicaXML/Data/Spanish/data_gnd.xml"
-OUTPUT_FILE = "./PicaXML/Data/Spanish/corpus.jsonl"
+INPUT_FILE = "./Data/Spanish_FID/data_gnd.xml"
+OUTPUT_FILE = "./Data/Spanish_FID/corpus.jsonl"
 NS1 = "info:srw/schema/5/picaXML-v1.0"
 ns= {"ns1": NS1}
 
