@@ -2,6 +2,7 @@
 import json
 import xml.etree.ElementTree as ET
 from collections import Counter
+import matplotlib.pyplot as plt
 
 path_data_raw = "C:\\Users\\kudelamo\\Projects\\Annif\\PicaXML\\Data\\Spanish\\data_gnd.xml"
 path_data_ready = "C:\\Users\\kudelamo\\Projects\\Annif\\PicaXML\\Data\\Spanish\\corpus.jsonl"
@@ -28,7 +29,7 @@ def record_has_text_in_html(record):
     for datafield in record.findall(".//ns1:datafield", ns):
         tag = datafield.attrib.get("tag")
         if tag == "017G":
-            # find subfield 7
+            # find subfield u
             sub_u = datafield.find("ns1:subfield[@code='u']", ns)
             if sub_u is not None and sub_u.text and (sub_u.text.endswith("html") or sub_u.text.endswith("htm")):
                 return True
@@ -49,6 +50,43 @@ def subject_count_from_json(record):
 
     return 0
 
+def map_keywords_to_id(record):
+    """Return a list of unique keyword mappings as dicts: {'id': <id>, 'keyword': <text>}.
+
+    Duplicates (same tag and keyword) are removed while preserving order.
+    """
+    
+    mapped = []
+    seen = set()
+    for tag in ("044K", "041A"):
+        for datafield in record.findall(f".//ns1:datafield[@tag='{tag}']", ns):
+            subfield7 = datafield.find("ns1:subfield[@code='7']", ns)
+            if subfield7 is None:
+                continue
+
+            id_text = (subfield7.text or "").strip()
+            if not id_text:
+                continue
+
+            for subfield in datafield.findall("ns1:subfield", ns):
+                code = subfield.attrib.get("code")
+                if code not in ("a", "A"):
+                    continue
+
+                keyword_text = (subfield.text or "").strip()
+                if not keyword_text:
+                    continue
+
+                key = (id_text, keyword_text)
+                if key not in seen:
+                    seen.add(key)
+                    mapped.append({"id": id_text, "keyword": keyword_text})
+               
+   
+    return mapped
+
+
+
 
 
 tree = ET.parse(path_data_raw)
@@ -59,62 +97,64 @@ records = root.findall('.//record')
 if not records:
     records = list(root)
 
-raw_records_count = len(records)
-abstracts_count = sum(1 for record in records if record_has_abstract(record))
-text_in_html_count = sum(1 for record in records if record_has_text_in_html(record))
-print(f"Records with 047I abstract: {abstracts_count} out of {len(records)}")
-print(f"Records with 017G text in HTML: {text_in_html_count} out of {len(records)}")
+mapped_keywords = []
+for record in records:
+    mapped_keywords.extend(map_keywords_to_id(record))
 
-subject_counts = Counter()
-titles_long = 0
-record_count = 0
-try:
-    with open(path_data_ready, "r", encoding="utf-8") as handle:
-        for line in handle:#
-            line = line.strip()
-            if not line:
-                continue
-            try:
-                record = json.loads(line)
-            except json.JSONDecodeError:
-                continue
-            subject_counts[subject_count_from_json(record)] += 1
-            record_count += 1
-            # Count titles with more than 25 characters
-            if isinstance(record, dict):
-                title = record.get("text", "")
-                if isinstance(title, str) and len(title) > 25:
-                    titles_long += 1
-except FileNotFoundError:
-    pass
 
-if subject_counts:
-    print("Subject counts per record:")
-    for count in sorted(subject_counts):
-        print(f"{count} subject(s): {subject_counts[count]}")
+
+print(f"Found {len(mapped_keywords)} mapped keywords in XML records")
+
+
+def keyword_distribution_from_jsonl(path_jsonl):
+    keyword_counts = Counter()
+    try:
+        with open(path_jsonl, "r", encoding="utf-8") as handle:
+            for line in handle:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    record = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                if not isinstance(record, dict):
+                    continue
+                for key, value in record.items():
+                    if "keyword" in key.lower() or "subject" in key.lower():
+                        if isinstance(value, list):
+                            for item in value:
+                                if isinstance(item, str) and item.strip():
+                                    keyword_counts[item.strip()] += 1
+                        elif isinstance(value, str) and value.strip():
+                            keyword_counts[value.strip()] += 1
+    except FileNotFoundError:
+        print(f"JSONL file not found: {path_jsonl}")
+        return Counter()
+
+    return keyword_counts
+
+
+plot_path = "C:\\Users\\kudelamo\\Projects\\Annif\\keyword_frequency_plot.png"
+keyword_counts = keyword_distribution_from_jsonl(path_data_ready)
+
+if keyword_counts:
+    counts = [count for _, count in keyword_counts.most_common()]
+    plt.figure(figsize=(10, 6))
+    plt.plot(range(1, len(counts) + 1), counts, marker="o", linewidth=1)
+    plt.title("Keyword Frequency Distribution")
+    plt.xlabel("Keyword rank (descending frequency)")
+    plt.ylabel("Frequency")
+    plt.grid(True, linestyle="--", alpha=0.5)
+    plt.tight_layout()
+    plt.savefig(plot_path, dpi=150)
+    plt.close()
+
+    print("Top 10 most frequent keywords:")
+    for keyword, count in keyword_counts.most_common(10):
+
+        
+        print(f"{keyword}: {count}")
+    print(f"Keyword frequency plot saved to: {plot_path}")
 else:
-    print(f"No subject counts available from {path_data_ready}")
-
-print(f"Titles with more than 25 characters: {titles_long}")
-
-
-
-with open(output_file, "w", encoding="utf-8") as f:
-    f.write("# Corpus Statistics\n\n")
-    f.write(f"**Raw records count:** {raw_records_count}\n\n")
-    f.write(f"**Records count after merging duplicates:** {record_count}\n\n")
-    f.write(f"**Records with 047I abstract:** {abstracts_count}\n\n")
-    f.write(f"**Records with 017G text in HTML:** {text_in_html_count}\n\n")
-    
-    if subject_counts:
-        f.write("## Subject counts per record:\n\n")
-        for count in sorted(subject_counts):
-            f.write(f"- {count} subject(s): {subject_counts[count]}\n")
-    else:
-        f.write(f"No subject counts available from {path_data_ready}\n\n")
-    
-    f.write(f"\n**Titles with more than 25 characters:** {titles_long}\n")
-
-print(f"Results written to {output_file}")
-print(f"Records with 047I abstract: {abstracts_count} out of {len(records)}")
-print(f"Records with 017G text in HTML: {text_in_html_count} out of {len(records)}")
+    print(f"No keywords found in {path_data_ready}")
