@@ -24,16 +24,34 @@ def record_has_abstract(record):
     return False
 
 # Count records with text-based catalog enrichment data available online
-def record_has_text_in_html(record):
-    # iterate over all datafields
+def record_has_text_online(record):
+    htmls = []
+    htms = []
+    pdfs = []
+    jpgs = []
     for datafield in record.findall(".//ns1:datafield", ns):
         tag = datafield.attrib.get("tag")
         if tag == "017G":
-            # find subfield u
             sub_u = datafield.find("ns1:subfield[@code='u']", ns)
-            if sub_u is not None and sub_u.text and (sub_u.text.endswith("html") or sub_u.text.endswith("htm")):
-                return True
-    return False
+            if sub_u is not None and sub_u.text and sub_u.text.endswith("html"):
+                sub_a = datafield.find("ns1:subfield[@code='A']", ns)
+                sub_kind = sub_a.text.strip() if sub_a is not None and sub_a.text and sub_a.text.strip() else "unknown"
+                htmls.append(sub_kind)
+            if sub_u is not None and sub_u.text and sub_u.text.endswith("htm"):
+                sub_3 = datafield.find("ns1:subfield[@code='3']", ns)
+                sub_kind = sub_3.text.strip() if sub_3 is not None and sub_3.text and sub_3.text.strip() else "unknown"
+                htms.append(sub_kind)
+            if sub_u is not None and sub_u.text and sub_u.text.endswith("pdf"):
+                sub_y_3 = datafield.find("ns1:subfield[@code='y']", ns)
+                if sub_y_3 is None:
+                    sub_y_3 = datafield.find("ns1:subfield[@code='3']", ns)
+                sub_kind = sub_y_3.text.strip() if sub_y_3 is not None and sub_y_3.text and sub_y_3.text.strip() else "unknown"
+                pdfs.append(sub_kind)
+            if sub_u is not None and sub_u.text and sub_u.text.endswith("jpg"):
+                sub_3 = datafield.find("ns1:subfield[@code='3']", ns)
+                sub_kind = sub_3.text.strip() if sub_3 is not None and sub_3.text and sub_3.text.strip() else "unknown"
+                jpgs.append(sub_kind)
+    return htmls, htms, pdfs, jpgs
 
 # Determine subject count in a JSON record
 def subject_count_from_json(record):
@@ -60,6 +78,106 @@ records = root.findall('.//record')
 if not records:
     records = list(root)
 
+# basic counts
+raw_records_count = len(records)
+
+all_htmls = []
+all_htms = []
+all_pdfs = []
+all_jpgs = []
+
+for record in records:
+    htmls, htms, pdfs, jpgs = record_has_text_online(record)
+    all_htmls.extend(htmls)
+    all_htms.extend(htms)
+    all_pdfs.extend(pdfs)
+    all_jpgs.extend(jpgs)
+
+html_counts = Counter(all_htmls)
+htm_counts = Counter(all_htms)
+pdf_counts = Counter(all_pdfs)
+jpg_counts = Counter(all_jpgs)
+
+html_total = len(all_htmls)
+htm_total = len(all_htms)
+pdf_total = len(all_pdfs)
+jpg_total = len(all_jpgs)
+print(f"Total records with HTML online: {html_total}")
+print(f"Total records with HTM online: {htm_total}")
+print(f"Total records with PDF online: {pdf_total}")
+print(f"Total records with JPG online: {jpg_total}")
+
+print(f"\nHTML resource kind frequencies: {dict(html_counts)}")
+print(f"HTM resource kind frequencies: {dict(htm_counts)}")
+print(f"PDF resource kind frequencies: {dict(pdf_counts)}")
+print(f"JPG resource kind frequencies: {dict(jpg_counts)}")
+
+# Count abstracts in XML records
+abstracts_count = 0
+for record in records:
+    if record_has_abstract(record):
+        abstracts_count += 1
+
+# Count merged records and subject distribution and long titles from JSONL
+subject_counts = Counter()
+titles_long = 0
+merged_count = 0
+try:
+    with open(path_data_ready, 'r', encoding='utf-8') as fh:
+        for line in fh:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                rec = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            merged_count += 1
+            sc = subject_count_from_json(rec)
+            subject_counts[sc] += 1
+            # find title fields
+            for k, v in rec.items():
+                if 'title' in k.lower() and isinstance(v, str):
+                    if len(v.strip()) > 25:
+                        titles_long += 1
+                    break
+except FileNotFoundError:
+    print(f"JSONL file not found: {path_data_ready}")
+
+# write markdown output
+with open(output_file, 'w', encoding='utf-8') as out:
+    out.write('# Corpus Statistics\n\n')
+    out.write(f'**Raw records count:** {raw_records_count}\n\n')
+    out.write(f'**Records count after merging duplicates:** {merged_count}\n\n')
+    out.write(f'**Records with 047I abstract:** {abstracts_count}\n\n')
+    out.write('**Online text resources**\n\n')
+    out.write(f'- Total records with HTML online: {html_total}\n')
+    out.write(f'- Total records with HTM online: {htm_total}\n')
+    out.write(f'- Total records with PDF online: {pdf_total}\n')
+    out.write(f'- Total records with JPG online: {jpg_total}\n\n')
+    out.write('**Resources in HTML format**\n\n')
+    for kind, count in html_counts.most_common():
+        out.write(f'- {kind}: {count}\n')
+    out.write('\n')
+    out.write('**Resources in HTM format**\n\n')
+    for kind, count in htm_counts.most_common():
+        out.write(f'- {kind}: {count}\n')
+    out.write('\n')
+    out.write('**Resources in PDF format**\n\n')
+    for kind, count in pdf_counts.most_common():
+        out.write(f'- {kind}: {count}\n')
+    out.write('\n')
+    out.write('**Resources in JPG format**\n\n')
+    for kind, count in jpg_counts.most_common():
+        out.write(f'- {kind}: {count}\n')
+    out.write('\n')
+    out.write('**Subject counts per record:**\n\n')
+    for sc, cnt in sorted(subject_counts.items()):
+        out.write(f'- {sc} subject(s): {cnt}\n')
+    out.write('\n')
+    out.write(f'**Titles with more than 25 characters:** {titles_long}\n')
+
+print(f"Wrote stats to: {output_file}")
 
 #WIP - analyze the distribution of keywords in the JSONL file and plot it, also print top 10 keywords with counts to a markdown file
 '''
