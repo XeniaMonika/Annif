@@ -72,4 +72,4 @@
 - 16 subject(s): 2
 - 17 subject(s): 1
 
-**Titles with more than 25 characters:** 0
+**Titles with more than 25 characters:** 22291

@@ -137,7 +137,7 @@ try:
             subject_counts[sc] += 1
             # find title fields
             for k, v in rec.items():
-                if 'title' in k.lower() and isinstance(v, str):
+                if 'text' in k.lower() and isinstance(v, str):
                     if len(v.strip()) > 25:
                         titles_long += 1
                     break
