@@ -28,21 +28,21 @@ for entry in data:
         diff_status_diff_keywords.append(entry)
 
 output_lines = []
-output_lines.append(f"Different keywords, same status: {len(same_status_diff_keywords)}")
+output_lines.append("## Different keywords, same status")
+output_lines.append(f"Total: {len(same_status_diff_keywords)}")
 for entry in same_status_diff_keywords:
     ppns = ", ".join(r["id"] for r in entry["records"])
-    output_lines.append(f"  {entry['author']} — {entry['title']}")
-    output_lines.append(f"  PPNs: {ppns}")
-    output_lines.append(f"  -----------------------------------")
+    output_lines.append(f"- **{entry['author']} — {entry['title']}**")
+    output_lines.append(f"  - PPNs: {ppns}")
 
 output_lines.append("\n")
 
-output_lines.append(f"Different keywords, different status: {len(diff_status_diff_keywords)}")
+output_lines.append("## Different keywords, different status")
+output_lines.append(f"Total: {len(diff_status_diff_keywords)}")
 for entry in diff_status_diff_keywords:
     ppns = ", ".join(r["id"] for r in entry["records"])
-    output_lines.append(f"  {entry['author']} — {entry['title']}")
-    output_lines.append(f"  PPNs: {ppns}")
-    output_lines.append(f"  -----------------------------------")
+    output_lines.append(f"- **{entry['author']} — {entry['title']}**")
+    output_lines.append(f"  - PPNs: {ppns}")
 
 output_text = "\n".join(output_lines)
 print(output_text)
