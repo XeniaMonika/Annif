@@ -6,8 +6,7 @@ input_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\data_gnd.
 output_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\mapped_keywords.json"
 
 # Map GND keywords to their IDs and text to make the analysis of keyword distribution human-readable
-def map_keywords_to_id(record):
-      
+def map_keywords_to_id(record):      
     mapped = []
     for tag in ("044K", "041A"):
         for datafield in record.findall(f".//ns1:datafield[@tag='{tag}']", ns):
@@ -28,9 +27,8 @@ def map_keywords_to_id(record):
                 if not keyword_text:
                     continue
 
-                key = (id_text, keyword_text)                
                 mapped.append({"id": id_text, "keyword": keyword_text})
-               
+                break                  
    
     return mapped
 

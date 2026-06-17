@@ -30,7 +30,7 @@ def map_keywords_to_id(record):
 
                 key = (id_text, keyword_text)                
                 mapped.append({"id": id_text, "keyword": keyword_text})
-               
+                break
    
     return mapped
 
