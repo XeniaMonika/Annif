@@ -20,8 +20,10 @@ def text_of(element):
 
 def extract_gnd_keywords(record):
     keywords = []
-    for tag in ("044K", "041A"):
+    for tag in ("044K", "041A", "044L"):
         for datafield in record.findall(f".//ns1:datafield[@tag='{tag}']", ns):
+            if tag == "044L" and datafield.find("ns1:subfield[@code='a']", ns) is None:
+                continue
             for subfield in datafield.findall("ns1:subfield[@code='7']", ns):
                 text = text_of(subfield)
                 if text:

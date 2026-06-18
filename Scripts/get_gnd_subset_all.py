@@ -23,9 +23,15 @@ with open(output_file, "w", encoding="utf-8") as out:
     for event, record in ET.iterparse(input_file, events=("end",)):
         if not record.tag.endswith("}record") and record.tag != "record":
             continue
+            
+
+        def has_044l_subfield_a_gnd(datafield, ns):
+            sf = datafield.find("ns1:subfield[@code='a']", ns)
+            return sf is not None and sf.text and sf.text.startswith("gnd")
 
         has_gnd = any(
-            (datafield.get("tag") == "044K" or datafield.get("tag") == "041A") and has_gnd_subfield(datafield, ns)
+            ((datafield.get("tag") == "044K" or datafield.get("tag") == "041A") and has_gnd_subfield(datafield, ns))
+            or (datafield.get("tag") == "044L" and has_044l_subfield_a_gnd(datafield, ns))
             for datafield in record.findall(".//ns1:datafield", ns)
         )
         if has_gnd:
