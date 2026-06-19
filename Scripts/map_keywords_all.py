@@ -1,4 +1,5 @@
 import json
+import re
 import xml.etree.ElementTree as ET
 from collections import Counter
 
@@ -6,18 +7,13 @@ input_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\data_gnd.
 output_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\mapped_keywords.json"
 
 # Map GND keywords to their IDs and text to make the analysis of keyword distribution human-readable
+
 def map_keywords_to_id(record):
-      
     mapped = []
-    for tag in ("044K", "041A"):
+    for tag in ("044K", "041A", "044L"):
         for datafield in record.findall(f".//ns1:datafield[@tag='{tag}']", ns):
             subfield7 = datafield.find("ns1:subfield[@code='7']", ns)
-            if subfield7 is None:
-                continue
-
-            id_text = (subfield7.text or "").strip()
-            if not id_text:
-                continue
+            id_text = (subfield7.text or "").strip() if subfield7 is not None else ""
 
             for subfield in datafield.findall("ns1:subfield", ns):
                 code = subfield.attrib.get("code")
@@ -28,10 +24,25 @@ def map_keywords_to_id(record):
                 if not keyword_text:
                     continue
 
-                key = (id_text, keyword_text)                
+                if not id_text and code == "A":
+                    match = re.search(r"\(([^)]+)\)\s*$", keyword_text)
+                    if match:
+                        candidate_id = match.group(1).strip()
+                        if candidate_id:
+                            id_text = candidate_id
+                            keyword_text = keyword_text[:match.start()].strip()
+                            if not keyword_text:
+                                continue
+
+                # If subfield is A, check for subfield D and fuse them as "A, D"
+                if code == "A":
+                    subfield_d = datafield.find("ns1:subfield[@code='D']", ns)
+                    if subfield_d is not None and subfield_d.text and subfield_d.text.strip():
+                        keyword_text = f"{keyword_text}, {subfield_d.text.strip()}"
+
                 mapped.append({"id": id_text, "keyword": keyword_text})
                 break
-   
+
     return mapped
 
 NS1 = "info:srw/schema/5/picaXML-v1.0"
