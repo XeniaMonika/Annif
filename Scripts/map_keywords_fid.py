@@ -6,15 +6,14 @@ input_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\data_gnd.
 output_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\mapped_keywords.json"
 
 # Map GND keywords to their IDs and text to make the analysis of keyword distribution human-readable
-def map_keywords_to_id(record):      
+def map_keywords_to_id(record):
     mapped = []
-    for tag in ("044K", "041A"):
+    for tag in ("044K", "041A", "044L"):
         for datafield in record.findall(f".//ns1:datafield[@tag='{tag}']", ns):
             subfield7 = datafield.find("ns1:subfield[@code='7']", ns)
-            if subfield7 is None:
-                continue
+            id_text = (subfield7.text or "").strip() if subfield7 is not None else ""
 
-            id_text = (subfield7.text or "").strip()
+            # Only proceed if subfield 7 is present and non-empty
             if not id_text:
                 continue
 
@@ -27,9 +26,15 @@ def map_keywords_to_id(record):
                 if not keyword_text:
                     continue
 
+                # If subfield is A, check for subfield D and fuse them as "A, D"
+                if code == "A":
+                    subfield_d = datafield.find("ns1:subfield[@code='D']", ns)
+                    if subfield_d is not None and subfield_d.text and subfield_d.text.strip():
+                        keyword_text = f"{keyword_text}, {subfield_d.text.strip()}"
+
                 mapped.append({"id": id_text, "keyword": keyword_text})
-                break                  
-   
+                break
+
     return mapped
 
 tree = ET.parse(input_file)
