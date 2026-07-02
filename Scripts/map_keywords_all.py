@@ -15,6 +15,10 @@ def map_keywords_to_id(record):
             subfield7 = datafield.find("ns1:subfield[@code='7']", ns)
             id_text = (subfield7.text or "").strip() if subfield7 is not None else ""
 
+            # Only proceed if subfield 7 is present and non-empty
+            if not id_text:
+                continue
+
             for subfield in datafield.findall("ns1:subfield", ns):
                 code = subfield.attrib.get("code")
                 if code not in ("a", "A"):
@@ -23,16 +27,6 @@ def map_keywords_to_id(record):
                 keyword_text = (subfield.text or "").strip()
                 if not keyword_text:
                     continue
-
-                if not id_text and code == "A":
-                    match = re.search(r"\(([^)]+)\)\s*$", keyword_text)
-                    if match:
-                        candidate_id = match.group(1).strip()
-                        if candidate_id:
-                            id_text = candidate_id
-                            keyword_text = keyword_text[:match.start()].strip()
-                            if not keyword_text:
-                                continue
 
                 # If subfield is A, check for subfield D and fuse them as "A, D"
                 if code == "A":
