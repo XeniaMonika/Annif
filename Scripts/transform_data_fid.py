@@ -118,15 +118,6 @@ def extract_gnd_keywords(record):
     return [item["id"] for item in map_keywords_to_id(record)]
 
 
-def get_level(record):
-    return text_of(record.find(".//ns1:datafield[@tag='002@']/ns1:subfield[@code='0']", ns))
-
-
-def get_isbn(record):
-    """Extract ISBN from record field 004A subfield 0"""
-    return text_of(record.find(".//ns1:datafield[@tag='004A']/ns1:subfield[@code='0']", ns))
-
-
 def change_ids_to_uris(keywords_set):
     """Convert GND IDs to URIs, e.g. gnd12345 -> https://d-nb.info/gnd/12345"""
     uris = set()
@@ -186,67 +177,9 @@ for record in root:
     if title_full and author:
         records_by_author_title[(author, title_full)].append(record)
 
+# 5. Drop duplicates entirely: any (author, title_full) group with more than
+# one record is removed from the tree and never written to corpus.jsonl.
 remove_records([record for recs in records_by_author_title.values() for record in recs if len(recs) > 1], root)
-
-
-# 5. Transform duplicates
-for (author, title_full), recs in list(records_by_author_title.items()):
-    if len(recs) <= 1:
-        continue
-    # 5.1. Transform duplicates with same author, title and ISBNs into records with subjects
-    records_by_isbn = defaultdict(list)
-    for record in recs:
-        isbn = get_isbn(record)
-        if isbn:
-            records_by_isbn[isbn].append(record)
-    for isbn, isbn_recs in records_by_isbn.items():
-        if len(isbn_recs) <= 1:
-            continue
-        keywords = set()
-        for record in isbn_recs:
-            keywords.update(extract_gnd_keywords(record))
-        keywords = change_ids_to_uris(keywords)
-        subjects = [{"uri": uri} for uri in sorted(keywords)]
-        output_record = {"text": title_full, "subjects": subjects}
-        write_record_to_file(output_record)
-        for record in isbn_recs:
-            records_by_author_title[(author, title_full)].remove(record)
-        if not records_by_author_title[(author, title_full)]:
-            del records_by_author_title[(author, title_full)]
-    # 5.2. Transform duplicates with same author and title and bibliographical level into records with subjects
-    records_by_level = defaultdict(list)
-    for record in recs:
-        level = get_level(record)
-        if level:
-            records_by_level[level].append(record)
-    for level, level_recs in records_by_level.items():
-        if len(level_recs) <= 1:
-            continue
-        keywords = set()
-        for record in level_recs:
-            keywords.update(extract_gnd_keywords(record))
-        keywords = change_ids_to_uris(keywords)
-        subjects = [{"uri": uri} for uri in sorted(keywords)]
-        output_record = {"text": title_full, "subjects": subjects}
-        write_record_to_file(output_record)
-        for record in level_recs:
-            records_by_author_title[(author, title_full)].remove(record)
-        if not records_by_author_title[(author, title_full)]:
-            del records_by_author_title[(author, title_full)]
-    # 5.3. From the remaining duplicates with same author and title, keep only the record with the most GND keywords and transform it into a record with subjects, remove the rest
-    best_record = None
-    max_keywords = 0
-    for record in recs:
-        keywords = set(extract_gnd_keywords(record))
-        if len(keywords) > max_keywords:
-            max_keywords = len(keywords)
-            best_record = record
-    if best_record is not None and max_keywords > 0:
-        keywords = set(extract_gnd_keywords(best_record))
-        keywords = change_ids_to_uris(keywords)
-        subjects = [{"uri": uri} for uri in sorted(keywords)]
-        output_record = {"text": title_full, "subjects": subjects}
-        write_record_to_file(output_record)
 
 
 # 6. Transform remaining non-duplicate records
