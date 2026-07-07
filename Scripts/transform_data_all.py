@@ -159,17 +159,7 @@ def write_record_to_file(record):
         out.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 
-# 3. Load output file if it exists (resume support)
-if os.path.exists(OUTPUT_FILE):
-    with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
-        for line in f:
-            try:
-                existing = json.loads(line)
-                if existing.get("text"):
-                    seen_titles.add(existing["text"])
-            except json.JSONDecodeError:
-                continue
-    print(f"Resuming — {len(seen_titles)} records already written")
+
 
 # 4. Extract data needed to identify duplicates
 
