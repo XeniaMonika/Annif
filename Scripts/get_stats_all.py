@@ -146,7 +146,7 @@ except FileNotFoundError:
 with open(output_file, 'w', encoding='utf-8') as out:
     out.write('# Corpus Statistics\n\n')
     out.write(f'**Raw records count:** {raw_records_count}\n\n')
-    out.write(f'**Records count after merging duplicates:** {merged_count}\n\n')
+    out.write(f'**Records count after removing duplicates:** {merged_count}\n\n')
     out.write(f'**Records with 047I abstract:** {abstracts_count}\n\n')
     out.write('**Online text resources**\n\n')
     out.write(f'- Total records with HTML online: {html_total}\n')
