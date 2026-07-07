@@ -1,14 +1,16 @@
 import os
 import xml.etree.ElementTree as ET
 
-root_folder = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\Split"
+root_folder_all = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\Split"
+fid_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\data_gnd.xml"
 PICA_NS = "info:srw/schema/5/picaXML-v1.0"
 
+        
 
 def iterate_xml_files(folder=None):
     """Yield full paths to .xml files in the given folder tree."""
     if folder is None:
-        folder = root_folder
+        folder = root_folder_all
 
     for dirpath, _, filenames in os.walk(folder):
         for filename in filenames:
@@ -23,8 +25,13 @@ def apply_to_xml_files(function, folder=None, *args, **kwargs):
 
 
 def count_tags_in_file(file_path, tags):
-    """Return a dict {tag: count_of_records_containing_tag} for one file."""
+    """Return a dict {tag: count_of_records_containing_tag} for one file.
+
+    The returned dict also contains the key 'file_path' with the path to the
+    file counted.
+    """
     counts = {tag: 0 for tag in tags}
+    counts['file_path'] = file_path
 
     try:
         tree = ET.parse(file_path)
@@ -97,6 +104,59 @@ def look_for_tags_with_A_and_D_subfields(tag, folder=None):
                     break
     return matches
 
-persons = look_for_tags_with_A_and_D_subfields("044L")
-print(persons)
-print(len(persons))
+#persons = look_for_tags_with_A_and_D_subfields("044L")
+#print(persons)
+#print(len(persons))
+
+
+def extract_045Q_texts(file_path):
+    """Extract text from 045Q tag under given conditions.
+    
+    - If subfield X is present, take that as text
+    - If no X, take all subfield j values separated by commas as string
+    - If neither X nor j exists, skip this tag
+    
+    Return a list of extracted texts with their frequencies.
+    """
+    from collections import Counter
+    
+    texts = []
+    
+    try:
+        root = ET.parse(file_path).getroot()
+    except ET.ParseError as e:
+        print(f"Parse error in {file_path}: {e}")
+        return []
+    
+    for record in root.findall(f'.//{{{PICA_NS}}}record'):
+        for datafield in record.findall(f'./{{{PICA_NS}}}datafield[@tag="045Q"]'):
+            # Check for subfield X
+            subfield_x = datafield.find(f'./{{{PICA_NS}}}subfield[@code="X"]')
+            if subfield_x is not None and subfield_x.text:
+                texts.append(subfield_x.text)
+            else:
+                # Look for all subfield j values
+                subfields_j = datafield.findall(f'./{{{PICA_NS}}}subfield[@code="j"]')
+                j_texts = [sf.text for sf in subfields_j if sf.text]
+                if j_texts:
+                    texts.append(','.join(j_texts))
+    
+    # Return texts with their frequencies
+    return Counter(texts)
+
+
+'''
+for file in os.listdir(root_folder):
+    if file.lower().endswith('.xml'):
+        file_path = os.path.join(root_folder, file)
+        counts = count_tags_in_file(file_path, ["045Q"])
+        print(f"{file}: {counts['045Q']}")
+'''
+
+#counts = count_tags_in_file(fid_file, ["045Q"])
+#print(counts['045Q'])
+
+domain_texts = extract_045Q_texts(fid_file)
+print(domain_texts)
+
+# Save this to a file!
