@@ -2,6 +2,7 @@ import os
 import xml.etree.ElementTree as ET
 
 root_folder_all = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\Split"
+root_folder_fid = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID"
 fid_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\data_gnd.xml"
 PICA_NS = "info:srw/schema/5/picaXML-v1.0"
 
@@ -109,40 +110,62 @@ def look_for_tags_with_A_and_D_subfields(tag, folder=None):
 #print(len(persons))
 
 
-def extract_045Q_texts(file_path):
-    """Extract text from 045Q tag under given conditions.
-    
+def extract_045Q_texts(folder_path):
+    """Process all .xml files in folder_path, extract 045Q texts and save domains.xml there.
+
+    Extraction rules:
     - If subfield X is present, take that as text
     - If no X, take all subfield j values separated by commas as string
     - If neither X nor j exists, skip this tag
-    
-    Return a list of extracted texts with their frequencies.
+
+    The function writes a file named domains.xml into folder_path containing counts
+    and returns the Counter.
     """
     from collections import Counter
-    
+    import json
+
     texts = []
-    
+
+    if not os.path.isdir(folder_path):
+        print(f"Not a folder: {folder_path}")
+        return Counter()
+
+    for filename in os.listdir(folder_path):
+        if not filename.lower().endswith('.xml'):
+            continue
+        file_path = os.path.join(folder_path, filename)
+        try:
+            root = ET.parse(file_path).getroot()
+        except ET.ParseError as e:
+            print(f"Parse error in {file_path}: {e}")
+            continue
+
+        for record in root.findall(f'.//{{{PICA_NS}}}record'):
+            for datafield in record.findall(f'./{{{PICA_NS}}}datafield[@tag="045Q"]'):
+                subfield_x = datafield.find(f'./{{{PICA_NS}}}subfield[@code="X"]')
+                if subfield_x is not None and subfield_x.text:
+                    texts.append(subfield_x.text)
+                else:
+                    subfields_j = datafield.findall(f'./{{{PICA_NS}}}subfield[@code="j"]')
+                    j_texts = [sf.text for sf in subfields_j if sf.text]
+                    if j_texts:
+                        texts.append(','.join(j_texts))
+
+    counts = Counter(texts)
+
+    # Build JSON output (list of {domain, count})
+    out_list = []
+    for text, cnt in counts.most_common():
+        out_list.append({"domain": text, "count": cnt})
+
+    out_path = os.path.join(folder_path, 'domains.json')
     try:
-        root = ET.parse(file_path).getroot()
-    except ET.ParseError as e:
-        print(f"Parse error in {file_path}: {e}")
-        return []
-    
-    for record in root.findall(f'.//{{{PICA_NS}}}record'):
-        for datafield in record.findall(f'./{{{PICA_NS}}}datafield[@tag="045Q"]'):
-            # Check for subfield X
-            subfield_x = datafield.find(f'./{{{PICA_NS}}}subfield[@code="X"]')
-            if subfield_x is not None and subfield_x.text:
-                texts.append(subfield_x.text)
-            else:
-                # Look for all subfield j values
-                subfields_j = datafield.findall(f'./{{{PICA_NS}}}subfield[@code="j"]')
-                j_texts = [sf.text for sf in subfields_j if sf.text]
-                if j_texts:
-                    texts.append(','.join(j_texts))
-    
-    # Return texts with their frequencies
-    return Counter(texts)
+        with open(out_path, 'w', encoding='utf-8') as f:
+            json.dump(out_list, f, ensure_ascii=False, indent=2)
+    except OSError as e:
+        print(f"Could not write output file {out_path}: {e}")
+
+    return counts
 
 
 '''
@@ -156,7 +179,7 @@ for file in os.listdir(root_folder):
 #counts = count_tags_in_file(fid_file, ["045Q"])
 #print(counts['045Q'])
 
-domain_texts = extract_045Q_texts(fid_file)
+domain_texts = extract_045Q_texts(root_folder_all)
 print(domain_texts)
 
 # Save this to a file!
