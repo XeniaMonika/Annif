@@ -2,7 +2,7 @@
 
 **Raw records count:** 219442
 
-**Records count after removing duplicates:** 77091
+**Records count after merging duplicates:** 199402
 
 **Records with 047I abstract:** 10431
 
@@ -90,32 +90,34 @@
 
 **Subject counts per record:**
 
-- 0 subject(s): 825
-- 1 subject(s): 15788
-- 2 subject(s): 19061
-- 3 subject(s): 16834
-- 4 subject(s): 11389
-- 5 subject(s): 6465
-- 6 subject(s): 3245
-- 7 subject(s): 1562
-- 8 subject(s): 760
-- 9 subject(s): 436
-- 10 subject(s): 230
-- 11 subject(s): 175
-- 12 subject(s): 84
-- 13 subject(s): 69
-- 14 subject(s): 42
-- 15 subject(s): 26
-- 16 subject(s): 25
-- 17 subject(s): 14
-- 18 subject(s): 27
-- 19 subject(s): 9
-- 20 subject(s): 13
-- 21 subject(s): 1
-- 22 subject(s): 5
-- 23 subject(s): 3
+- 1 subject(s): 43932
+- 2 subject(s): 56670
+- 3 subject(s): 45381
+- 4 subject(s): 26286
+- 5 subject(s): 13756
+- 6 subject(s): 6450
+- 7 subject(s): 3086
+- 8 subject(s): 1505
+- 9 subject(s): 854
+- 10 subject(s): 472
+- 11 subject(s): 337
+- 12 subject(s): 201
+- 13 subject(s): 138
+- 14 subject(s): 90
+- 15 subject(s): 65
+- 16 subject(s): 55
+- 17 subject(s): 32
+- 18 subject(s): 36
+- 19 subject(s): 21
+- 20 subject(s): 11
+- 21 subject(s): 4
+- 22 subject(s): 6
+- 23 subject(s): 1
+- 24 subject(s): 7
 - 26 subject(s): 1
-- 33 subject(s): 1
+- 28 subject(s): 1
+- 31 subject(s): 1
+- 32 subject(s): 2
 - 37 subject(s): 1
 
-**Titles with more than 25 characters:** 67726
+**Titles with more than 25 characters:** 174665
