@@ -1,5 +1,7 @@
 import os
 import xml.etree.ElementTree as ET
+from collections import Counter
+import json
 
 root_folder_all = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\Split"
 root_folder_fid = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID"
@@ -121,9 +123,7 @@ def extract_045Q_texts(folder_path):
     The function writes a file named domains.xml into folder_path containing counts
     and returns the Counter.
     """
-    from collections import Counter
-    import json
-
+   
     texts = []
 
     if not os.path.isdir(folder_path):
