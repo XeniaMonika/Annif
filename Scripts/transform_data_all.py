@@ -1,16 +1,15 @@
 import json
-import os
+import re
 import xml.etree.ElementTree as ET
-from collections import defaultdict
+from pathlib import Path
 
 # 1. Basic setup and parsing
-INPUT_FILE = "./Data/Spanish_ALL/data_gnd.xml"
+INPUT_FOLDER = "./Data/Spanish_ALL/Split"
 OUTPUT_FILE = "./Data/Spanish_ALL/corpus.jsonl"
 NS1 = "info:srw/schema/5/picaXML-v1.0"
 ns = {"ns1": NS1}
 
-tree = ET.parse(INPUT_FILE)
-root = tree.getroot()
+CLEAN_FILE_PATTERN = re.compile(r"_clean\.xml$", re.IGNORECASE)
 
 # 1a. Form/genre labels to exclude when they show up as GND keywords
 forms_to_exclude = [
@@ -119,7 +118,6 @@ def extract_gnd_keywords(record):
     return [item["id"] for item in map_keywords_to_id(record)]
 
 
-
 def change_ids_to_uris(keywords_set):
     uris = set()
     for keyword in keywords_set:
@@ -131,72 +129,71 @@ def change_ids_to_uris(keywords_set):
     return uris
 
 
-def remove_records(records, parent):
-    """Remove a list of records from the specified parent element."""
-    for record in records:
-        try:
-            parent.remove(record)
-        except ValueError:
-            pass
+# 3. Streaming helpers
+#
+# ET.parse() loads the whole file into memory as a DOM, which is what was
+# blowing up memory on 2GB+ files. iterparse() + elem.clear() below
+# processes one record at a time, so peak memory is roughly O(one record)
+# instead of O(file size).
 
 
-def write_record_to_file(record):
-    """Write a single record as a JSON line to the output file if not already present."""
-    title = record.get("text")
-    if title is None:
-        return
-    if os.path.exists(OUTPUT_FILE):
-        with open(OUTPUT_FILE, "r", encoding="utf-8") as out:
-            for line in out:
-                try:
-                    existing = json.loads(line)
-                except json.JSONDecodeError:
-                    continue
-                # if an existing record has the same title, do not add
-                if existing.get("text") == title:
-                    return
-    with open(OUTPUT_FILE, "a", encoding="utf-8") as out:
-        out.write(json.dumps(record, ensure_ascii=False) + "\n")
+def _clean_files(folder_path):
+    folder = Path(folder_path)
+    return sorted(p for p in folder.iterdir() if p.is_file() and CLEAN_FILE_PATTERN.search(p.name))
 
 
+def _iter_records(file_obj):
+    depth = 0
+    for event, elem in ET.iterparse(file_obj, events=("start", "end")):
+        if event == "start":
+            depth += 1
+        else:
+            depth -= 1
+            if depth == 1:  # direct child of the root == one record
+                yield elem
+                elem.clear()
 
 
-# 4. Extract data needed to identify duplicates
+def process_file(xml_file, out_handle):
+    """
+    Single streaming pass: the *_clean.xml files are already deduplicated
+    upstream, so every record is transformed as-is — no duplicate-group
+    detection or cross-file title tracking needed anymore. Records with no
+    GND subjects at all are dropped, since a title with an empty subjects
+    list isn't useful training/indexing data.
+    """
+    kept = skipped_no_subjects = 0
 
-records_by_author_title = defaultdict(list)
+    with open(xml_file, "rb") as f:
+        for record in _iter_records(f):
+            title = text_of(record.find(".//ns1:datafield[@tag='021A']/ns1:subfield[@code='a']", ns))
+            subtitle = text_of(record.find(".//ns1:datafield[@tag='021A']/ns1:subfield[@code='d']", ns)) or ""
+            title_full = f"{title} : {subtitle}" if subtitle else title
 
-for record in root:
-    title = text_of(record.find(".//ns1:datafield[@tag='021A']/ns1:subfield[@code='a']", ns))
-    subtitle = text_of(record.find(".//ns1:datafield[@tag='021A']/ns1:subfield[@code='d']", ns)) or ""
-    author_first_name = text_of(record.find(".//ns1:datafield[@tag='028A']/ns1:subfield[@code='D']", ns)) or text_of(record.find(".//ns1:datafield[@tag='028C']/ns1:subfield[@code='D']", ns))
-    author_last_name = text_of(record.find(".//ns1:datafield[@tag='028A']/ns1:subfield[@code='A']", ns)) or text_of(record.find(".//ns1:datafield[@tag='028C']/ns1:subfield[@code='A']", ns))
-    isbn = text_of(record.find(".//ns1:datafield[@tag='004A']/ns1:subfield[@code='0']", ns)) or ""
-    status = text_of(record.find(".//ns1:datafield[@tag='002@']/ns1:subfield[@code='0']", ns))
-    author = f"{author_last_name}, {author_first_name}"
-    if subtitle:
-        title_full = f"{title} : {subtitle}"
+            if not title_full:
+                continue
+
+            keywords = set(extract_gnd_keywords(record))
+            keywords = change_ids_to_uris(keywords)
+            subjects = [{"uri": uri} for uri in sorted(keywords)]
+
+            if not subjects:
+                skipped_no_subjects += 1
+                continue
+
+            output_record = {"text": title_full, "subjects": subjects}
+
+            out_handle.write(json.dumps(output_record, ensure_ascii=False) + "\n")
+            kept += 1
+
+    print(f"{xml_file.name}: wrote {kept} records, skipped {skipped_no_subjects} with no subjects")
+
+
+if __name__ == "__main__":
+    xml_files = _clean_files(INPUT_FOLDER)
+    if not xml_files:
+        print(f"No *_clean.xml files found in {INPUT_FOLDER}")
     else:
-        title_full = title
-    if title_full and author:
-        records_by_author_title[(author, title_full)].append(record)
-
-# 5. Drop duplicates entirely: any (author, title_full) group with more than
-# one record is removed from the tree and never written to corpus.jsonl.
-remove_records([record for recs in records_by_author_title.values() for record in recs if len(recs) > 1], root)
-
-
-
-
-# 6. Transform remaining non-duplicate records
-for record in root:
-    title = text_of(record.find(".//ns1:datafield[@tag='021A']/ns1:subfield[@code='a']", ns))
-    subtitle = text_of(record.find(".//ns1:datafield[@tag='021A']/ns1:subfield[@code='d']", ns)) or ""
-    if subtitle:
-        title_full = f"{title} : {subtitle}"
-    else:
-        title_full = title
-    keywords = set(extract_gnd_keywords(record))
-    keywords = change_ids_to_uris(keywords)
-    subjects = [{"uri": uri} for uri in sorted(keywords)]
-    output_record = {"text": title_full, "subjects": subjects}
-    write_record_to_file(output_record)
+        with open(OUTPUT_FILE, "a", encoding="utf-8") as out_handle:
+            for xml_file in xml_files:
+                process_file(xml_file, out_handle)

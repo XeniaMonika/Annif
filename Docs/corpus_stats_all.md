@@ -1,77 +1,64 @@
 # Corpus Statistics
 
-**Raw records count:** 219442
+**Raw records count:** 109598
 
-**Records count after removing duplicates:** 77091
+**Records count after removing duplicates:** 103013
 
-**Records with 047I abstract:** 10431
+**Records with 047I abstract:** 6681
 
 **Online text resources**
 
-- Total records with HTML online: 4565
-- Total records with HTM online: 18392
-- Total records with PDF online: 68059
-- Total records with JPG online: 18780
+- Total records with HTML online: 3902
+- Total records with HTM online: 7085
+- Total records with PDF online: 55044
+- Total records with JPG online: 13869
 
 **Resources in HTML format**
 
-- LOC: 4323
-- unknown: 208
-- DNB: 34
+- LOC: 3745
+- unknown: 138
+- DNB: 19
 
 **Resources in HTM format**
 
-- Inhaltsverzeichnis: 14281
-- Inhaltstext: 2784
-- Klappentext: 900
-- Literaturverzeichnis: 273
-- Ausführliche Beschreibung: 63
-- Rezension: 62
+- Inhaltsverzeichnis: 5068
+- Inhaltstext: 1698
+- Klappentext: 171
+- Ausführliche Beschreibung: 57
+- Literaturverzeichnis: 39
+- Rezension: 38
 - Abstract: 5
-- Umschlagbild: 4
-- Einführung/Vorwort: 3
+- Umschlagbild: 3
 - Kurzbeschreibung: 2
-- Ausfuehrliche Beschreibung: 2
-- Kapitel 1: 2
-- Rezension zur Mikroform: 2
-- Cover: 1
+- Ausfuehrliche Beschreibung: 1
 - 99: 1
 - Beschreibung für Leser: 1
-- Kapitel 2: 1
-- Kapitel 4: 1
-- Kapitel 5: 1
-- Kapitel 6: 1
 - Rezension zur 2. Auflage 1986: 1
-- Rezension zu Teil 1 und 2: 1
 
 **Resources in PDF format**
 
-- Inhaltsverzeichnis: 67174
-- Klappentext: 211
-- Unbekannt: 132
-- 99: 120
-- TOC: 109
-- Einführung/Vorwort: 104
-- Rezension: 82
-- Rezension (FAZ): 40
-- unknown: 26
-- Inhaltstext: 23
-- Cover: 6
-- Auszug: 6
-- Titelblatt und Inhaltsverzeichnis: 3
+- Inhaltsverzeichnis: 54388
+- Klappentext: 175
+- Unbekannt: 113
+- 99: 95
+- Einführung/Vorwort: 75
+- TOC: 75
+- Rezension: 46
+- Rezension (FAZ): 18
+- Inhaltstext: 18
+- unknown: 16
+- Auszug: 3
+- Cover: 3
 - Full text: 2
-- Umschlagbild: 2
 - Leseprobe: 2
 - 04: 2
 - Verlagsinformation: 2
-- Broschure: 1
-- Exhibition brochure: 1
-- INhatlsverzeichnis: 1
+- Titelblatt und Inhaltsverzeichnis: 1
 - Inhaltsverzeichnis$304: 1
-- Presentación: 1
 - Inhalts usverzeichnis: 1
 - 80: 1
 - Covers, contents, introduction: 1
+- Umschlagbild: 1
 - Online-Broschüre, französisch: 1
 - Online-Broschüre, englisch: 1
 - Online-Broschüre, deutsch: 1
@@ -80,42 +67,39 @@
 
 **Resources in JPG format**
 
-- Cover: 18763
-- unknown: 7
-- Unbekannt: 6
+- Cover: 13864
 - Thumbnail image of item: 1
 - cover: 1
-- 99: 1
+- unknown: 1
+- Unbekannt: 1
 - Objektabbildung: 1
 
 **Subject counts per record:**
 
-- 0 subject(s): 825
-- 1 subject(s): 15788
-- 2 subject(s): 19061
-- 3 subject(s): 16834
-- 4 subject(s): 11389
-- 5 subject(s): 6465
-- 6 subject(s): 3245
-- 7 subject(s): 1562
-- 8 subject(s): 760
-- 9 subject(s): 436
-- 10 subject(s): 230
-- 11 subject(s): 175
-- 12 subject(s): 84
+- 1 subject(s): 24395
+- 2 subject(s): 27750
+- 3 subject(s): 21733
+- 4 subject(s): 14381
+- 5 subject(s): 7638
+- 6 subject(s): 3589
+- 7 subject(s): 1652
+- 8 subject(s): 758
+- 9 subject(s): 377
+- 10 subject(s): 232
+- 11 subject(s): 161
+- 12 subject(s): 100
 - 13 subject(s): 69
-- 14 subject(s): 42
-- 15 subject(s): 26
-- 16 subject(s): 25
-- 17 subject(s): 14
-- 18 subject(s): 27
-- 19 subject(s): 9
-- 20 subject(s): 13
+- 14 subject(s): 52
+- 15 subject(s): 33
+- 16 subject(s): 28
+- 17 subject(s): 20
+- 18 subject(s): 10
+- 19 subject(s): 15
+- 20 subject(s): 11
 - 21 subject(s): 1
-- 22 subject(s): 5
-- 23 subject(s): 3
-- 26 subject(s): 1
-- 33 subject(s): 1
+- 22 subject(s): 4
+- 23 subject(s): 2
+- 24 subject(s): 1
 - 37 subject(s): 1
 
-**Titles with more than 25 characters:** 67726
+**Titles with more than 25 characters:** 89918

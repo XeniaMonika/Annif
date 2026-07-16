@@ -2,9 +2,19 @@ import json
 import re
 import xml.etree.ElementTree as ET
 from collections import Counter
+from pathlib import Path
 
-input_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\data_gnd.xml"
+INPUT_FOLDER = "./Data/Spanish_ALL/Split"
 output_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\mapped_keywords.json"
+
+CLEAN_FILE_PATTERN = re.compile(r"_clean\.xml$", re.IGNORECASE)
+
+
+def _clean_files(folder_path):
+    folder = Path(folder_path)
+    return sorted(p for p in folder.iterdir() if p.is_file() and CLEAN_FILE_PATTERN.search(p.name))
+
+
 forms_to_exclude = [
     "Autobiografie",
     "Bibliografie",
@@ -229,10 +239,11 @@ NS1 = "info:srw/schema/5/picaXML-v1.0"
 ns = {"ns1": NS1}
 mapped_keywords = []
 
-for event, elem in ET.iterparse(input_file, events=("end",)):
-    if elem.tag.endswith("}record") or elem.tag == "record":
-        mapped_keywords.extend(map_keywords_to_id(elem))
-        elem.clear()
+for xml_file in _clean_files(INPUT_FOLDER):
+    for event, elem in ET.iterparse(xml_file, events=("end",)):
+        if elem.tag.endswith("}record") or elem.tag == "record":
+            mapped_keywords.extend(map_keywords_to_id(elem))
+            elem.clear()
 
 print(mapped_keywords[0:10])
 print(f"Found {len(mapped_keywords)} mapped keywords in XML records")

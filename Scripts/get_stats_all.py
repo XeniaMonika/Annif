@@ -1,12 +1,21 @@
-
 import json
+import re
 import xml.etree.ElementTree as ET
 from collections import Counter
+from pathlib import Path
 #import matplotlib.pyplot as plt
 
-path_data_raw = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\data_gnd.xml"
+INPUT_FOLDER = "./Data/Spanish_ALL/Split"
 path_data_ready = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\corpus.jsonl"
 output_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Docs\\corpus_stats_all.md"
+
+CLEAN_FILE_PATTERN = re.compile(r"_clean\.xml$", re.IGNORECASE)
+
+
+def _clean_files(folder_path):
+    folder = Path(folder_path)
+    return sorted(p for p in folder.iterdir() if p.is_file() and CLEAN_FILE_PATTERN.search(p.name))
+
 
 # Count records with abstracts in the data structure
 def record_has_abstract(record):
@@ -73,9 +82,10 @@ def subject_count_from_json(record):
 NS1 = "info:srw/schema/5/picaXML-v1.0"
 ns = {"ns1": NS1}
 records = []
-for event, elem in ET.iterparse(path_data_raw, events=("end",)):
-    if elem.tag.endswith("}record") or elem.tag == "record":
-        records.append(elem)
+for xml_file in _clean_files(INPUT_FOLDER):
+    for event, elem in ET.iterparse(xml_file, events=("end",)):
+        if elem.tag.endswith("}record") or elem.tag == "record":
+            records.append(elem)
 # basic counts
 raw_records_count = len(records)
 
