@@ -2,7 +2,7 @@ import json
 import xml.etree.ElementTree as ET
 from collections import Counter
 
-input_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\data_gnd.xml"
+input_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\data_gnd_clean.xml"
 output_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\mapped_keywords.json"
 forms_to_exclude = [
     "Autobiografie",

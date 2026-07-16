@@ -1,31 +1,31 @@
 # Corpus Statistics
 
-**Raw records count:** 26695
+**Raw records count:** 21753
 
-**Records count after removing duplicates:** 25461
+**Records count after removing duplicates:** 21495
 
-**Records with 047I abstract:** 1776
+**Records with 047I abstract:** 1636
 
 **Online text resources**
 
-- Total records with HTML online: 2258
-- Total records with HTM online: 1422
-- Total records with PDF online: 15596
-- Total records with JPG online: 3514
+- Total records with HTML online: 2172
+- Total records with HTM online: 1297
+- Total records with PDF online: 14931
+- Total records with JPG online: 3263
 
 **Resources in HTML format**
 
-- LOC: 2229
-- unknown: 22
-- DNB: 7
+- LOC: 2149
+- unknown: 19
+- DNB: 4
 
 **Resources in HTM format**
 
-- Inhaltsverzeichnis: 917
-- Inhaltstext: 451
-- Klappentext: 36
-- Ausführliche Beschreibung: 6
+- Inhaltsverzeichnis: 820
+- Inhaltstext: 425
+- Klappentext: 35
 - Literaturverzeichnis: 6
+- Ausführliche Beschreibung: 5
 - Cover: 2
 - Rezension: 2
 - Umschlagbild: 1
@@ -33,48 +33,48 @@
 
 **Resources in PDF format**
 
-- Inhaltsverzeichnis: 15415
+- Inhaltsverzeichnis: 14758
 - Klappentext: 55
 - Unbekannt: 36
-- TOC: 31
+- TOC: 30
 - 99: 22
-- Einführung/Vorwort: 11
-- Rezension (FAZ): 9
+- Einführung/Vorwort: 10
+- Rezension (FAZ): 6
 - unknown: 6
-- Rezension: 4
 - Inhaltstext: 4
-- Titelblatt und Inhaltsverzeichnis: 2
+- Rezension: 2
+- Titelblatt und Inhaltsverzeichnis: 1
 - 80: 1
 
 **Resources in JPG format**
 
-- Cover: 3511
+- Cover: 3260
 - 93: 1
 - unknown: 1
 - Unbekannt: 1
 
 **Subject counts per record:**
 
-- 0 subject(s): 581
-- 1 subject(s): 6673
-- 2 subject(s): 6458
-- 3 subject(s): 5108
-- 4 subject(s): 3257
-- 5 subject(s): 1769
-- 6 subject(s): 880
-- 7 subject(s): 419
-- 8 subject(s): 152
+- 0 subject(s): 410
+- 1 subject(s): 5057
+- 2 subject(s): 5292
+- 3 subject(s): 4531
+- 4 subject(s): 2996
+- 5 subject(s): 1664
+- 6 subject(s): 841
+- 7 subject(s): 399
+- 8 subject(s): 146
 - 9 subject(s): 61
-- 10 subject(s): 41
+- 10 subject(s): 38
 - 11 subject(s): 23
 - 12 subject(s): 10
-- 13 subject(s): 7
-- 14 subject(s): 6
+- 13 subject(s): 8
+- 14 subject(s): 5
 - 15 subject(s): 2
-- 16 subject(s): 3
+- 16 subject(s): 2
 - 17 subject(s): 3
-- 18 subject(s): 2
+- 18 subject(s): 1
 - 19 subject(s): 2
 - 20 subject(s): 4
 
-**Titles with more than 25 characters:** 21978
+**Titles with more than 25 characters:** 18572

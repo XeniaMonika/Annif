@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 from collections import Counter
 #import matplotlib.pyplot as plt
 
-path_data_raw = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\data_gnd.xml"
+path_data_raw = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\data_gnd_clean.xml"
 path_data_ready = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\corpus.jsonl"
 output_file = "C:\\Users\\kudelamo\\Projects\\Annif\\Docs\\corpus_stats_fid.md"
 
