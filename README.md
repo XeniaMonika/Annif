@@ -39,6 +39,11 @@ python Scripts/get_gnd_subset.py
 
 This script reads `data.xml` from each source folder, keeps only records with `044K`, and writes the output to `Data/data_gnd.xml`.
 
+
+## Clean data
+
+To clean the gnd subset from duplicates and records belonging to irrelevant disciplines, run `Scripts/transform_data.py`.
+
 ## Transform data 
 
 To transform the data from PICAXML to a format requested by Annif (here JSON Lines), run `transform_data.py` from the repo root. The file not only extracts the needed metadata from the XML structure, but also handles duplicate cases by merging titles with the same author, title, ISBN number and/or bibliographic level, or taking titles with the bigger amount of keywords when the bibliographic level of same-title records differ. The ready corpus in JSON Lines format is then saved as `corpus.jsonl` in the `data` folder.
