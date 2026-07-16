@@ -2,7 +2,7 @@
 
 **Raw records count:** 21753
 
-**Records count after removing duplicates:** 21495
+**Records count after removing duplicates:** 21085
 
 **Records with 047I abstract:** 1636
 
@@ -55,7 +55,6 @@
 
 **Subject counts per record:**
 
-- 0 subject(s): 410
 - 1 subject(s): 5057
 - 2 subject(s): 5292
 - 3 subject(s): 4531
@@ -77,4 +76,4 @@
 - 19 subject(s): 2
 - 20 subject(s): 4
 
-**Titles with more than 25 characters:** 18572
+**Titles with more than 25 characters:** 18250

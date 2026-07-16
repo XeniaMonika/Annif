@@ -193,5 +193,7 @@ for record in root:
     keywords = set(extract_gnd_keywords(record))
     keywords = change_ids_to_uris(keywords)
     subjects = [{"uri": uri} for uri in sorted(keywords)]
+    if not subjects:
+        continue
     output_record = {"text": title_full, "subjects": subjects}
     write_record_to_file(output_record)
