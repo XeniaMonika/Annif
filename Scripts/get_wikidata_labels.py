@@ -8,11 +8,13 @@ headers = {"User-Agent": "AnnifSubjectIndexing/1.0 (monika.kudela@sub.uni-hambur
 
 
 with open(qids_path, "r", encoding="utf-8") as f:
-    qids = [link["qid"] for link in json.load(f).values()]
+    links = json.load(f)
+    qids = [link["qid"] for link in links.values()]
+    qid_to_ger_id = {link["qid"]: ger_id for ger_id, link in links.items()}
 
 def fetch_spanish_labels(qids, batch_size=50):
     """qids: list of Wikidata Q-IDs (without the Q prefix stripped).
-    Returns {qid: {"label": str, "aliases": [str, ...]}}"""
+    Returns {qid: {"label": str, "aliases": [str, ...], "ger_id": str}}"""
     results = {}
     for i in range(0, len(qids), batch_size):
         batch = qids[i:i + batch_size]
@@ -34,7 +36,11 @@ def fetch_spanish_labels(qids, batch_size=50):
         for qid, entity in data.items():
             label = entity.get("labels", {}).get("es", {}).get("value", "")
             aliases = [a["value"] for a in entity.get("aliases", {}).get("es", [])]
-            results[qid] = {"label": label, "aliases": aliases}
+            results[qid] = {
+                "label": label,
+                "ger_id": qid_to_ger_id.get(qid, ""),
+                "aliases": aliases,
+            }
     return results
 
 spanish_labels = fetch_spanish_labels(qids)
