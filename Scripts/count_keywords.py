@@ -5,7 +5,7 @@ input_file_big = "Data/Vocabs/keywords_mapped_big.json"
 input_file_both = "Data/Vocabs/keywords_mapped_both.json"
 
 
-def count_keywords_under_threshold(file_path, threshold=50):
+def count_keywords_under_threshold(file_path, threshold=20):
     """Count how many keywords have count under the threshold."""
     with open(file_path, 'r', encoding='utf-8') as f:
         keywords = json.load(f)
