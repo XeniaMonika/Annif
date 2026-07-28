@@ -1,11 +1,10 @@
 import os
 import json
 
-corpus_big_path = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\corpus.jsonl"
-corpus_small_path = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\corpus.jsonl"
+input_corpus_path = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\corpus.jsonl"
 mapped_keywords_path = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Vocabs\\keywords_mapped_both.json"
-output_folder_big = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\Corpus_lexical"
-output_folder_small = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\Corpus_lexical"
+output_folder_big = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\Corpus_associative"
+
 
 
 def convert_corpus_to_json_files(corpus_path, mapped_keywords_path, output_folder):
@@ -62,5 +61,5 @@ def convert_corpus_to_json_files(corpus_path, mapped_keywords_path, output_folde
 
 if __name__ == '__main__':
 	# generate for both corpora
-	convert_corpus_to_json_files(corpus_big_path, mapped_keywords_path, output_folder_big)
-	convert_corpus_to_json_files(corpus_small_path, mapped_keywords_path, output_folder_small)
+	convert_corpus_to_json_files(input_corpus_path, mapped_keywords_path, output_folder_big)
+	
