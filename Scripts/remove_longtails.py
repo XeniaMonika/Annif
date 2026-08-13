@@ -1,8 +1,8 @@
 import json
 from collections import Counter
 
-input_corpus = "Data/Spanish_ALL/corpus.jsonl"
-output_corpus = "Data/Spanish_ALL/corpus_no_longtail.jsonl"
+input_corpus = "Data/Spanish_FID/corpus_validation.jsonl"
+output_corpus = "Data/Spanish_FID/corpus_validation_no_longtail.jsonl"
 
 # First pass: count all uri occurrences in subjects lists
 uri_counts = Counter()
