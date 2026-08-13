@@ -1,9 +1,9 @@
 import os
 import json
 
-input_corpus_path = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\corpus.jsonl"
+input_corpus_path = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\corpus.jsonl"
 mapped_keywords_path = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Vocabs\\keywords_mapped_both.json"
-output_folder_big = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_ALL\\Corpus_associative"
+output_folder_big = "C:\\Users\\kudelamo\\Projects\\Annif\\Data\\Spanish_FID\\Gold_standard"
 
 
 
