@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_55791",
+  "text": "",
+  "metadata": {
+    "title": "Historia de los espectáculos en España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059702-7",
+      "label": "Teatros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121260-5",
+      "label": "fiesta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4212081-0",
+      "label": "Acto musical"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4219212-2",
+      "label": "Espectáculo"
+    }
+  ]
+}

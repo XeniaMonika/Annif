@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_6201",
+  "text": "",
+  "metadata": {
+    "title": "El libro de las ilusiones",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4017140-1",
+      "label": "Actor de cine"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4025243-7",
+      "label": "Profesor universitario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078704-7",
+      "label": "EE. UU."
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121560-6",
+      "label": "investigación de la información"
+    }
+  ]
+}

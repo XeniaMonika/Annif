@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2344",
+  "text": "",
+  "metadata": {
+    "title": "Músicas en tiempos de guerra : Cancionero (1503 - 1939)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033114-3",
+      "label": "Guerra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063852-2",
+      "label": "canción popular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4340923-4",
+      "label": "Canciones de guerra"
+    }
+  ]
+}

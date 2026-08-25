@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_71103",
+  "text": "",
+  "metadata": {
+    "title": "El libro medico en Espanã <1808-1936>",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4013134-8",
+      "label": "impreso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038243-6",
+      "label": "Medicina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4146827-2",
+      "label": "Producción editorial"
+    }
+  ]
+}

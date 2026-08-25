@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_7000",
+  "text": "",
+  "metadata": {
+    "title": "Las fortificaciones de Salamanca : desde los orígenes hasta la repoblación",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4118281-9",
+      "label": "Salamanca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129464-6",
+      "label": "Excavación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139372-7",
+      "label": "Fortificaciones de la ciudad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139373-9",
+      "label": "Murallas"
+    }
+  ]
+}

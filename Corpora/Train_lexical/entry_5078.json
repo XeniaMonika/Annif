@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5078",
+  "text": "",
+  "metadata": {
+    "title": "Visegrado : Microensayos Literarios de Hungría, Polonia, República Checa",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061084-6",
+      "label": "Lengua checa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120314-8",
+      "label": "Lengua polaca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120374-4",
+      "label": "Lengua húngara"
+    }
+  ]
+}

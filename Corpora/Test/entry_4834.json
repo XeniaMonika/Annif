@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_4834",
+  "text": "",
+  "metadata": {
+    "title": "San Sebastián : palacios, parques y jardines",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044673-6",
+      "label": "parque"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051530-8",
+      "label": "San Sebastián"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125179-9",
+      "label": "diseño de jardines"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4141396-9",
+      "label": "Casa nobiliaria"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_24605",
+  "text": "",
+  "metadata": {
+    "title": "El folk-lore de Madrid",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008017-1",
+      "label": "costumbre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015589-4",
+      "label": "Extremadura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073413-4",
+      "label": "juegos tradicionales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127870-7",
+      "label": "Canciones infantiles"
+    }
+  ]
+}

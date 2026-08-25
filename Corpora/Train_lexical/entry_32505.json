@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_32505",
+  "text": "",
+  "metadata": {
+    "title": "Obras literarias : descripción y traducción",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012417-4",
+      "label": "Discurso directo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026735-0",
+      "label": "Discurso indirecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061418-9",
+      "label": "Traducciones"
+    }
+  ]
+}

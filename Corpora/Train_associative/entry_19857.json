@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_19857",
+  "text": "",
+  "metadata": {
+    "title": "La Argentina que yo he visto",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002890-2",
+      "label": "Argentina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073972-7",
+      "label": "Cultura del país"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4137343-1",
+      "label": "carácter nacional"
+    }
+  ]
+}

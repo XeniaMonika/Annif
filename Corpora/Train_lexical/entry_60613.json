@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_60613",
+  "text": "",
+  "metadata": {
+    "title": "Los reinos del Perú : apuntes sobre la monarquía peruana",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4031516-2",
+      "label": "rey"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040034-7",
+      "label": "monarquía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072817-1",
+      "label": "Imperio inca"
+    }
+  ]
+}

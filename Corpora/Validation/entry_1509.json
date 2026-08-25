@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1509",
+  "text": "",
+  "metadata": {
+    "title": "Studi linguistici e letterari tra Italia e mondo iberico in età moderna",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4027833-5",
+      "label": "Italia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_61118",
+  "text": "",
+  "metadata": {
+    "title": "Education & culture",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039827-4",
+      "label": "modernidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124970-7",
+      "label": "Edificios para museos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4160195-6",
+      "label": "Edificios universitarios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4216380-8",
+      "label": "Edificios para la enseñanza"
+    }
+  ]
+}

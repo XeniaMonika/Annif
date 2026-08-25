@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_55358",
+  "text": "",
+  "metadata": {
+    "title": "Cirugia en pequeños animales",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4009987-8",
+      "label": "Cirugía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114226-3",
+      "label": "Animales pequeños"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114227-5",
+      "label": "Enfermedad de los animales pequeños"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4317292-1",
+      "label": "Animales de compañía"
+    }
+  ]
+}

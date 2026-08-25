@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_15123",
+  "text": "",
+  "metadata": {
+    "title": "Shakespeare y Cervantes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11851993X",
+      "label": "Cervantes Saavedra, Miguel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118613723",
+      "label": "Shakespeare, William"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118627295",
+      "label": "Vives, Juan Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130545-0",
+      "label": "Autoría"
+    }
+  ]
+}

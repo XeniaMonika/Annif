@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_20204",
+  "text": "",
+  "metadata": {
+    "title": "Las Reales Atarazanas de Sevilla",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1227266944",
+      "label": "Atarazanas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026808-1",
+      "label": "edificio industrial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128181-0",
+      "label": "Astilleros"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_31903",
+  "text": "",
+  "metadata": {
+    "title": "Discurso del oso",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4022233-0",
+      "label": "gran ciudad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023693-6",
+      "label": "vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131831-6",
+      "label": "infraestructura energética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4171044-7",
+      "label": "Noche"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194161-5",
+      "label": "Oso"
+    }
+  ]
+}

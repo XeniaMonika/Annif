@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_5682",
+  "text": "",
+  "metadata": {
+    "title": "Religious facilities",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040320-8",
+      "label": "Mezquitas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059416-6",
+      "label": "Templos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073436-5",
+      "label": "Iglesias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4156529-0",
+      "label": "Centro comunitario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4184221-2",
+      "label": "Sinagogas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7642899-0",
+      "label": "Edificio del cementerio"
+    }
+  ]
+}

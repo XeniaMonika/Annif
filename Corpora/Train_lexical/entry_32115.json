@@ -1,0 +1,46 @@
+{
+  "document_id": "entry_32115",
+  "text": "",
+  "metadata": {
+    "title": "El patrimonio artístico del monasterio de Carmelitas Descalzas de Jaén",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4010109-5",
+      "label": "Arte religioso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4043735-8",
+      "label": "Vida consagrada"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073436-5",
+      "label": "Iglesias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163932-7",
+      "label": "Tesoro litúrgico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4733906-8",
+      "label": "Santa Teresa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4733911-1",
+      "label": "Convento de Santa Teresa de Jaén"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7583222-7",
+      "label": "dependencia monástica"
+    }
+  ]
+}

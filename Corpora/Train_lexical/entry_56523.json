@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_56523",
+  "text": "",
+  "metadata": {
+    "title": "De las dos orillas : teatro cubano",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078704-7",
+      "label": "EE. UU."
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4153308-2",
+      "label": "Drama del exilio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4339382-2",
+      "label": "cubanos"
+    }
+  ]
+}

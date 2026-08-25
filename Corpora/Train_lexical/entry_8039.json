@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_8039",
+  "text": "",
+  "metadata": {
+    "title": "Astros, humores y cometas : las obras de Juan Jerónimo Navarro, Joan de Figueroa y Francisco Ruiz Lozano (Lima, 1645-1665)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1197271244",
+      "label": "Navarro, Juan Jerónimo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1197271724",
+      "label": "Figueroa, Joan"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1197272712",
+      "label": "Ruiz Lozano, Francisco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4003305-3",
+      "label": "Astrología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038243-6",
+      "label": "Medicina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    }
+  ]
+}

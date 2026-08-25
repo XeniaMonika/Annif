@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_19413",
+  "text": "",
+  "metadata": {
+    "title": "Berlin - Madrid : postdiktatoriale Großstadtliteratur",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4005728-8",
+      "label": "Berlín"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    }
+  ]
+}

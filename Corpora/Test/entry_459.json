@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_459",
+  "text": "",
+  "metadata": {
+    "title": "Todos los colores del (género) negro : estudios sobre novela, cine y otros medios",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1069085138",
+      "label": "Novela negra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116435-0",
+      "label": "Cine negro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4185351-9",
+      "label": "Cine de suspense"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4398404-6",
+      "label": "Serie policíaca"
+    }
+  ]
+}

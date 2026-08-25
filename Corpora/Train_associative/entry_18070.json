@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_18070",
+  "text": "",
+  "metadata": {
+    "title": "Cuba : arte y literatura en exilio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015959-0",
+      "label": "exilio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125698-0",
+      "label": "Civilización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165964-8",
+      "label": "Intercambio cultural"
+    }
+  ]
+}

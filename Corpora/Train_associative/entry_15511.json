@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_15511",
+  "text": "",
+  "metadata": {
+    "title": "La Huaxteca : concierto de saberes en homenaje a Lorenzo Ochoa",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001307-8",
+      "label": "vida cotidiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008017-1",
+      "label": "costumbre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055898-8",
+      "label": "Estructura social"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077575-6",
+      "label": "Situación social"
+    }
+  ]
+}

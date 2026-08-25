@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_36811",
+  "text": "",
+  "metadata": {
+    "title": "El joc a Catalunya : història i present",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020650-6",
+      "label": "Juegos de interior"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4021329-8",
+      "label": "Juegos de azar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4029916-8",
+      "label": "Cataluña"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4168184-8",
+      "label": "lotería"
+    }
+  ]
+}

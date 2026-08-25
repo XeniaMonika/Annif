@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_31227",
+  "text": "",
+  "metadata": {
+    "title": "La preservación de los documentos electrónicos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4063317-2",
+      "label": "administración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4310935-4",
+      "label": "Documentos electrónicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4420040-7",
+      "label": "Archivado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4514269-5",
+      "label": "publicación digital"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_979",
+  "text": "",
+  "metadata": {
+    "title": "Tu canción entre sus canciones : José Agustín Goytisolo y la música",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/119097443",
+      "label": "Goytisolo, José Agustín"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040802-4",
+      "label": "música"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063269-6",
+      "label": "Sonido"
+    }
+  ]
+}

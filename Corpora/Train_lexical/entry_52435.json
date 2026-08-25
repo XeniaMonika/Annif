@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_52435",
+  "text": "",
+  "metadata": {
+    "title": "Catálogo del arte clásico",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4046277-8",
+      "label": "Escultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068754-5",
+      "label": "Civilización clásica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130014-2",
+      "label": "molde de yeso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/5536092-0",
+      "label": "Museo Nacional de Reproducciones Artísticas"
+    }
+  ]
+}

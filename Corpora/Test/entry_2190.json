@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2190",
+  "text": "",
+  "metadata": {
+    "title": "A París en burro : el récord del mundo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044660-8",
+      "label": "París"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4559750-9",
+      "label": "Paseo en burro"
+    }
+  ]
+}

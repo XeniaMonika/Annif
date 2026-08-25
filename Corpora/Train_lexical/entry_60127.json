@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_60127",
+  "text": "",
+  "metadata": {
+    "title": "Libros en venta en América Latina y España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4255550-4",
+      "label": "obra escrita"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4485351-8",
+      "label": "Nueva publicación"
+    }
+  ]
+}

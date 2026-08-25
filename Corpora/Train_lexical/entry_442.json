@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_442",
+  "text": "",
+  "metadata": {
+    "title": "Picasso en el Pirineo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118594206",
+      "label": "Picasso, Pablo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047911-0",
+      "label": "Pirineos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125698-0",
+      "label": "Civilización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4250670-0",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7612202-5",
+      "label": "Gósol"
+    }
+  ]
+}

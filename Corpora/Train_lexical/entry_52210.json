@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_52210",
+  "text": "",
+  "metadata": {
+    "title": "Die Sammlung spanischer comedias in der Universitätsbibliothek Freiburg",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/31816-4",
+      "label": "Biblioteca Universitaria de Friburgo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018272-1",
+      "label": "Friburgo de Brisgovia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133334-2",
+      "label": "Bibliotecas universitarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4181251-7",
+      "label": "Literatura española--S.XVI-XVII"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4289288-0",
+      "label": "Comedia española"
+    }
+  ]
+}

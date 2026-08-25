@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1476",
+  "text": "",
+  "metadata": {
+    "title": "Aquí vivió : historia de un desahucio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4016397-0",
+      "label": "familia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4042870-9",
+      "label": "sinhogarismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066796-0",
+      "label": "Política de vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4315733-6",
+      "label": "Ejecución de desalojo"
+    }
+  ]
+}

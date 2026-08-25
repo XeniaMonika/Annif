@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_16992",
+  "text": "",
+  "metadata": {
+    "title": "El reino de Portugal del Atlas Geográfico de España de 1804 : análisis mediante SIG",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1109765711",
+      "label": "Atlas geográfico de España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046843-4",
+      "label": "Portugal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4141199-7",
+      "label": "Error"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4172855-5",
+      "label": "localidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4214223-4",
+      "label": "Cartometría"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4261642-6",
+      "label": "Sistemas de información geográfica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4711095-8",
+      "label": "Orientación espacial"
+    }
+  ]
+}

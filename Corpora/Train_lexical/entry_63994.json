@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_63994",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario de palabras olvidadas o de uso poco frecuente : [con glosario de sinónimos y equivalentes]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4180943-9",
+      "label": "Palabra poco común"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4190287-7",
+      "label": "Palabra desaparecida"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4220976-6",
+      "label": "palabra obsoleta"
+    }
+  ]
+}

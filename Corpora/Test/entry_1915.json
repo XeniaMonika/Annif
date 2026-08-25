@@ -1,0 +1,46 @@
+{
+  "document_id": "entry_1915",
+  "text": "",
+  "metadata": {
+    "title": "Retos de la traducción científico-técnica profesional : teoría, metodología y recursos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003966-3",
+      "label": "Traducción automática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016216-3",
+      "label": "Lenguajes especializados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038243-6",
+      "label": "Medicina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041421-8",
+      "label": "Ciencias naturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059205-4",
+      "label": "técnica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4246652-0",
+      "label": "Trabajo sobre terminología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4788416-2",
+      "label": "memoria de traducción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7593509-0",
+      "label": "Traducción asistida por ordenador"
+    }
+  ]
+}

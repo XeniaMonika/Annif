@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_531",
+  "text": "",
+  "metadata": {
+    "title": "El nuevo mundo y Andalucía : culturas y libros",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033552-5",
+      "label": "Relaciones culturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073624-6",
+      "label": "colonialismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_73746",
+  "text": "",
+  "metadata": {
+    "title": "Six-language dictionary of automation, electronics and scientific instruments : a comprehensive dictionary in English, French, German, Italian, Spanish and Russian",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003957-2",
+      "label": "Automatización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014346-6",
+      "label": "Electrónica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4190105-8",
+      "label": "instrumento científico"
+    }
+  ]
+}

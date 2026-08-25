@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_42934",
+  "text": "",
+  "metadata": {
+    "title": "Artículo literario y narrativa breve del romanticismo español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015553-5",
+      "label": "Ensayo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033842-3",
+      "label": "cuento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125430-2",
+      "label": "artículo periodístico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129548-1",
+      "label": "prosa breve"
+    }
+  ]
+}

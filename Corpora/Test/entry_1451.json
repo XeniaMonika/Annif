@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1451",
+  "text": "",
+  "metadata": {
+    "title": "La descripción documental en España y sus instrumentos: de los inventarios medievales a los metadatos del documento electrónico",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056914-7",
+      "label": "normalización técnica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123065-6",
+      "label": "digitalización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139988-2",
+      "label": "Documento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177443-7",
+      "label": "Secretaría"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1221",
+  "text": "",
+  "metadata": {
+    "title": "Narradoras españolas de posguerra",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4053311-6",
+      "label": "escritor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4155196-5",
+      "label": "Franquismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4155238-6",
+      "label": "Prosa femenina"
+    }
+  ]
+}

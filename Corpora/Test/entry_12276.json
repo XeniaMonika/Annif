@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_12276",
+  "text": "",
+  "metadata": {
+    "title": "Relaciones España - Alemania",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003846-4",
+      "label": "política exterior"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4003857-9",
+      "label": "Política comercial exterior"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011882-4",
+      "label": "Alemania"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033552-5",
+      "label": "Relaciones culturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

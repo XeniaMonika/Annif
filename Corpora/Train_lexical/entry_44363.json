@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_44363",
+  "text": "",
+  "metadata": {
+    "title": "Crónica de un niño solo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008756-6",
+      "label": "Buenos Aires"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4029002-5",
+      "label": "niño"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055304-8",
+      "label": "Barrios desfavorecidos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4197143-7",
+      "label": "Centro de educación"
+    }
+  ]
+}

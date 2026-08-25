@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_66398",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario de temas de literatura española",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040360-9",
+      "label": "motivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140246-7",
+      "label": "Tema"
+    }
+  ]
+}

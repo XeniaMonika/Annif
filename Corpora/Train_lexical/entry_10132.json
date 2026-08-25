@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_10132",
+  "text": "",
+  "metadata": {
+    "title": "Duelo de alfiles",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118509039",
+      "label": "Benjamin, Walter"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118514768",
+      "label": "Brecht, Bertolt"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118559230",
+      "label": "Kafka, Franz"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118587943",
+      "label": "Nietzsche, Friedrich"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118601024",
+      "label": "Rilke, Rainer Maria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051891-7",
+      "label": "Ajedrez"
+    }
+  ]
+}

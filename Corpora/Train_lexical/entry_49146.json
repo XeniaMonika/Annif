@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_49146",
+  "text": "",
+  "metadata": {
+    "title": "Olympia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118600761",
+      "label": "Riefenstahl, Leni"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/2001155-6",
+      "label": "Olympische Spiele, 1936"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126254-2",
+      "label": "Fotografía deportiva"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4324728-3",
+      "label": "Juegos Olímpicos"
+    }
+  ]
+}

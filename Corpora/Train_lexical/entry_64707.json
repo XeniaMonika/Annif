@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_64707",
+  "text": "",
+  "metadata": {
+    "title": "Identidad y pensamiento Latinoamericano",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077567-7",
+      "label": "Identidad social"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140349-6",
+      "label": "Identidad colectiva"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4220764-2",
+      "label": "origen étnico"
+    }
+  ]
+}

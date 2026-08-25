@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_73987",
+  "text": "",
+  "metadata": {
+    "title": "El español hablado en Tenerife : premio 'Antonio de Nebrija' 1955",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040725-1",
+      "label": "dialecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059453-1",
+      "label": "Tenerife"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073188-1",
+      "label": "Islas Canarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163187-0",
+      "label": "español canario"
+    }
+  ]
+}

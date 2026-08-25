@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_54335",
+  "text": "",
+  "metadata": {
+    "title": "Filosofía, educación y desarrollo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015482-8",
+      "label": "educación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020588-5",
+      "label": "sociedad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066438-7",
+      "label": "Desarrollo económico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113450-3",
+      "label": "Desarrollo"
+    }
+  ]
+}

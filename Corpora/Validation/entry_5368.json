@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_5368",
+  "text": "",
+  "metadata": {
+    "title": "De orbis Hispani linguis litteris historia moribus : Festschrift für Dietrich Briesemeister zum 60. Geburtstag",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/119154447",
+      "label": "Briesemeister, Dietrich"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120201-6",
+      "label": "lenguas iberorromances"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159974-3",
+      "label": "Estudios hispánicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4168337-7",
+      "label": "estudios portugueses"
+    }
+  ]
+}

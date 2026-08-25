@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_37952",
+  "text": "",
+  "metadata": {
+    "title": "Kulturgeographie der Stadt",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4056723-0",
+      "label": "Ciudades"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056733-3",
+      "label": "Geografía urbana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133695-1",
+      "label": "Geografía humana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4182741-7",
+      "label": "urbanismo"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_50447",
+  "text": "",
+  "metadata": {
+    "title": "La terminología científico-técnica : reconocimiento, análisis y extracción de información formal y semántica ; (DGES PB96-0293)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4016216-3",
+      "label": "Lenguajes especializados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035843-4",
+      "label": "Lingüística computacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041421-8",
+      "label": "Ciencias naturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059205-4",
+      "label": "técnica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

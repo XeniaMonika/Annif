@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_44983",
+  "text": "",
+  "metadata": {
+    "title": "De la aventura al teatro y la fiesta : moros y cristianos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4010071-6",
+      "label": "Cristianos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040921-1",
+      "label": "Musulmanes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059702-7",
+      "label": "Teatros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121260-5",
+      "label": "fiesta"
+    }
+  ]
+}

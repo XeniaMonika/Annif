@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_55046",
+  "text": "",
+  "metadata": {
+    "title": "Ensayo politico sobre la Isla de Cuba",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006287-9",
+      "label": "población humana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020216-1",
+      "label": "geografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055260-3",
+      "label": "Esclavitud"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066399-1",
+      "label": "economía"
+    }
+  ]
+}

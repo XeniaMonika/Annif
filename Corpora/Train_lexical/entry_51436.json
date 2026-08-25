@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_51436",
+  "text": "",
+  "metadata": {
+    "title": "Die Gesänge aus Taizé - Singstimmen [Musik: Jacques Berthier ; Joseph Gelineau ; Taizé]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1017521-0",
+      "label": "Comunidad de Taizé"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020470-4",
+      "label": "Canto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035669-3",
+      "label": "Lied"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038241-2",
+      "label": "Meditación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059028-8",
+      "label": "Danza"
+    }
+  ]
+}

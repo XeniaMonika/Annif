@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_70964",
+  "text": "",
+  "metadata": {
+    "title": "Voz de arauco : explicación de los nombres indígenas de Chile",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4009929-5",
+      "label": "Chile"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045285-2",
+      "label": "nombre personal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045573-7",
+      "label": "Plantas--Nombres vulgares"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125619-0",
+      "label": "Animales--Nombres vulgares"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130377-5",
+      "label": "Nombres geográficos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133214-3",
+      "label": "Lengua quechua"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4813252-4",
+      "label": "Lengua mapuche"
+    }
+  ]
+}

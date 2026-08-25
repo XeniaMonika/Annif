@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_55642",
+  "text": "",
+  "metadata": {
+    "title": "Revista interamericana de bibliografía : RIB",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078704-7",
+      "label": "EE. UU."
+    }
+  ]
+}

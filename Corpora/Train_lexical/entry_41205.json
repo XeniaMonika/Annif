@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_41205",
+  "text": "",
+  "metadata": {
+    "title": "Betonwerk + Fertigteil-Technik : BFT",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4056844-1",
+      "label": "elemento de hormigón armado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4145003-6",
+      "label": "Tecnología del hormigón"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4154135-2",
+      "label": "Componente prefabricado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159653-5",
+      "label": "Fabricación"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_78506",
+  "text": "",
+  "metadata": {
+    "title": "Datos y consideraciones sobre los puertos de Hamburgo, Amberes y varios otros de Europa : memoria",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116455-6",
+      "label": "puerto marítimo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125395-4",
+      "label": "Puerto de Hamburgo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4429350-1",
+      "label": "Puerto de Amberes"
+    }
+  ]
+}

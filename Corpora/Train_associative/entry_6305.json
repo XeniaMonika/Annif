@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_6305",
+  "text": "",
+  "metadata": {
+    "title": "Heidelberger Einführung in die Literaturwissenschaft für Romanisten",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4036034-9",
+      "label": "estudios literarios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050484-0",
+      "label": "Filología románica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113615-9",
+      "label": "Lengua francesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114056-4",
+      "label": "Lengua italiana"
+    }
+  ]
+}

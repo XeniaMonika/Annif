@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_68507",
+  "text": "",
+  "metadata": {
+    "title": "En lo real maravilloso",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118572547",
+      "label": "Lezama Lima, José"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118578235",
+      "label": "Martí, José"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/122385934",
+      "label": "Ortiz, Fernando"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066380-2",
+      "label": "Realidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4067063-6",
+      "label": "Milagros"
+    }
+  ]
+}

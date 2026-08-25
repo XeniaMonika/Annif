@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_65425",
+  "text": "",
+  "metadata": {
+    "title": "Terms and methods for technical archiving of audiovisual materials",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002859-8",
+      "label": "Archivos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016216-3",
+      "label": "Lenguajes especializados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4017107-3",
+      "label": "Filmotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047968-7",
+      "label": "Control de calidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068939-6",
+      "label": "Medios audiovisuales"
+    }
+  ]
+}

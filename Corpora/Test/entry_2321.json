@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_2321",
+  "text": "",
+  "metadata": {
+    "title": "Literatura y política : nuevas perspectivas teóricas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/130468975",
+      "label": "Rancière, Jacques"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020588-5",
+      "label": "sociedad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036031-3",
+      "label": "Estética literaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046514-7",
+      "label": "política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046587-1",
+      "label": "Teatro político"
+    }
+  ]
+}

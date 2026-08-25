@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_61298",
+  "text": "",
+  "metadata": {
+    "title": "Ciudades con encanto París, Londres, Nueva York, Roma, Praga, Viena",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4042011-5",
+      "label": "New York, NY"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044660-8",
+      "label": "París"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050471-2",
+      "label": "Roma"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066009-6",
+      "label": "Viena"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074335-4",
+      "label": "Londres"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076310-9",
+      "label": "Praga"
+    }
+  ]
+}

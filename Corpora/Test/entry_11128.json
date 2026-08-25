@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11128",
+  "text": "",
+  "metadata": {
+    "title": "Detrás de la palabra : estudios de gramática del español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4021806-5",
+      "label": "Gramática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058779-4",
+      "label": "Sintaxis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113707-3",
+      "label": "Gramática generativa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4145567-8",
+      "label": "Teoría del apego"
+    }
+  ]
+}

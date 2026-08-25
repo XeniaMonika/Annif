@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_50546",
+  "text": "",
+  "metadata": {
+    "title": "Atlas de la novela europea, 1800 - 1900",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020216-1",
+      "label": "geografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4048561-4",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050479-7",
+      "label": "Novelas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4179437-0",
+      "label": "Escenario"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_7973",
+  "text": "",
+  "metadata": {
+    "title": "América y el mar",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4022873-3",
+      "label": "asentamiento portuario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023222-0",
+      "label": "Comercio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041447-4",
+      "label": "ciencia náutica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054184-8",
+      "label": "transporte marítimo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129116-5",
+      "label": "Expedición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4248738-9",
+      "label": "política marina"
+    }
+  ]
+}

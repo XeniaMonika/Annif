@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_62146",
+  "text": "",
+  "metadata": {
+    "title": "Nuevo conversor de fechas islamocristianas : versión 3.0 para DOS",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4010178-2",
+      "label": "Cronología histórica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4318310-4",
+      "label": "Calendario juliano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4332685-7",
+      "label": "Calendario musulmán"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4352625-1",
+      "label": "calendario lunar"
+    }
+  ]
+}

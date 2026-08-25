@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11913",
+  "text": "",
+  "metadata": {
+    "title": "Del teatro al cine : hacia una teoria de la adaptación",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4017102-4",
+      "label": "Cine"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054498-9",
+      "label": "Semiótica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059702-7",
+      "label": "Teatros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062809-7",
+      "label": "Adaptaciones cinematográficas"
+    }
+  ]
+}

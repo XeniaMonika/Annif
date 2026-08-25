@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1170",
+  "text": "",
+  "metadata": {
+    "title": "La Habana de los ingenieros : conflicto, progreso e identidad",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4023865-9",
+      "label": "La Habana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069225-5",
+      "label": "fortificación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4137304-2",
+      "label": "Ingeniería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4144204-0",
+      "label": "Construcción"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_30620",
+  "text": "",
+  "metadata": {
+    "title": "Mittelamerikanische Grammatiken",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4204586-1",
+      "label": "Idioma otomi"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4220899-3",
+      "label": "Lengua maya"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4259191-0",
+      "label": "lenguas mixtecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4341544-1",
+      "label": "Lengua huasteca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4667563-2",
+      "label": "Lengua tarahumara"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4726748-3",
+      "label": "Idioma cora"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4818982-0",
+      "label": "totonaco"
+    }
+  ]
+}

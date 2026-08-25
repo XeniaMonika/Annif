@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_70125",
+  "text": "",
+  "metadata": {
+    "title": "El candidato",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4032524-6",
+      "label": "Corrupción administrativa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046517-2",
+      "label": "Políticos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064292-6",
+      "label": "campaña electoral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115584-1",
+      "label": "Liderazgo político"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4149174-9",
+      "label": "Desilusión"
+    }
+  ]
+}

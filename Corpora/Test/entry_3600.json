@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3600",
+  "text": "",
+  "metadata": {
+    "title": "Con toda fiesta y regocijo : arte y fiesta en las villas vizcaínas de los siglos XVII y XVIII",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4119462-7",
+      "label": "Vizcaya"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121260-5",
+      "label": "fiesta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125698-0",
+      "label": "Civilización"
+    }
+  ]
+}

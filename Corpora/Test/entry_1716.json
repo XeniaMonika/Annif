@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1716",
+  "text": "",
+  "metadata": {
+    "title": "Una aventura periodística : nuevo paseo por la Alcarria de Cela",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118667629",
+      "label": "Cela, Camilo José"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4028781-6",
+      "label": "Periodistas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4065972-0",
+      "label": "Repetición (Retórica)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4493282-0",
+      "label": "Alcarría"
+    }
+  ]
+}

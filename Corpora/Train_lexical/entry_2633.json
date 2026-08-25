@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2633",
+  "text": "",
+  "metadata": {
+    "title": "Miscelánea artística",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1286966396",
+      "label": "Padrón Acosta, Sebastián"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4000626-8",
+      "label": "Estética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033659-1",
+      "label": "Crítica artística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073188-1",
+      "label": "Islas Canarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138803-3",
+      "label": "Arte--Historia"
+    }
+  ]
+}

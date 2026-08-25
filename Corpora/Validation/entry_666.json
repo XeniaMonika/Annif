@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_666",
+  "text": "",
+  "metadata": {
+    "title": "La literatura infantil y juvenil del exilio republicano de 1939",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015961-9",
+      "label": "Literatura--Autores exiliados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4028911-4",
+      "label": "literatura juvenil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073409-2",
+      "label": "Literatura infantil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177827-3",
+      "label": "republicano"
+    }
+  ]
+}

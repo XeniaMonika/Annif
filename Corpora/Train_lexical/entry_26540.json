@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_26540",
+  "text": "",
+  "metadata": {
+    "title": "Los geógrafos del rey",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118641786",
+      "label": "Ptolemaeus, Claudius"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020214-8",
+      "label": "Geógrafo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020216-1",
+      "label": "geografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4025103-2",
+      "label": "Geografía histórica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4029820-6",
+      "label": "Cartógrafo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

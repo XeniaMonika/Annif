@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_55223",
+  "text": "",
+  "metadata": {
+    "title": "Minería, petróleo y medio ambiente",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015469-5",
+      "label": "minería de minerales metálicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061619-8",
+      "label": "problema medioambiental"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139144-5",
+      "label": "Extracción de petróleo"
+    }
+  ]
+}

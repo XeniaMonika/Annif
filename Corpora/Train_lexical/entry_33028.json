@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_33028",
+  "text": "",
+  "metadata": {
+    "title": "Restroom Design",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055001-1",
+      "label": "edificio público"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072819-5",
+      "label": "Decoración interior"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4185615-6",
+      "label": "inodoro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4234271-5",
+      "label": "Institución dedicada a satisfacer necesidades"
+    }
+  ]
+}

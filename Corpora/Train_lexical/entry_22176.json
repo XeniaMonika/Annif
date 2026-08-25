@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_22176",
+  "text": "",
+  "metadata": {
+    "title": "Goethe : Naturaleza, arte, verdad",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118540238",
+      "label": "Goethe, Johann Wolfgang"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4000626-8",
+      "label": "Estética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041421-8",
+      "label": "Ciencias naturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4171308-4",
+      "label": "Observación de la naturaleza"
+    }
+  ]
+}

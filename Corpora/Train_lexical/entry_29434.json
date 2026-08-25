@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_29434",
+  "text": "",
+  "metadata": {
+    "title": "Perfiles de teatro italiano",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027833-5",
+      "label": "Italia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059702-7",
+      "label": "Teatros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114056-4",
+      "label": "Lengua italiana"
+    }
+  ]
+}

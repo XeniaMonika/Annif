@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_62468",
+  "text": "",
+  "metadata": {
+    "title": "Repertorio de la poesía latina del Renacimiento en España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120281-8",
+      "label": "Lengua latina medieval y moderna"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_11669",
+  "text": "",
+  "metadata": {
+    "title": "La estructura fónica de la lengua castellana : fonología, morfología, dialectología",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040728-7",
+      "label": "Dialectología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045830-1",
+      "label": "fonética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045836-2",
+      "label": "fonología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071705-7",
+      "label": "gramática generativa transformacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4170560-9",
+      "label": "Morfología (Gramática)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_24160",
+  "text": "",
+  "metadata": {
+    "title": "Literaturas ibéricas y memoria histórica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4088809-5",
+      "label": "Lengua vasca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113661-5",
+      "label": "Lengua gallega"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120218-1",
+      "label": "Lengua catalana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129086-0",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4200793-8",
+      "label": "Memoria colectiva"
+    }
+  ]
+}

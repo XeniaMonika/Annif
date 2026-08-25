@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_11096",
+  "text": "",
+  "metadata": {
+    "title": "Catálogo de los impresos del siglo XVI, relacionados con las distintas ramas del derecho, que se conservan en la Biblioteca Pública del Estado en Toledo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4013134-8",
+      "label": "impreso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4048737-4",
+      "label": "Derecho"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/5005007-2",
+      "label": "Biblioteca Pública"
+    }
+  ]
+}

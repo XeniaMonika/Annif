@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_8072",
+  "text": "",
+  "metadata": {
+    "title": "Viajeras a La Habana : Eulalia de Borbón, Zenobia Camprubí, María Zambrano, María Teresa León",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118915274",
+      "label": "Camprubí Aymar, Zenobia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/11895492X",
+      "label": "León, María Teresa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/11922299X",
+      "label": "Zambrano, María"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023865-9",
+      "label": "La Habana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    }
+  ]
+}

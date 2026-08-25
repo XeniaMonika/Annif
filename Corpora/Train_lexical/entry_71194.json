@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_71194",
+  "text": "",
+  "metadata": {
+    "title": "La ciencia en la sociedad y en la política",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020588-5",
+      "label": "sociedad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059205-4",
+      "label": "técnica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066562-8",
+      "label": "Ciencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140181-5",
+      "label": "Política científica"
+    }
+  ]
+}

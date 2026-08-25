@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_16036",
+  "text": "",
+  "metadata": {
+    "title": "18 comidas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031952-0",
+      "label": "Comedias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051658-1",
+      "label": "Santiago de Compostela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4137343-1",
+      "label": "carácter nacional"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_8305",
+  "text": "",
+  "metadata": {
+    "title": "Albores de la Universidad de Salamanca : el saber en el claustro catedralicio salmantino : siglos XII y XIII",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1010555-4",
+      "label": "Universidad de Salamanca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4004913-9",
+      "label": "escultura arquitectónica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031225-2",
+      "label": "Monasterios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033079-5",
+      "label": "Claustros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241291-2",
+      "label": "Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4307222-7",
+      "label": "Antigua catedral"
+    }
+  ]
+}

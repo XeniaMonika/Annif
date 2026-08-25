@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3182",
+  "text": "",
+  "metadata": {
+    "title": "Cervantes en los monumentos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11851993X",
+      "label": "Cervantes Saavedra, Miguel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011453-3",
+      "label": "monumento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046277-8",
+      "label": "Escultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    }
+  ]
+}

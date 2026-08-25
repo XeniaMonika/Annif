@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_28972",
+  "text": "",
+  "metadata": {
+    "title": "Cataluña y las Islas Baleares",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002827-6",
+      "label": "arqueología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4029916-8",
+      "label": "Cataluña"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069098-2",
+      "label": "Islas Baleares"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071507-3",
+      "label": "Hallazgos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129464-6",
+      "label": "Excavación"
+    }
+  ]
+}

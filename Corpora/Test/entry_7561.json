@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_7561",
+  "text": "",
+  "metadata": {
+    "title": "El explorador del Índico : diario del viaje de Francisco Noroña (1748? - 1788) por las islas Filipinas, Java, Mauricio y Madagascar",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/128432039",
+      "label": "Noroña, Francisco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4028527-3",
+      "label": "Java"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045771-0",
+      "label": "Filipinas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074425-5",
+      "label": "Madagascar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074641-0",
+      "label": "Mauricio"
+    }
+  ]
+}

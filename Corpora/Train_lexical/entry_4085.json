@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_4085",
+  "text": "",
+  "metadata": {
+    "title": "Arte, memoria y museos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1244872156",
+      "label": "Lizárraga e Istúriz, Gerardo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018145-5",
+      "label": "Francia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019622-7",
+      "label": "Monumentos conmemorativos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040795-0",
+      "label": "Museos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079167-1",
+      "label": "Segunda Guerra Mundial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4200793-8",
+      "label": "Memoria colectiva"
+    }
+  ]
+}

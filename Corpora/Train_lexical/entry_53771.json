@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_53771",
+  "text": "",
+  "metadata": {
+    "title": "Léxico colombiano de cine, televisión y video",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4016825-6",
+      "label": "Televisión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031812-6",
+      "label": "Colombia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078895-7",
+      "label": "Vídeo"
+    }
+  ]
+}

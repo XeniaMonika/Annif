@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_16958",
+  "text": "",
+  "metadata": {
+    "title": "Lecciones de historia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020526-5",
+      "label": "tiempo histórico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131808-0",
+      "label": "Instalaciones (Arte)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4175029-9",
+      "label": "Arte político"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188229-5",
+      "label": "Videoarte"
+    }
+  ]
+}

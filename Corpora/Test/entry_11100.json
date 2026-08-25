@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_11100",
+  "text": "",
+  "metadata": {
+    "title": "Glosarios latino-españoles de la Edad Media",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120134-6",
+      "label": "castellano medieval"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    }
+  ]
+}

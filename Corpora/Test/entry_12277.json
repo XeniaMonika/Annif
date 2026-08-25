@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_12277",
+  "text": "",
+  "metadata": {
+    "title": "Phonodia : la voz de los poetas, uso crítico de sus grabaciones y entrevistas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003982-1",
+      "label": "Autor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4052020-1",
+      "label": "grabación sonora"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4166935-6",
+      "label": "fonoteca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188683-5",
+      "label": "Lectura oral"
+    }
+  ]
+}

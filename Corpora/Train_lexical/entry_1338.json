@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1338",
+  "text": "",
+  "metadata": {
+    "title": "El bosque de lo diminuto",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4027110-9",
+      "label": "Insectos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4043216-6",
+      "label": "ecosistema"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045539-7",
+      "label": "Plantas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4060087-7",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064354-2",
+      "label": "bosque"
+    }
+  ]
+}

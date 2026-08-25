@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_42930",
+  "text": "",
+  "metadata": {
+    "title": "Refranes y dichos populares comparados : español, inglés, ruso, árabe",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014777-0",
+      "label": "Lengua inglesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051038-4",
+      "label": "Lengua rusa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056550-6",
+      "label": "Refranes y proverbios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241223-7",
+      "label": "Lengua árabe"
+    }
+  ]
+}

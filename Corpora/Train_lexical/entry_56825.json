@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_56825",
+  "text": "",
+  "metadata": {
+    "title": "Mapa forestal de España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133697-5",
+      "label": "Topografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4297634-0",
+      "label": "Zona forestal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4486830-3",
+      "label": "plantar árboles"
+    }
+  ]
+}

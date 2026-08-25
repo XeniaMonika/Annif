@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_38427",
+  "text": "",
+  "metadata": {
+    "title": "Daros Latinamerica collection",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/10092748-8",
+      "label": "Daros Latinamerica AG"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4166041-9",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4693788-2",
+      "label": "Base de datos de imágenes"
+    }
+  ]
+}

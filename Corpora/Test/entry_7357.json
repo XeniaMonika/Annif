@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_7357",
+  "text": "",
+  "metadata": {
+    "title": "La Puerta del Vado de Toledo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069225-5",
+      "label": "fortificación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078343-1",
+      "label": "Toledo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139372-7",
+      "label": "Fortificaciones de la ciudad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7700628-8",
+      "label": "Puerta del Vado"
+    }
+  ]
+}

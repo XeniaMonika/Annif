@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_28619",
+  "text": "",
+  "metadata": {
+    "title": "La Florida del Inca",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/135747465",
+      "label": "Soto, Hernando"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014842-7",
+      "label": "exploración geográfica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4017585-6",
+      "label": "Florida"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4042483-2",
+      "label": "América del Norte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4264420-3",
+      "label": "Expansión territorial"
+    }
+  ]
+}

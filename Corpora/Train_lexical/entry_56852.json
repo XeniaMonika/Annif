@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_56852",
+  "text": "",
+  "metadata": {
+    "title": "Dyna : revista de la Facultad de Minas, Universidad Nacional de Colombia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4005614-4",
+      "label": "Minería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020227-6",
+      "label": "Geología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031812-6",
+      "label": "Colombia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039441-4",
+      "label": "Materia prima mineral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039443-8",
+      "label": "yacimiento geológico"
+    }
+  ]
+}

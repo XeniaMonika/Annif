@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_6178",
+  "text": "",
+  "metadata": {
+    "title": "Camino de Santiago : relaciones geográficas, históricas y artísticas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064460-1",
+      "label": "Peregrinaciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114067-9",
+      "label": "Camino de Santiago"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    }
+  ]
+}

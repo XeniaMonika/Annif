@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_80352",
+  "text": "",
+  "metadata": {
+    "title": "Cuadro geografico estadistico del Estado di Colima",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7599824-5",
+      "label": "Estado de Colima"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_69600",
+  "text": "",
+  "metadata": {
+    "title": "Livre et lecture en Espagne et en France sous l'Ancien Régime",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018145-5",
+      "label": "Francia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035296-1",
+      "label": "Lectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035441-6",
+      "label": "Lectores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

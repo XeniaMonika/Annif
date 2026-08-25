@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_872",
+  "text": "",
+  "metadata": {
+    "title": "Lengua de la administración y habla popular : edición y estudio del Libro de villazgo de Torrejón del Rey (1579)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4031110-7",
+      "label": "villa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056729-1",
+      "label": "Guía de la ciudad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061588-1",
+      "label": "lengua coloquial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4086838-2",
+      "label": "Provincia de Guadalajara"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131911-4",
+      "label": "Idioma administrativo"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11305",
+  "text": "",
+  "metadata": {
+    "title": "Arqueología del norte de la península de Yucatán : avances y exploraciones recientes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002827-6",
+      "label": "arqueología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038108-0",
+      "label": "Mayas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4067232-3",
+      "label": "Península de Yucatán"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071507-3",
+      "label": "Hallazgos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129464-6",
+      "label": "Excavación"
+    }
+  ]
+}

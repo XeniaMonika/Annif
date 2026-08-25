@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_78170",
+  "text": "",
+  "metadata": {
+    "title": "Monografía del Departamento de Huehuetenango, República de Guatemala",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/10005298-8",
+      "label": "Huehuetenango"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022428-4",
+      "label": "Guatemala"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039660-5",
+      "label": "América Central"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    }
+  ]
+}

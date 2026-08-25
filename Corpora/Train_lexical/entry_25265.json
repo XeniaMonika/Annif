@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_25265",
+  "text": "",
+  "metadata": {
+    "title": "Didáctica de la geografía y la historia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020219-7",
+      "label": "Geografía--Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020533-2",
+      "label": "Historia--Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054367-5",
+      "label": "Educación secundaria de segundo ciclo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079346-1",
+      "label": "Economía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4438069-0",
+      "label": "Enseñanza de Ciencias Sociales"
+    }
+  ]
+}

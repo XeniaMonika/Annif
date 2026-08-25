@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_9564",
+  "text": "",
+  "metadata": {
+    "title": "Semántica, léxico y fraseología",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4054490-4",
+      "label": "Semántica general"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076108-3",
+      "label": "Fraseología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    }
+  ]
+}

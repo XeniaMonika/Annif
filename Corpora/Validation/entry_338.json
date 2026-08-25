@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_338",
+  "text": "",
+  "metadata": {
+    "title": "Rutas, viajeros y peregrinos en el Reino de León",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4064460-1",
+      "label": "Peregrinaciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138490-8",
+      "label": "peregrino"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177613-6",
+      "label": "Viajero"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4304451-7",
+      "label": "Reino de León"
+    }
+  ]
+}

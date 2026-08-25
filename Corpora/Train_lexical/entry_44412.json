@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_44412",
+  "text": "",
+  "metadata": {
+    "title": "Los juegos fantásticos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118513532",
+      "label": "Borges, Jorge Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118522272",
+      "label": "Cortázar, Julio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118537601",
+      "label": "García Márquez, Gabriel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4174124-9",
+      "label": "Relato fantástico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194079-9",
+      "label": "Hispanoamérica"
+    }
+  ]
+}

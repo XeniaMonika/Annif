@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_825",
+  "text": "",
+  "metadata": {
+    "title": "Venezuela : política y ambiente",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4062512-6",
+      "label": "Venezuela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4070813-5",
+      "label": "Energía eléctrica--Producción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078523-3",
+      "label": "Política ambiental"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4164199-1",
+      "label": "cambio climático"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4178386-4",
+      "label": "Extracción de materias primas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4346327-7",
+      "label": "Riesgo medioambiental"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_1621",
+  "text": "",
+  "metadata": {
+    "title": "La Universidad de León a través de su patrimonio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/350283-1",
+      "label": "Universidad de León"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4160195-6",
+      "label": "Edificios universitarios"
+    }
+  ]
+}

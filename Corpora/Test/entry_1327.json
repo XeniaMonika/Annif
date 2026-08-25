@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1327",
+  "text": "",
+  "metadata": {
+    "title": "Entre versos y notas : canción de autor en español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040802-4",
+      "label": "música"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4605581-2",
+      "label": "Arte intermedia"
+    }
+  ]
+}

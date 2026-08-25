@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_10273",
+  "text": "",
+  "metadata": {
+    "title": "Vocabulario de Madroñera (Cáceres)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040725-1",
+      "label": "dialecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4085107-2",
+      "label": "Cáceres"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4464726-8",
+      "label": "Madroñera"
+    }
+  ]
+}

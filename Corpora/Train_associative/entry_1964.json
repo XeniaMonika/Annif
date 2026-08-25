@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1964",
+  "text": "",
+  "metadata": {
+    "title": "Arquitectura, ciudad y patrimonio : historia, teoría e intervención contemporáneas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4011455-7",
+      "label": "Edificios históricos--Restauración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056730-8",
+      "label": "desarrollo urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056795-3",
+      "label": "diseño urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059787-8",
+      "label": "teoría"
+    }
+  ]
+}

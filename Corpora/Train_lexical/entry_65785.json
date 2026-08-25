@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_65785",
+  "text": "",
+  "metadata": {
+    "title": "Rimbaud de Arabia : suplemento al viaje",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118601032",
+      "label": "Rimbaud, Arthur"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002529-9",
+      "label": "Arabia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075699-3",
+      "label": "Oriente"
+    }
+  ]
+}

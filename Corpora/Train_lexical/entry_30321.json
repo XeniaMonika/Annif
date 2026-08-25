@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_30321",
+  "text": "",
+  "metadata": {
+    "title": "Lista roja 2008 de la flora vascular Española",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4019654-9",
+      "label": "Tracheobionta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045539-7",
+      "label": "Plantas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4316554-0",
+      "label": "Lista Roja de la UICN"
+    }
+  ]
+}

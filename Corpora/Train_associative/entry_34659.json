@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_34659",
+  "text": "",
+  "metadata": {
+    "title": "De libros, librerías, imprentas y lectores",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027833-5",
+      "label": "Italia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

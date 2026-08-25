@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_44146",
+  "text": "",
+  "metadata": {
+    "title": "La caja de música",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4034831-3",
+      "label": "Vida (Biología)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040802-4",
+      "label": "música"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4141014-2",
+      "label": "aventura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4221436-1",
+      "label": "búsqueda"
+    }
+  ]
+}

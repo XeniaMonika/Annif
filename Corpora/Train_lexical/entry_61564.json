@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_61564",
+  "text": "",
+  "metadata": {
+    "title": "1,2-Dibromoethane",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4061619-8",
+      "label": "problema medioambiental"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078372-8",
+      "label": "toxicidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121813-9",
+      "label": "ecotoxicología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4149584-6",
+      "label": "dibrometano"
+    }
+  ]
+}

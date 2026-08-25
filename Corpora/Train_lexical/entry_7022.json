@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_7022",
+  "text": "",
+  "metadata": {
+    "title": "Pensar coas mans : cestería, cerámica e xoiería de Galicia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4019119-9",
+      "label": "Galicia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4030270-2",
+      "label": "Cerámica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073883-8",
+      "label": "artesanía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138733-8",
+      "label": "Orejería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4223432-3",
+      "label": "Artesanía de cestería"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_76838",
+  "text": "",
+  "metadata": {
+    "title": "Paris",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/119073331",
+      "label": "Bucovich, Mario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018145-5",
+      "label": "Francia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026538-9",
+      "label": "Île-de-France"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044660-8",
+      "label": "París"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4118571-7",
+      "label": "Departamento del Sena"
+    }
+  ]
+}

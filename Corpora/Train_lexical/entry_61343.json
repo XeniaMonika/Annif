@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_61343",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario multilingüe de terminología bibliotecaria : español-inglés-francés-sueco-alemán",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006465-7",
+      "label": "Biblioteconomía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014777-0",
+      "label": "Lengua inglesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113615-9",
+      "label": "Lengua francesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116437-4",
+      "label": "Lengua sueca"
+    }
+  ]
+}

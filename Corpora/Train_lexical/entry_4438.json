@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_4438",
+  "text": "",
+  "metadata": {
+    "title": "Catálogo monumental y artístico de la Provincia de Cuenca",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4004973-5",
+      "label": "Edificios históricos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4085364-0",
+      "label": "Provincia de Cuenca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    }
+  ]
+}

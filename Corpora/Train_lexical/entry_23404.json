@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_23404",
+  "text": "",
+  "metadata": {
+    "title": "El cacao y el chocolate",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4038782-3",
+      "label": "Mesoamérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039660-5",
+      "label": "América Central"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053168-5",
+      "label": "Chocolate"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163030-0",
+      "label": "chocolate caliente"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4307580-0",
+      "label": "grano de cacao"
+    }
+  ]
+}

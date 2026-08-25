@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1301",
+  "text": "",
+  "metadata": {
+    "title": "La Joven Europa y España : la cuestión de el arte por el arte",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    }
+  ]
+}

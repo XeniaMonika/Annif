@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_60801",
+  "text": "",
+  "metadata": {
+    "title": "Cuentos migueleños",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4022428-4",
+      "label": "Guatemala"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131940-0",
+      "label": "Literatura oral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4440226-0",
+      "label": "Idioma kanhobal"
+    }
+  ]
+}

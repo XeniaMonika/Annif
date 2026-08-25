@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3488",
+  "text": "",
+  "metadata": {
+    "title": "Gladiadores, fieras, carros y otros espectáculos en la antigua Roma",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4076778-4",
+      "label": "Imperio Romano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4157399-7",
+      "label": "Combate de gladiadores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4182161-0",
+      "label": "Espectáculo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4802809-5",
+      "label": "carreras de carros"
+    }
+  ]
+}

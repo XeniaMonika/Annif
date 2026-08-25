@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_23546",
+  "text": "",
+  "metadata": {
+    "title": "Entre tierra y mar",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046843-4",
+      "label": "Portugal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066399-1",
+      "label": "economía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071507-3",
+      "label": "Hallazgos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076769-3",
+      "label": "Época romana"
+    }
+  ]
+}

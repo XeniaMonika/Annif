@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_1",
+  "text": "",
+  "metadata": {
+    "title": "Viajeras extranjeras en Castilla la Vieja y León : siglo XIX",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003725-3",
+      "label": "Extranjeros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177613-6",
+      "label": "Viajero"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241103-8",
+      "label": "Castilla y León"
+    }
+  ]
+}

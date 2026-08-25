@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1775",
+  "text": "",
+  "metadata": {
+    "title": "Antonio Colinas, de la poesía a la narrativa y al ensayo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/120374757",
+      "label": "Colinas, Antonio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015553-5",
+      "label": "Ensayo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047497-5",
+      "label": "Prosa"
+    }
+  ]
+}

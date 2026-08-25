@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_38457",
+  "text": "",
+  "metadata": {
+    "title": "Manual de normativas tecnicas para museos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4114279-2",
+      "label": "preservación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129601-1",
+      "label": "Exposiciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131892-4",
+      "label": "Fondo del museo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4157139-3",
+      "label": "Diseño"
+    }
+  ]
+}

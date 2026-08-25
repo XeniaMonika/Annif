@@ -1,0 +1,46 @@
+{
+  "document_id": "entry_2654",
+  "text": "",
+  "metadata": {
+    "title": "La entonación declarativa e interrogativa en cinco zonas fronterizas del español : Canarias, Cuba, Venezuela, Colombia y San Antonio de Texas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4031812-6",
+      "label": "Colombia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040725-1",
+      "label": "dialecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059594-8",
+      "label": "Texas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062512-6",
+      "label": "Venezuela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129204-2",
+      "label": "Entonación (Fonética)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138340-0",
+      "label": "Oración declarativa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4162135-9",
+      "label": "Oración interrogativa"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_35704",
+  "text": "",
+  "metadata": {
+    "title": "Let's talk Spanish",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001307-8",
+      "label": "vida cotidiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138340-0",
+      "label": "Oración declarativa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4162135-9",
+      "label": "Oración interrogativa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165198-4",
+      "label": "conversación"
+    }
+  ]
+}

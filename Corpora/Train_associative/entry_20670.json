@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_20670",
+  "text": "",
+  "metadata": {
+    "title": "El enigma argentino",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002890-2",
+      "label": "Argentina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066438-7",
+      "label": "Desarrollo económico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066493-4",
+      "label": "Política económica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072130-9",
+      "label": "Propiedad rústica"
+    }
+  ]
+}

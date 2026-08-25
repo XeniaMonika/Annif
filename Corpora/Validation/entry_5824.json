@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5824",
+  "text": "",
+  "metadata": {
+    "title": "Diccionário de artistas de Cataluña, Valencia y Baleares",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4029916-8",
+      "label": "Cataluña"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033423-5",
+      "label": "Artistas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033430-2",
+      "label": "Mujeres artistas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062284-8",
+      "label": "Valencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069098-2",
+      "label": "Islas Baleares"
+    }
+  ]
+}

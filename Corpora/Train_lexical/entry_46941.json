@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_46941",
+  "text": "",
+  "metadata": {
+    "title": "De libros, librerías, imprentas y lectores",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027833-5",
+      "label": "Italia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063004-3",
+      "label": "editorial de libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4199447-4",
+      "label": "Impresión antigua"
+    }
+  ]
+}

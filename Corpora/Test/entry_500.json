@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_500",
+  "text": "",
+  "metadata": {
+    "title": "El catalán y el español cara a cara: una aportación historiográfica : Mallorca y Menorca (siglos XVIII y XIX)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4038636-3",
+      "label": "Menorca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074511-9",
+      "label": "Mallorca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120218-1",
+      "label": "Lengua catalana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165338-5",
+      "label": "Corpora (Lingüística)"
+    }
+  ]
+}

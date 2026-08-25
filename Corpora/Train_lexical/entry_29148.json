@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_29148",
+  "text": "",
+  "metadata": {
+    "title": "Geografía e arte",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4056730-8",
+      "label": "desarrollo urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056733-3",
+      "label": "Geografía urbana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056795-3",
+      "label": "diseño urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062284-8",
+      "label": "Valencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    }
+  ]
+}

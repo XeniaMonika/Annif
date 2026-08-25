@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_54",
+  "text": "",
+  "metadata": {
+    "title": "Las intersecciones entre los niveles gramaticales",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4021806-5",
+      "label": "Gramática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040289-7",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045836-2",
+      "label": "fonología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054490-4",
+      "label": "Semántica general"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058779-4",
+      "label": "Sintaxis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076315-8",
+      "label": "Pragmática lingüística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_17556",
+  "text": "",
+  "metadata": {
+    "title": "Los sujetos : Cabello/Carceller, Francesc Ruiz, Pepo Salazar + Salvador Dalí ; Pabellón Español 56a Exposicion Internacional de Arte la Biennale di Venezia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118523481",
+      "label": "Dalí, Salvador"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/122100506",
+      "label": "Cabello, Helena"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/122121481",
+      "label": "Carceller, Ana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/132241927",
+      "label": "Salazar, Pepo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/141905611",
+      "label": "Ruiz, Francesc"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_7748",
+  "text": "",
+  "metadata": {
+    "title": "Comisario García ermittelt : [Sammelband 3 in 1 ; drei Lernziele in einem Band: Spanisch Grammatik, Grundwortschatz, Aufbauwortschatz ; gemeinsamer Europäischer Referenzrahmen B1,B2]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4021806-5",
+      "label": "Gramática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    }
+  ]
+}

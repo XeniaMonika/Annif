@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1279",
+  "text": "",
+  "metadata": {
+    "title": "El mar recordará nuestros nombres",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/123412285",
+      "label": "Balmis, Francisco Xavier"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031790-0",
+      "label": "Colonias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129116-5",
+      "label": "Expedición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4135712-7",
+      "label": "Vacunación contra la viruela"
+    }
+  ]
+}

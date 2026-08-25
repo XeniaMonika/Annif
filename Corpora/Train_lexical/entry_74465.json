@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_74465",
+  "text": "",
+  "metadata": {
+    "title": "Libros de caballerias espanoles",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140808-1",
+      "label": "Novela de caballerías"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4142155-3",
+      "label": "Amadís de Gaula"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4147097-7",
+      "label": "Caballero Cifar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4286791-5",
+      "label": "Martorell, Joanot"
+    }
+  ]
+}

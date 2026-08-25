@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_1769",
+  "text": "",
+  "metadata": {
+    "title": "Ramón y pombo : libros y tertulia (1915-1957)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118696351",
+      "label": "Gómez de la Serna, Ramón"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1242683372",
+      "label": "Café Pombo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4157132-0",
+      "label": "Círculo de conversación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4284980-9",
+      "label": "Café de los literatos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7558462-1",
+      "label": "Tertulia"
+    }
+  ]
+}

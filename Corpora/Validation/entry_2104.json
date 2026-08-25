@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2104",
+  "text": "",
+  "metadata": {
+    "title": "Una biblioteca victoriana en Minas de Riotinto",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006447-5",
+      "label": "Fondos y localizaciones (Catalogación)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039397-5",
+      "label": "Minas de Riotinto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4094863-8",
+      "label": "Británicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4490998-6",
+      "label": "Empresa Rio Tinto"
+    }
+  ]
+}

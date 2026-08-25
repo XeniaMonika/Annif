@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_54080",
+  "text": "",
+  "metadata": {
+    "title": "Der schwarze Falke",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4010419-9",
+      "label": "comanches"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121200-9",
+      "label": "Secuestro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4135875-2",
+      "label": "Vaqueros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4221436-1",
+      "label": "búsqueda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4404245-0",
+      "label": "sobrina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4637655-0",
+      "label": "The @searchers"
+    }
+  ]
+}

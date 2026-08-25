@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_4570",
+  "text": "",
+  "metadata": {
+    "title": "Los tapices de la catedral de Segovia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006648-4",
+      "label": "Tapices"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008460-7",
+      "label": "Bruselas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4203531-4",
+      "label": "Tesoro de la catedral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4295942-1",
+      "label": "Catedral de Segovia"
+    }
+  ]
+}

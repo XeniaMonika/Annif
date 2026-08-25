@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_42215",
+  "text": "",
+  "metadata": {
+    "title": "Música, danzas y máscaras en los Andes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001912-3",
+      "label": "Andes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040802-4",
+      "label": "música"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059028-8",
+      "label": "Danza"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_51082",
+  "text": "",
+  "metadata": {
+    "title": "La cultura del libro en la edad moderna : Andalucía y América",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194079-9",
+      "label": "Hispanoamérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4273696-1",
+      "label": "Cultura de la lectura"
+    }
+  ]
+}

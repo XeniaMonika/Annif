@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_24598",
+  "text": "",
+  "metadata": {
+    "title": "Las Meninas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040360-9",
+      "label": "motivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132569-2",
+      "label": "Análisis de imágenes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4160401-5",
+      "label": "dama de compañía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4345598-0",
+      "label": "Libro ilustrado interactivo"
+    }
+  ]
+}

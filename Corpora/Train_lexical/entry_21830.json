@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_21830",
+  "text": "",
+  "metadata": {
+    "title": "Derecho y tecnologías avanzadas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4026926-7",
+      "label": "tecnologías de la información y la comunicación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4029081-5",
+      "label": "Administración de Justicia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241291-2",
+      "label": "Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4308416-3",
+      "label": "Internet"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4728387-7",
+      "label": "Internet en la administración pública"
+    }
+  ]
+}

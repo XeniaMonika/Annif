@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_59600",
+  "text": "",
+  "metadata": {
+    "title": "Synodia : studia humanitatis Antonio Garzya septuagenario ab amicis atque discipulis dicata",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118900838",
+      "label": "Garzya, Antonio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113791-7",
+      "label": "Lengua griega"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4315324-0",
+      "label": "Filología griega"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_37658",
+  "text": "",
+  "metadata": {
+    "title": "Corpus del español conversacional de Barcelona y su área metropolitana",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061588-1",
+      "label": "lengua coloquial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068227-4",
+      "label": "Bilingüismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077623-2",
+      "label": "Sociolingüística"
+    }
+  ]
+}

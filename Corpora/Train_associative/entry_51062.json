@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_51062",
+  "text": "",
+  "metadata": {
+    "title": "Algunos dramas de la colonia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055260-3",
+      "label": "Esclavitud"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073624-6",
+      "label": "colonialismo"
+    }
+  ]
+}

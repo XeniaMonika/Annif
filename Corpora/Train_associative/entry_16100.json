@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_16100",
+  "text": "",
+  "metadata": {
+    "title": "Poesía Centroamericana y puertoriqueña : antología esencial",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4010618-4",
+      "label": "Costa Rica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022428-4",
+      "label": "Guatemala"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4025814-2",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044445-4",
+      "label": "Panamá"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076429-1",
+      "label": "Puerto Rico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079486-6",
+      "label": "América Central"
+    }
+  ]
+}

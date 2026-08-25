@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2028",
+  "text": "",
+  "metadata": {
+    "title": "Palaeohispanica, Indoeuropaea",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4027107-9",
+      "label": "Inscripciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114006-0",
+      "label": "Lenguas indoeuropeas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121992-2",
+      "label": "Lenguas célticas"
+    }
+  ]
+}

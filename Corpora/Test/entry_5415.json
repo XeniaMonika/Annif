@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5415",
+  "text": "",
+  "metadata": {
+    "title": "711 : arqueología e historia entre dos mundos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002827-6",
+      "label": "arqueología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071507-3",
+      "label": "Hallazgos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129464-6",
+      "label": "Excavación"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_16155",
+  "text": "",
+  "metadata": {
+    "title": "Los predicados psicológicos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000497-1",
+      "label": "Adjetivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019702-5",
+      "label": "Emociones y sentimientos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058333-8",
+      "label": "sustantivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062553-9",
+      "label": "verbo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

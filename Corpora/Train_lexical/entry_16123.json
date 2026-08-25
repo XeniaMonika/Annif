@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_16123",
+  "text": "",
+  "metadata": {
+    "title": "Términos gramaticales de la Real Academia Española (TerGraRAE)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1002139-5",
+      "label": "Real Academia Española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4021806-5",
+      "label": "Gramática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7624265-1",
+      "label": "Gramática de la lengua castellana"
+    }
+  ]
+}

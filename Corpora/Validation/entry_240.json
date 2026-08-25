@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_240",
+  "text": "",
+  "metadata": {
+    "title": "Estuve aquí y me acordé de nosotros : una historia sobre turismo, trabajo y clase",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018406-7",
+      "label": "turismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4181935-4",
+      "label": "Estatus social"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4311828-8",
+      "label": "Personal del hotel"
+    }
+  ]
+}

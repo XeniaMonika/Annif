@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_36936",
+  "text": "",
+  "metadata": {
+    "title": "Mundo antiguo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4076778-4",
+      "label": "Imperio Romano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4093976-5",
+      "label": "Grecia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113791-7",
+      "label": "Lengua griega"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_54218",
+  "text": "",
+  "metadata": {
+    "title": "Los textos administrativos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129916-4",
+      "label": "Análisis lingüístico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131911-4",
+      "label": "Idioma administrativo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4192409-5",
+      "label": "Texto informativo"
+    }
+  ]
+}

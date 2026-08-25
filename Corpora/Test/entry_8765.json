@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_8765",
+  "text": "",
+  "metadata": {
+    "title": "Spanien und Deutschland - Kulturtransfer im 19. Jahrhundert",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4011882-4",
+      "label": "Alemania"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033422-3",
+      "label": "numeración de las artes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165964-8",
+      "label": "Intercambio cultural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165992-2",
+      "label": "Mediación cultural (arte)"
+    }
+  ]
+}

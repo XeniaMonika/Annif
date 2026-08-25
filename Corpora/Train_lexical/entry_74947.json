@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_74947",
+  "text": "",
+  "metadata": {
+    "title": "Antología de la poesia española en la edad media : castellana, catalana y gallega",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113661-5",
+      "label": "Lengua gallega"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120218-1",
+      "label": "Lengua catalana"
+    }
+  ]
+}

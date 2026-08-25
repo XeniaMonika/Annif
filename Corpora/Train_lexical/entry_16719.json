@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_16719",
+  "text": "",
+  "metadata": {
+    "title": "Arte y ciencia: el atlas Marítimo de España de Vicente Tofiño de San Miguel",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/130805041",
+      "label": "Torfiño de San Miguel, Vincente"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4180642-6",
+      "label": "Cartas náuticas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4309903-8",
+      "label": "Atlas marítimo"
+    }
+  ]
+}

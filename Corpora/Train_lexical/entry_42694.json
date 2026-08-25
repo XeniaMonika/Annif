@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_42694",
+  "text": "",
+  "metadata": {
+    "title": "La nobleza asturiana en México",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000464-8",
+      "label": "Nobleza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020097-8",
+      "label": "genealogía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072428-1",
+      "label": "heráldica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079858-6",
+      "label": "asturiano"
+    }
+  ]
+}

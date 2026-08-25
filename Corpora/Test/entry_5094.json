@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_5094",
+  "text": "",
+  "metadata": {
+    "title": "Periodismo empresarial e institucional",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4028779-8",
+      "label": "periodismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031883-7",
+      "label": "Comunicación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4043774-7",
+      "label": "Organizaciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061963-1",
+      "label": "Empresas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4196910-8",
+      "label": "Medios digitales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4232471-3",
+      "label": "Política de comunicación"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_4351",
+  "text": "",
+  "metadata": {
+    "title": "Inquietos vascones : relatos viajeros de escritores vascos y navarros",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1111063214",
+      "label": "navarros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4004644-8",
+      "label": "Vascos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053309-8",
+      "label": "Escritores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4065454-0",
+      "label": "Viajes alrededor del mundo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

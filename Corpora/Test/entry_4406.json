@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_4406",
+  "text": "",
+  "metadata": {
+    "title": "Els màrtirs de Montserrat",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4036915-8",
+      "label": "Mártires cristianos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039902-3",
+      "label": "monje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115223-2",
+      "label": "Montserrat"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4598690-3",
+      "label": "Persecución de los católicos"
+    }
+  ]
+}

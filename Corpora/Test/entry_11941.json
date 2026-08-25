@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_11941",
+  "text": "",
+  "metadata": {
+    "title": "El liber regum : estudio lingüistico",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4129916-4",
+      "label": "Análisis lingüístico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4300097-6",
+      "label": "navarro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4382921-1",
+      "label": "aragonés antiguo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7574811-3",
+      "label": "Libro de los reyes"
+    }
+  ]
+}

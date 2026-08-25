@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3219",
+  "text": "",
+  "metadata": {
+    "title": "La cadena vasca : educación, tecnología, poder social y rendimiento industrial, 1776 - 1902",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006650-2",
+      "label": "Bildung"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026779-9",
+      "label": "industria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036824-5",
+      "label": "poder"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059276-5",
+      "label": "Tecnología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4256908-4",
+      "label": "País Vasco"
+    }
+  ]
+}

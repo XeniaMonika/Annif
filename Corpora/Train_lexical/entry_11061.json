@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_11061",
+  "text": "",
+  "metadata": {
+    "title": "Eine fantastische Frau",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1045598402",
+      "label": "mujer transgénero"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4012472-1",
+      "label": "Discriminación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016397-0",
+      "label": "familia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4060294-1",
+      "label": "Muerte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122723-2",
+      "label": "Santiago de Chile"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4169389-9",
+      "label": "Melodrama cinematográfico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4326016-0",
+      "label": "pareja"
+    }
+  ]
+}

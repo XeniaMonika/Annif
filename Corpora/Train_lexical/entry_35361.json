@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_35361",
+  "text": "",
+  "metadata": {
+    "title": "Taphonomy and zooarchaeology in Argentina",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002890-2",
+      "label": "Argentina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4137734-5",
+      "label": "Hallazgo de huesos de animales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4211482-2",
+      "label": "Restos de animales (Arqueología)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4281044-9",
+      "label": "Tafonomía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4328279-9",
+      "label": "Animales prehistóricos"
+    }
+  ]
+}

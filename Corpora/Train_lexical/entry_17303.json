@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_17303",
+  "text": "",
+  "metadata": {
+    "title": "Marginalia : Aby Warburg, Carl Einstein",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118529587",
+      "label": "Einstein, Carl"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/11862914X",
+      "label": "Warburg, Aby"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006627-7",
+      "label": "retrato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033659-1",
+      "label": "Crítica artística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4200085-3",
+      "label": ""
+    }
+  ]
+}

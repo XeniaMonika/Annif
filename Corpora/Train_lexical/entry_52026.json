@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_52026",
+  "text": "",
+  "metadata": {
+    "title": "Elsevier's legal dictionary : in English, German, French, Dutch, and Spanish",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014777-0",
+      "label": "Lengua inglesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4048737-4",
+      "label": "Derecho"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113615-9",
+      "label": "Lengua francesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122614-8",
+      "label": "Lengua holandesa"
+    }
+  ]
+}

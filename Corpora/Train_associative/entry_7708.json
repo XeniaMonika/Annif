@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_7708",
+  "text": "",
+  "metadata": {
+    "title": "Catálogo de pintura y escultura",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046277-8",
+      "label": "Escultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    }
+  ]
+}

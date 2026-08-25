@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_10708",
+  "text": "",
+  "metadata": {
+    "title": "Jazz, flamenco, tango : las orillas de un ancho río",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4028532-7",
+      "label": "jazz"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071246-1",
+      "label": "flamenco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132568-0",
+      "label": "Blues"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4184397-6",
+      "label": "Tango"
+    }
+  ]
+}

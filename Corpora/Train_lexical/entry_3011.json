@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_3011",
+  "text": "",
+  "metadata": {
+    "title": "Wörterbuch der Forstwirtschaft : Deutsch, Englisch, Französisch, Spanisch, Russisch. Mit Baumarten, tierischen u. pflanzlichen Schädlingen des Waldes im Anhang",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014777-0",
+      "label": "Lengua inglesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4017966-7",
+      "label": "Ordenación de montes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051038-4",
+      "label": "Lengua rusa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113615-9",
+      "label": "Lengua francesa"
+    }
+  ]
+}

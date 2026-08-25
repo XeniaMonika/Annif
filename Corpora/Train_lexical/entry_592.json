@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_592",
+  "text": "",
+  "metadata": {
+    "title": "Mallorca living",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1086939328",
+      "label": "vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072819-5",
+      "label": "Decoración interior"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074511-9",
+      "label": "Mallorca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132519-9",
+      "label": "casa de verano"
+    }
+  ]
+}

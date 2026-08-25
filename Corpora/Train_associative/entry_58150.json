@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_58150",
+  "text": "",
+  "metadata": {
+    "title": "Papeles de Bolívar",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118513052",
+      "label": "Bolívar, Simón"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078014-4",
+      "label": "América del Sur"
+    }
+  ]
+}

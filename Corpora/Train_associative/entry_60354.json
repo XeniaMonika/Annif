@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_60354",
+  "text": "",
+  "metadata": {
+    "title": "Cartilla de agricultura filipina",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003217-6",
+      "label": "Asia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034402-2",
+      "label": "Agricultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037195-5",
+      "label": "Archipiélago Malayo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045771-0",
+      "label": "Filipinas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058448-3",
+      "label": "Sudeste Asiático"
+    }
+  ]
+}

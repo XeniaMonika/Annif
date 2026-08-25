@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_22912",
+  "text": "",
+  "metadata": {
+    "title": "Ars et scientia : estudios sobre arquitectos y arquitectura (s. XIII - XXI)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011455-7",
+      "label": "Edificios históricos--Restauración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041421-8",
+      "label": "Ciencias naturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4112587-3",
+      "label": "Teoría de la arquitectura"
+    }
+  ]
+}

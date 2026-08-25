@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_55291",
+  "text": "",
+  "metadata": {
+    "title": "Iberische Landeskunde",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073972-7",
+      "label": "Cultura del país"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076769-3",
+      "label": "Época romana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078931-7",
+      "label": "Antropología cultural y social"
+    }
+  ]
+}

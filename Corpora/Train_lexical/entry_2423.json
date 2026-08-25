@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2423",
+  "text": "",
+  "metadata": {
+    "title": "Ennodio di Pavia : cultura, letteratura, stile fra V e VI secolo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118682113",
+      "label": "Ennodius, Magnus Felix"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4010110-1",
+      "label": "literatura cristiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044970-1",
+      "label": "Pavía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124227-0",
+      "label": "Imperio bizantino--Historia--Hasta 527"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125698-0",
+      "label": "Civilización"
+    }
+  ]
+}

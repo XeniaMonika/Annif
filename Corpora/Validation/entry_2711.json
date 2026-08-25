@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2711",
+  "text": "",
+  "metadata": {
+    "title": "El Teatro Principal de Valencia : acústica y arquitectura escénica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000988-9",
+      "label": "acústica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059706-4",
+      "label": "teatro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4146863-6",
+      "label": "Maquinaria escénica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4215437-6",
+      "label": "Teatro Principal de Valencia"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5590",
+  "text": "",
+  "metadata": {
+    "title": "El libro: creación, producción y consumo en la Granada del siglo XIX",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4013134-8",
+      "label": "impreso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4021815-6",
+      "label": "Granada"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063004-3",
+      "label": "editorial de libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/5093475-2",
+      "label": ""
+    }
+  ]
+}

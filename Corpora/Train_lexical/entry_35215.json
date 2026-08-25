@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_35215",
+  "text": "",
+  "metadata": {
+    "title": "Praxiswörterbuch Immobilien Spanisch : spanisch-deutsch, deutsch-spanisch",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4016216-3",
+      "label": "Lenguajes especializados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113997-5",
+      "label": "Sector inmobiliario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4186834-1",
+      "label": "Propiedad inmobiliaria"
+    }
+  ]
+}

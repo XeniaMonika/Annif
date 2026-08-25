@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3898",
+  "text": "",
+  "metadata": {
+    "title": "La mujer argentina, chilena, uruguaya y paraguaya en el siglo XIX",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002890-2",
+      "label": "Argentina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4009929-5",
+      "label": "Chile"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018202-2",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044601-3",
+      "label": "Paraguay"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062186-8",
+      "label": "Uruguay"
+    }
+  ]
+}

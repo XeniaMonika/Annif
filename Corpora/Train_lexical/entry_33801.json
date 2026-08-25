@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_33801",
+  "text": "",
+  "metadata": {
+    "title": "Atlas geográfico de la República Argentina",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002890-2",
+      "label": "Argentina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036546-3",
+      "label": "Fotografía aérea"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073972-7",
+      "label": "Cultura del país"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4179145-9",
+      "label": "Imagen de satélite"
+    }
+  ]
+}

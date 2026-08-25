@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2990",
+  "text": "",
+  "metadata": {
+    "title": "Donde el mundo se llama Guadalajara : poesía, novela, teatro",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015464-6",
+      "label": "narración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4086838-2",
+      "label": "Provincia de Guadalajara"
+    }
+  ]
+}

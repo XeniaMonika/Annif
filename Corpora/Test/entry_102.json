@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_102",
+  "text": "",
+  "metadata": {
+    "title": "Flora Iberica : plantas vasculares de la Península Ibérica e Islas Baleares",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4019654-9",
+      "label": "Tracheobionta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069098-2",
+      "label": "Islas Baleares"
+    }
+  ]
+}

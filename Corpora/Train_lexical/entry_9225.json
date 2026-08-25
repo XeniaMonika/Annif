@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_9225",
+  "text": "",
+  "metadata": {
+    "title": "Testimonios, artistas y manifestaciones",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4059702-7",
+      "label": "Teatros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4135231-2",
+      "label": "Presentaciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4143388-9",
+      "label": "presentación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4433627-5",
+      "label": "escenografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/5079490-5",
+      "label": "Exposición Ibero-Americana, 1929-1930"
+    }
+  ]
+}

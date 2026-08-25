@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_62529",
+  "text": "",
+  "metadata": {
+    "title": "Flora mycologica Iberica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4046076-9",
+      "label": "Setas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069098-2",
+      "label": "Islas Baleares"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128136-6",
+      "label": "sistemática"
+    }
+  ]
+}

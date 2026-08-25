@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_32265",
+  "text": "",
+  "metadata": {
+    "title": "Estudios arqueológicos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002827-6",
+      "label": "arqueología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4004973-5",
+      "label": "Edificios históricos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019119-9",
+      "label": "Galicia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129464-6",
+      "label": "Excavación"
+    }
+  ]
+}

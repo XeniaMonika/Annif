@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_33248",
+  "text": "",
+  "metadata": {
+    "title": "María y yo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003932-8",
+      "label": "Autismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4021811-9",
+      "label": "Gran Canaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4060290-4",
+      "label": "hija"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062386-5",
+      "label": "padre"
+    }
+  ]
+}

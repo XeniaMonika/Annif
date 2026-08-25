@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_31764",
+  "text": "",
+  "metadata": {
+    "title": "Navarra : castillos, torres y palacios",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4009104-1",
+      "label": "castillo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041455-3",
+      "label": "Navarra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044394-2",
+      "label": "Palacios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4052753-0",
+      "label": "château"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139791-5",
+      "label": "casa torre"
+    }
+  ]
+}

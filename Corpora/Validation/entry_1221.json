@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1221",
+  "text": "",
+  "metadata": {
+    "title": "La manipulación del lenguaje : breve diccionario de los engaños",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037348-4",
+      "label": "manipulación mental"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046559-7",
+      "label": "Retórica--Aspectos políticos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4070713-1",
+      "label": "Cambio de actitud"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4117662-5",
+      "label": "Lenguaje económico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132065-7",
+      "label": "Conciencia política"
+    }
+  ]
+}

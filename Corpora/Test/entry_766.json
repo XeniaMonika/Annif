@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_766",
+  "text": "",
+  "metadata": {
+    "title": "Entre novelas y películas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/102289935X",
+      "label": "Adaptación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053309-8",
+      "label": "Escritores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062809-7",
+      "label": "Adaptaciones cinematográficas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4294338-3",
+      "label": "Guionista"
+    }
+  ]
+}

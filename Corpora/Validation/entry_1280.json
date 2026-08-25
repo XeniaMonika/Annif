@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_1280",
+  "text": "",
+  "metadata": {
+    "title": "Sevilla guadalupana : arte, historia y devoción",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054671-8",
+      "label": "Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074563-6",
+      "label": "Virgen María--Iconografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074567-3",
+      "label": "Virgen María--Culto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4477308-0",
+      "label": "Nuestra Señora de Guadalupe"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4773868-6",
+      "label": "Santa María"
+    }
+  ]
+}

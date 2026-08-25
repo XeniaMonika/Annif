@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_24143",
+  "text": "",
+  "metadata": {
+    "title": "La novela rosa",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4061418-9",
+      "label": "Traducciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4178446-7",
+      "label": "Mujeres novelistas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4186255-7",
+      "label": "chick lit"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4297637-6",
+      "label": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3491",
+  "text": "",
+  "metadata": {
+    "title": "V.C.R.T.",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/12044898X",
+      "label": "Hirschhorn, Thomas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053297-5",
+      "label": "sistema de escritura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4191427-2",
+      "label": "Mensajes de correo electrónico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4206777-7",
+      "label": "Toma de apuntes"
+    }
+  ]
+}

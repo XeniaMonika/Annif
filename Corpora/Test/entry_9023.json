@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_9023",
+  "text": "",
+  "metadata": {
+    "title": "Pequeño Quijote ilustrado",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4050152-8",
+      "label": "Caballeros y caballería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066380-2",
+      "label": "Realidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072730-0",
+      "label": "imaginación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129108-6",
+      "label": "Historia medieval"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4161197-4",
+      "label": "ideal"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_22203",
+  "text": "",
+  "metadata": {
+    "title": "El Ayuntamiento de Huesca : historia, arte y poder",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063323-8",
+      "label": "edificio administrativo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4089293-1",
+      "label": "Huesca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177411-5",
+      "label": "edificio gubernamental"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_18382",
+  "text": "",
+  "metadata": {
+    "title": "Atlas Tucumán 100 K : cartografía topográfica y de imagen escala 1:100 000 y ortofotos de San Miguel de Tucumán escala 1:20 000",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4061144-9",
+      "label": "Provincia de Tucumán"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078238-4",
+      "label": "mapa temático"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4119736-7",
+      "label": "San Miguel de Tucumán"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133697-5",
+      "label": "Topografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4172875-0",
+      "label": "Ortofoto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4179145-9",
+      "label": "Imagen de satélite"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_33920",
+  "text": "",
+  "metadata": {
+    "title": "Valles de Irati y Aezkoa : mapa excursionista",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4018382-8",
+      "label": "Ocio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120998-9",
+      "label": "marcha de montaña"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4198578-3",
+      "label": "Ciclismo todoterreno"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4686637-1",
+      "label": "Valle de Salazar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7641553-3",
+      "label": "Valle de Aezkoa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7641554-5",
+      "label": "Valle de Irati"
+    }
+  ]
+}

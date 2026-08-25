@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_650",
+  "text": "",
+  "metadata": {
+    "title": "La mirada hispánica : aproximaciones a Estados Unidos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040802-4",
+      "label": "música"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078704-7",
+      "label": "EE. UU."
+    }
+  ]
+}

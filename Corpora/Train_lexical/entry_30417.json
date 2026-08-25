@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_30417",
+  "text": "",
+  "metadata": {
+    "title": "Literatura en idioma alemán sobre Venezuela en la biblioteca de Acción Ecuménica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1188439200",
+      "label": "Acción Ecuménica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062512-6",
+      "label": "Venezuela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129720-9",
+      "label": "libro de no ficción"
+    }
+  ]
+}

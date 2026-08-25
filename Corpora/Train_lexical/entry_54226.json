@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_54226",
+  "text": "",
+  "metadata": {
+    "title": "Tradiciones del Valle de Aran : hechos, costumbres y leyendas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008017-1",
+      "label": "costumbre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035028-9",
+      "label": "leyenda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4107524-9",
+      "label": "Valle de Arán"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127794-6",
+      "label": "Historia local"
+    }
+  ]
+}

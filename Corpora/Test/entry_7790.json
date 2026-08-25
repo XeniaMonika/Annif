@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_7790",
+  "text": "",
+  "metadata": {
+    "title": "Erdi aroko hiri baten sorrera : gatz haraneko arkeologia, paisaia eta arkitektura (Araba)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002827-6",
+      "label": "arqueología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051370-1",
+      "label": "salina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051437-7",
+      "label": "Comercio de sal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079679-6",
+      "label": "Álava"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129464-6",
+      "label": "Excavación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131245-4",
+      "label": "extracción de sal"
+    }
+  ]
+}

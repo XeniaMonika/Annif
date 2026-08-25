@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_16367",
+  "text": "",
+  "metadata": {
+    "title": "Catálogo de las obras pictóricas de los centros religiosos de Palacios de Benaver, Sasamón, Villasandino y Melgar de Fernamental : villas burgalesas en el Camino de Santiago",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4010109-5",
+      "label": "Arte religioso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4030702-5",
+      "label": "Iglesia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031225-2",
+      "label": "Monasterios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4080585-2",
+      "label": "Provincia de Burgos"
+    }
+  ]
+}

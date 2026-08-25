@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_56904",
+  "text": "",
+  "metadata": {
+    "title": "Colombia : patria de tres mares ; [ed. conmemorativa del Año Internacional de los Oceános y de la Feria Universal Expolisboa '98]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4031812-6",
+      "label": "Colombia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044981-6",
+      "label": "Océano Pacífico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073241-1",
+      "label": "el Caribe"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074685-9",
+      "label": "Oceanografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4169246-9",
+      "label": "Biología marina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4299633-8",
+      "label": "Cuenca del Orinoco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4338087-6",
+      "label": "cuenca del Amazonas"
+    }
+  ]
+}

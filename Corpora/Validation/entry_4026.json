@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_4026",
+  "text": "",
+  "metadata": {
+    "title": "La edad media de Navarra a Sevilla",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4019956-3",
+      "label": "municipio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056723-0",
+      "label": "Ciudades"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064115-6",
+      "label": "crecimiento biológico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4118612-6",
+      "label": "Provincia de Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120730-0",
+      "label": "migración humana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4172548-7",
+      "label": "Oligarquía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4263799-5",
+      "label": "Reino de Navarra"
+    }
+  ]
+}

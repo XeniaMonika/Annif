@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_45881",
+  "text": "",
+  "metadata": {
+    "title": "De la \"A\" a la \"Z\" : diccionario universal bio-bibliográfico de autoras que escriben en castellano ; siglo XX",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4053311-6",
+      "label": "escritor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113622-6",
+      "label": "Literatura--Autoras"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194079-9",
+      "label": "Hispanoamérica"
+    }
+  ]
+}

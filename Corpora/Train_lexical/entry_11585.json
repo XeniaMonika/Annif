@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11585",
+  "text": "",
+  "metadata": {
+    "title": "Ensayo de un diccionario de traductores españoles de obras científicas y técnicas (1750-1900) : medicina",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4038243-6",
+      "label": "Medicina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061414-1",
+      "label": "Traductores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061418-9",
+      "label": "Traducciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4153493-1",
+      "label": "literatura especializada"
+    }
+  ]
+}

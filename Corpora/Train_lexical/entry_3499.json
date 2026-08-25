@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3499",
+  "text": "",
+  "metadata": {
+    "title": "Arte y arquitectura en el Real Monasterio de Santiago de Uclés (1500-1750)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7583222-7",
+      "label": "dependencia monástica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7740937-1",
+      "label": "Monasterio de Uclés"
+    }
+  ]
+}

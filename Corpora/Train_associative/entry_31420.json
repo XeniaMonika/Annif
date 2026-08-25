@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_31420",
+  "text": "",
+  "metadata": {
+    "title": "Las otras lenguas de España : IV curso de invierno de la Universidad de Valladolid",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040725-1",
+      "label": "dialecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4088809-5",
+      "label": "Lengua vasca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113661-5",
+      "label": "Lengua gallega"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120218-1",
+      "label": "Lengua catalana"
+    }
+  ]
+}

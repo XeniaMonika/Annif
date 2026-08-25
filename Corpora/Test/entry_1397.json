@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1397",
+  "text": "",
+  "metadata": {
+    "title": "La estructura informativa",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4026925-5",
+      "label": "Estructura de la información"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047500-1",
+      "label": "Análisis prosódico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058779-4",
+      "label": "Sintaxis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4135250-6",
+      "label": "Orden de las palabras (Gramática)"
+    }
+  ]
+}

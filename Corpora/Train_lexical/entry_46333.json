@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_46333",
+  "text": "",
+  "metadata": {
+    "title": "Estudios sobre Cervantes y la edad de oro",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118518399",
+      "label": "Calderón de la Barca, Pedro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/11851993X",
+      "label": "Cervantes Saavedra, Miguel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/11854070X",
+      "label": "Góngora y Argote, Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118716344",
+      "label": "Vega, Garcilaso"
+    }
+  ]
+}

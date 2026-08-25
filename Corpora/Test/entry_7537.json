@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_7537",
+  "text": "",
+  "metadata": {
+    "title": "Literatura, política y fiesta en el Madrid de los Siglos de Oro",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046514-7",
+      "label": "política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4153848-1",
+      "label": "día festivo"
+    }
+  ]
+}

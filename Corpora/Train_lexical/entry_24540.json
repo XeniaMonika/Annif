@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_24540",
+  "text": "",
+  "metadata": {
+    "title": "Las pinturas del Ochavo : los tesoros de la Catedral de Puebla",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4010109-5",
+      "label": "Arte religioso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163932-7",
+      "label": "Tesoro litúrgico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4495846-8",
+      "label": "Catedral de Puebla"
+    }
+  ]
+}

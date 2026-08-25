@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_31890",
+  "text": "",
+  "metadata": {
+    "title": "La monarquía hispánica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000464-8",
+      "label": "Nobleza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027106-7",
+      "label": "Inquisición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040034-7",
+      "label": "monarquía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4738892-4",
+      "label": "Patrimonialismo"
+    }
+  ]
+}

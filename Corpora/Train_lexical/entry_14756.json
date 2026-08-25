@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_14756",
+  "text": "",
+  "metadata": {
+    "title": "Barcelona de novela",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035947-5",
+      "label": "Lugar literario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050479-7",
+      "label": "Novelas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120218-1",
+      "label": "Lengua catalana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4401048-5",
+      "label": ""
+    }
+  ]
+}

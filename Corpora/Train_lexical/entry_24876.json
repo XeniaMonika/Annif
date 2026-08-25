@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_24876",
+  "text": "",
+  "metadata": {
+    "title": "Residential eco houses",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4063532-6",
+      "label": "Arquitectura doméstica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066772-8",
+      "label": "Vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069183-4",
+      "label": "bioconstrucción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113437-0",
+      "label": "Construcción eficiente desde el punto de vista energético"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4311326-6",
+      "label": "Casas de campo"
+    }
+  ]
+}

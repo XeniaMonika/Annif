@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_6280",
+  "text": "",
+  "metadata": {
+    "title": "Arquitectura, urbanismo y paisaje en los santuarios españoles",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061321-5",
+      "label": "Tipología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073436-5",
+      "label": "Iglesias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    }
+  ]
+}

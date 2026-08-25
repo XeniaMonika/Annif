@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_19",
+  "text": "",
+  "metadata": {
+    "title": "Biblia de Ferrara",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006406-2",
+      "label": "La Biblia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015950-4",
+      "label": "Hermenéutica bíblica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059758-1",
+      "label": "Teología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4135180-0",
+      "label": "Estudios bíblicos"
+    }
+  ]
+}

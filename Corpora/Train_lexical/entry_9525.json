@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_9525",
+  "text": "",
+  "metadata": {
+    "title": "The lizards, crocodiles, and turtles of Honduras : systematics, distribution, and conservation",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4013473-8",
+      "label": "Saurios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4025814-2",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033256-1",
+      "label": "Cocodrilos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4052472-3",
+      "label": "Tortugas"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_54604",
+  "text": "",
+  "metadata": {
+    "title": "García Lorca : pasaje a La Habana",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118537598",
+      "label": "García Lorca, Federico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    }
+  ]
+}

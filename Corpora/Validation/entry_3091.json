@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3091",
+  "text": "",
+  "metadata": {
+    "title": "El sistema del arte en España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033673-6",
+      "label": "Sociología del arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120630-7",
+      "label": "Arte--Aspectos económicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4315813-4",
+      "label": "Economía del arte"
+    }
+  ]
+}

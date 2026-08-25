@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_20330",
+  "text": "",
+  "metadata": {
+    "title": "Quinua",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4152839-6",
+      "label": "Cosecha"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4314944-3",
+      "label": "Quinoa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4349003-7",
+      "label": "Cultivo de la quinua"
+    }
+  ]
+}

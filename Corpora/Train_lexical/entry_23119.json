@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_23119",
+  "text": "",
+  "metadata": {
+    "title": "Compañeros de oficio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4112587-3",
+      "label": "Teoría de la arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140255-8",
+      "label": "Arquitectura regionalista"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188510-7",
+      "label": "Arquitectura popular"
+    }
+  ]
+}

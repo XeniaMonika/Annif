@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5460",
+  "text": "",
+  "metadata": {
+    "title": "Arte y etiqueta de los Reyes Católicos : artistas, residencias, jardines y bosques",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113952-5",
+      "label": "Protocolo de la corte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122200-3",
+      "label": "Cultura cortesana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4160343-6",
+      "label": "Arte cortesano"
+    }
+  ]
+}

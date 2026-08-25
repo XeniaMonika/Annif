@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_11235",
+  "text": "",
+  "metadata": {
+    "title": "El lector y la obra : teoría de la recepción literaria",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035441-6",
+      "label": "Lectores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129895-0",
+      "label": "Estética de la recepción"
+    }
+  ]
+}

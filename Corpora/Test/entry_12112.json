@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_12112",
+  "text": "",
+  "metadata": {
+    "title": "Catálogo abreviado de una colección dramática española, hasta fines del siglo XIX y de obras relativas al teatro español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059702-7",
+      "label": "Teatros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document_id": "entry_1104",
+  "text": "",
+  "metadata": {
+    "title": "La herencia española del legado cultural griego",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4016216-3",
+      "label": "Lenguajes especializados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035076-9",
+      "label": "palabra prestada (préstamo)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035548-2",
+      "label": "Lexicografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041421-8",
+      "label": "Ciencias naturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056550-6",
+      "label": "Refranes y proverbios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059205-4",
+      "label": "técnica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113791-7",
+      "label": "Lengua griega"
+    }
+  ]
+}

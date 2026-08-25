@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_23192",
+  "text": "",
+  "metadata": {
+    "title": "Trafalgar : historia y memoria de un mito ; catálogo crítico de la producción bibliográfica británica, española y francesa sobre Trafalgar (1805 - 2005)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4018145-5",
+      "label": "Francia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020531-9",
+      "label": "Historiografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022153-2",
+      "label": "Reino Unido"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075159-4",
+      "label": "Mito"
+    }
+  ]
+}

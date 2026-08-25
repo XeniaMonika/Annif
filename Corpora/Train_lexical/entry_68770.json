@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_68770",
+  "text": "",
+  "metadata": {
+    "title": "Unesco, IBE education thesaurus : a list of terms for indexing and retrieving documents and data in the field of education - with French and Spanish equivalents",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015482-8",
+      "label": "educación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044302-4",
+      "label": "pedagogía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059501-8",
+      "label": "terminología"
+    }
+  ]
+}

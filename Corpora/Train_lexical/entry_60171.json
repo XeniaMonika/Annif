@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_60171",
+  "text": "",
+  "metadata": {
+    "title": "English-Spanish and Spanish-English glossary of geoscience terms",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014777-0",
+      "label": "Lengua inglesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020227-6",
+      "label": "Geología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020252-5",
+      "label": "Geofísica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020288-4",
+      "label": "Ciencias de la tierra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039457-8",
+      "label": "Mineralogía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

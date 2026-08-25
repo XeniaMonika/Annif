@@ -1,0 +1,62 @@
+{
+  "document_id": "entry_51481",
+  "text": "",
+  "metadata": {
+    "title": "Flora del Pirineo Navarro",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4007348-8",
+      "label": "Suelos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019654-9",
+      "label": "Tracheobionta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020227-6",
+      "label": "Geología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031170-3",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041455-3",
+      "label": "Navarra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045561-0",
+      "label": "fitogeografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045563-4",
+      "label": "Comunidades vegetales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124461-8",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126152-5",
+      "label": "nomenclatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132162-5",
+      "label": "Ubicación de las plantas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4160360-6",
+      "label": "Nivel de altitud"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4187586-2",
+      "label": "Distribución"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4239536-7",
+      "label": "hábitat"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5235",
+  "text": "",
+  "metadata": {
+    "title": "Andalucía de vuelta y media : (represión, prensa e imagen)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033542-2",
+      "label": "Identidad cultural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4043152-6",
+      "label": "Opinión pública"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046565-2",
+      "label": "Terrorismo de Estado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047150-0",
+      "label": "Prensa"
+    }
+  ]
+}

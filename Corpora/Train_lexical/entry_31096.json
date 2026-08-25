@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_31096",
+  "text": "",
+  "metadata": {
+    "title": "Hello Hemingway",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118549030",
+      "label": "Hemingway, Ernest"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023865-9",
+      "label": "La Habana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4099230-5",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4149920-7",
+      "label": "dictadura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4338135-2",
+      "label": "Adolescentes de sexo femenino"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4585125-6",
+      "label": "DVD-Vídeo"
+    }
+  ]
+}

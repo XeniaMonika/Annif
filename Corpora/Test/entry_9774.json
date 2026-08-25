@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_9774",
+  "text": "",
+  "metadata": {
+    "title": "Antología de textos acadios",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4027107-9",
+      "label": "Inscripciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059596-1",
+      "label": "texto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4084837-1",
+      "label": "Lengua acadia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130946-7",
+      "label": "Inscripciones cuneiformes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4170223-2",
+      "label": "Transliteración"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_21172",
+  "text": "",
+  "metadata": {
+    "title": "Introducción a la pintura a través del color",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4016443-3",
+      "label": "color"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113517-9",
+      "label": "Color (Filosofía)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125812-5",
+      "label": "Pintura--Técnica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4168721-8",
+      "label": "Materiales para artistas"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_22208",
+  "text": "",
+  "metadata": {
+    "title": "Vicente Acero y la Catedral Nueva de Cádiz",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/123251834",
+      "label": "Acero, Vicente"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068827-6",
+      "label": "dibujo arquitectónico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073436-5",
+      "label": "Iglesias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4659648-3",
+      "label": "Nueva catedral de Cádiz"
+    }
+  ]
+}

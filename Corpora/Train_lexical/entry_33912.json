@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_33912",
+  "text": "",
+  "metadata": {
+    "title": "La casa natural",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034343-1",
+      "label": "Paisaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063532-6",
+      "label": "Arquitectura doméstica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4145198-3",
+      "label": "Relación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4311326-6",
+      "label": "Casas de campo"
+    }
+  ]
+}

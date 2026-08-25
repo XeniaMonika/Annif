@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_21819",
+  "text": "",
+  "metadata": {
+    "title": "Themenwortschatz",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4049194-8",
+      "label": "Matura (educación)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054367-5",
+      "label": "Educación secundaria de segundo ciclo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055974-9",
+      "label": "Lengua española--Didáctica--Extranjeros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4167289-6",
+      "label": "Control del rendimiento"
+    }
+  ]
+}

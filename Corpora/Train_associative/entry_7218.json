@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_7218",
+  "text": "",
+  "metadata": {
+    "title": "El triángulo de las artes : Barcelona-Madrid-Tenerife",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033423-5",
+      "label": "Artistas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133965-4",
+      "label": "vanguardismo"
+    }
+  ]
+}

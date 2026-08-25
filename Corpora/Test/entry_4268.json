@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_4268",
+  "text": "",
+  "metadata": {
+    "title": "Federico García Lorca en Nueva York y La Habana : cartas y recuerdos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118537598",
+      "label": "García Lorca, Federico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023865-9",
+      "label": "La Habana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4042011-5",
+      "label": "New York, NY"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    }
+  ]
+}

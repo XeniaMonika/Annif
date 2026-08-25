@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_30146",
+  "text": "",
+  "metadata": {
+    "title": "Terminología y sociedad del conocimiento",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4116579-2",
+      "label": "Procesamiento del lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165338-5",
+      "label": "Corpora (Lingüística)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4728093-1",
+      "label": "Minería de textos"
+    }
+  ]
+}

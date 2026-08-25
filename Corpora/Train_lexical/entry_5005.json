@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5005",
+  "text": "",
+  "metadata": {
+    "title": "Picasso Ibero",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118594206",
+      "label": "Picasso, Pablo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026429-4",
+      "label": "Iberos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068754-5",
+      "label": "Civilización clásica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    }
+  ]
+}

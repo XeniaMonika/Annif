@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11270",
+  "text": "",
+  "metadata": {
+    "title": "Guadalquivir : mapas y relatos de un río : imagen y mirada : exposición 2017",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4026309-5",
+      "label": "Hidrología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064821-7",
+      "label": "gestión de recursos hídricos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4094186-3",
+      "label": "Guadalquivir"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4154894-2",
+      "label": "gestión de río"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4459613-3",
+      "label": "Cuenca del Guadalquivir"
+    }
+  ]
+}

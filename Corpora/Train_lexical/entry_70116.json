@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_70116",
+  "text": "",
+  "metadata": {
+    "title": "Moby Dick",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4054184-8",
+      "label": "transporte marítimo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064432-7",
+      "label": "Cetáceos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064438-8",
+      "label": "caza de ballenas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126467-8",
+      "label": "Venganza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127664-4",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4141014-2",
+      "label": "aventura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163253-9",
+      "label": "Capitanes de buques"
+    }
+  ]
+}

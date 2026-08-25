@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3249",
+  "text": "",
+  "metadata": {
+    "title": "Conversación con Luis García Montero",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/120509431",
+      "label": "García Montero, Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046514-7",
+      "label": "política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077575-6",
+      "label": "Situación social"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4446215-3",
+      "label": "Comunidad Autónoma de Madrid"
+    }
+  ]
+}

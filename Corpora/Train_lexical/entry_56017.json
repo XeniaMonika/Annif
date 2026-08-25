@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_56017",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario de Juan Alonso y de los Ruizes de Fontecha",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4016216-3",
+      "label": "Lenguajes especializados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038243-6",
+      "label": "Medicina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041421-8",
+      "label": "Ciencias naturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113791-7",
+      "label": "Lengua griega"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241223-7",
+      "label": "Lengua árabe"
+    }
+  ]
+}

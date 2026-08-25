@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_29674",
+  "text": "",
+  "metadata": {
+    "title": "Digital atlas of economic plants",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033576-8",
+      "label": "Plantas cultivadas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4042838-2",
+      "label": "Plantas útiles"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076988-4",
+      "label": "Fanerógamas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126152-5",
+      "label": "nomenclatura"
+    }
+  ]
+}

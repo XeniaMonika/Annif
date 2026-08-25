@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_70535",
+  "text": "",
+  "metadata": {
+    "title": "Estudios lingüísticos hispánicos, afrohispánicos y criollos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000695-5",
+      "label": "África"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073790-1",
+      "label": "lengua criolla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133929-0",
+      "label": "Dialectos criollos españoles"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159976-7",
+      "label": "hispanoamericano"
+    }
+  ]
+}

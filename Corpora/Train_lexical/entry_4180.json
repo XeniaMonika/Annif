@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_4180",
+  "text": "",
+  "metadata": {
+    "title": "Interconexiones : estudios comparativos de literatura, lengua y cultura italianas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114056-4",
+      "label": "Lengua italiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125698-0",
+      "label": "Civilización"
+    }
+  ]
+}

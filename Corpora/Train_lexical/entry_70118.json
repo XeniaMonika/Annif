@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_70118",
+  "text": "",
+  "metadata": {
+    "title": "Apuntes sobre el desarrollo paraguayo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4044601-3",
+      "label": "Paraguay"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066438-7",
+      "label": "Desarrollo económico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066527-6",
+      "label": "crecimiento económico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068297-3",
+      "label": "Relaciones económicas"
+    }
+  ]
+}

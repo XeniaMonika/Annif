@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_20480",
+  "text": "",
+  "metadata": {
+    "title": "Don Pedro Giannini o Las matemáticas de los artilleros del siglo XVIII",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/104956426X",
+      "label": "Giannini, Pietro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037945-0",
+      "label": "Matemáticos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125247-0",
+      "label": "Artillería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/5096023-4",
+      "label": "Real Colegio de Artillería"
+    }
+  ]
+}

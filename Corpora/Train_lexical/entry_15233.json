@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_15233",
+  "text": "",
+  "metadata": {
+    "title": "Tierras solares",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4005406-8",
+      "label": "Bélgica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011882-4",
+      "label": "Alemania"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027833-5",
+      "label": "Italia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4043271-3",
+      "label": "Austria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

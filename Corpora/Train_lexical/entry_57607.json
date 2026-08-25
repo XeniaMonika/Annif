@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_57607",
+  "text": "",
+  "metadata": {
+    "title": "Catálogo de pliegos sueltos poéticos de la Biblioteca Nacional : siglo XVII",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1027025-5",
+      "label": "Biblioteca Nacional de España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128812-9",
+      "label": "Poesía ocasional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    }
+  ]
+}

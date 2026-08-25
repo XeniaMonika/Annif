@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_18220",
+  "text": "",
+  "metadata": {
+    "title": "Atlas del agua en México 2014",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4022369-3",
+      "label": "Aguas subterráneas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026309-5",
+      "label": "Hidrología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064728-6",
+      "label": "Agua--Calidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064811-4",
+      "label": "suministro de agua"
+    }
+  ]
+}

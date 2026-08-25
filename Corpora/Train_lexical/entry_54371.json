@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_54371",
+  "text": "",
+  "metadata": {
+    "title": "Elsevier's dictionary of cybernyms : abbreviations and acronyms used in telecommunications, electronics and computer science in English, French, Spanish, and German with some Italian, Portuguese, Swedish, Danish and Finnish",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4011152-0",
+      "label": "Proceso de datos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014346-6",
+      "label": "Electrónica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059360-5",
+      "label": "telecomunicación"
+    }
+  ]
+}

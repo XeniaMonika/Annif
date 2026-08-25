@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11930",
+  "text": "",
+  "metadata": {
+    "title": "Carta y breve compendio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1167557212",
+      "label": "Chinchilla, Pedro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073292-7",
+      "label": "Castilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115589-0",
+      "label": "disputa política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128497-5",
+      "label": "Estabilidad política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129503-1",
+      "label": "Ética política"
+    }
+  ]
+}

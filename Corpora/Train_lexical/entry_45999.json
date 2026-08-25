@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_45999",
+  "text": "",
+  "metadata": {
+    "title": "Guía de usos y costumbres",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008017-1",
+      "label": "costumbre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073972-7",
+      "label": "Cultura del país"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4137343-1",
+      "label": "carácter nacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4204494-7",
+      "label": "usos y costumbres"
+    }
+  ]
+}

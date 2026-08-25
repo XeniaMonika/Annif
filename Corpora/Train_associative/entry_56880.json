@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_56880",
+  "text": "",
+  "metadata": {
+    "title": "Verdadera notable relación del descubrimiento y conquista de la Nueva España y Guatemala",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022428-4",
+      "label": "Guatemala"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039660-5",
+      "label": "América Central"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    }
+  ]
+}

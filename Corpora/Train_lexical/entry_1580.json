@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1580",
+  "text": "",
+  "metadata": {
+    "title": "El culto a la memoria : ética y estética",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000626-8",
+      "label": "Estética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011453-3",
+      "label": "monumento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015602-3",
+      "label": "Ética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4200793-8",
+      "label": "Memoria colectiva"
+    }
+  ]
+}

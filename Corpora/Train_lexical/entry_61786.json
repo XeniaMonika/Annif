@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_61786",
+  "text": "",
+  "metadata": {
+    "title": "La demanda de transporte de pasajeros en el trayecto Gran Canaria-Tenerife : una aplicación de los modelos de elección discreta",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4021811-9",
+      "label": "Gran Canaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059453-1",
+      "label": "Tenerife"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121467-5",
+      "label": "Transporte de pasajeros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4134157-0",
+      "label": "Demanda de transporte"
+    }
+  ]
+}

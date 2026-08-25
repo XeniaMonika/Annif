@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_15859",
+  "text": "",
+  "metadata": {
+    "title": "Dos ensayos vascos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015594-8",
+      "label": "ETA"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066466-1",
+      "label": "crisis económica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069161-5",
+      "label": "País Vasco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077575-6",
+      "label": "Situación social"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_68205",
+  "text": "",
+  "metadata": {
+    "title": "Mathematik und mathematische Modellierung : philosophische und methodologische Probleme",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037944-9",
+      "label": "Matemáticas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037959-0",
+      "label": "Matematización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045791-6",
+      "label": "Filosofía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066562-8",
+      "label": "Ciencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114528-8",
+      "label": "Modelos matemáticos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4117665-0",
+      "label": "Teoría de la ciencia"
+    }
+  ]
+}

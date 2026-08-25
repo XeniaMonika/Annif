@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_811",
+  "text": "",
+  "metadata": {
+    "title": "Kontrastive Linguistik : Französisch - Italienisch - Spanisch - Deutsch : eine Einführung",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4073708-1",
+      "label": "Lingüística contrastiva"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113615-9",
+      "label": "Lengua francesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114056-4",
+      "label": "Lengua italiana"
+    }
+  ]
+}

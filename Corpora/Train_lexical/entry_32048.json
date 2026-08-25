@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_32048",
+  "text": "",
+  "metadata": {
+    "title": "FAO yearbook",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4017310-0",
+      "label": "explotación pesquera"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4065468-0",
+      "label": "economía mundial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4112555-1",
+      "label": "Acuicultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138041-1",
+      "label": "Productos pesqueros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4154473-0",
+      "label": "pesca"
+    }
+  ]
+}

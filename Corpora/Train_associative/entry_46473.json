@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_46473",
+  "text": "",
+  "metadata": {
+    "title": "Diario del primer viaje de Colón",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118564994",
+      "label": "Colombo, Cristoforo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014841-5",
+      "label": "Descubrimientos científicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014842-7",
+      "label": "exploración geográfica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079228-6",
+      "label": "Indias Occidentales"
+    }
+  ]
+}

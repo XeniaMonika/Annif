@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_34604",
+  "text": "",
+  "metadata": {
+    "title": "Argentina : [poesía y arte contemporáneos]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002890-2",
+      "label": "Argentina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033422-3",
+      "label": "numeración de las artes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046449-0",
+      "label": "Poética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

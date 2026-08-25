@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_8620",
+  "text": "",
+  "metadata": {
+    "title": "Biblioteca Hispánica : obras maestras de la Biblioteca Nacional de España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1027025-5",
+      "label": "Biblioteca Nacional de España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113357-2",
+      "label": "grabado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4238091-1",
+      "label": "Mapas antiguos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4334756-3",
+      "label": "Monumento literario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4395805-9",
+      "label": "Obras sobre papel"
+    }
+  ]
+}

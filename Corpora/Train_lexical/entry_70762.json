@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_70762",
+  "text": "",
+  "metadata": {
+    "title": "Nomenclatura de la flora y fauna marítimas de Galicia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4038330-1",
+      "label": "Fauna marina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045573-7",
+      "label": "Plantas--Nombres vulgares"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113661-5",
+      "label": "Lengua gallega"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127959-1",
+      "label": "nombre"
+    }
+  ]
+}

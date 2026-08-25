@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1317",
+  "text": "",
+  "metadata": {
+    "title": "El templo de Córdoba : los constructores de la mezquita-catedral",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040320-8",
+      "label": "Mezquitas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4070108-6",
+      "label": "Catedral de Córdoba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073436-5",
+      "label": "Iglesias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    }
+  ]
+}

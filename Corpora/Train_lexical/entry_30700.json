@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_30700",
+  "text": "",
+  "metadata": {
+    "title": "Epigrafía jurídica de la Bética",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027107-9",
+      "label": "Inscripciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4048737-4",
+      "label": "Derecho"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    }
+  ]
+}

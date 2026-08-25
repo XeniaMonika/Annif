@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_33683",
+  "text": "",
+  "metadata": {
+    "title": "El Cid : poesía y teatro",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118838989",
+      "label": "Cid, El"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4174961-3",
+      "label": "Poema del Cid"
+    }
+  ]
+}

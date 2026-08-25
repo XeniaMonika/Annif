@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_22523",
+  "text": "",
+  "metadata": {
+    "title": "Alexandro de la Santa Cruz Talabán : un tratado artístico y científico inédito, 1778",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1047906309",
+      "label": "Santa Cruz Talabán, Alexandro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4000626-8",
+      "label": "Estética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059205-4",
+      "label": "técnica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066562-8",
+      "label": "Ciencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    }
+  ]
+}

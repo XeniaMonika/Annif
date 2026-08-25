@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_8751",
+  "text": "",
+  "metadata": {
+    "title": "Shakespeare en España : textos 1764 - 1916",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118613723",
+      "label": "Shakespeare, William"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4070570-5",
+      "label": "Teoría del drama"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_12101",
+  "text": "",
+  "metadata": {
+    "title": "Una visita al museo : catálogo comentado del material arqueológico del Proyecto Arqueologico Sonora-Sinaloa, México de Gordon F. Ekholm (1937-40) y del Proyecto Arqueológico Rio Sonora de Richard Pailes (1970)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002827-6",
+      "label": "arqueología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071507-3",
+      "label": "Hallazgos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4105388-6",
+      "label": "Sonora"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4118670-9",
+      "label": "Sinaloa"
+    }
+  ]
+}

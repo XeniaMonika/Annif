@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2535",
+  "text": "",
+  "metadata": {
+    "title": "Relatos de bibliotecas : Primer Certamen Literario de la Biblioteca Universitaria de Granada",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015464-6",
+      "label": "narración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

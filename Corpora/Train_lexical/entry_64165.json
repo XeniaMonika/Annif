@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_64165",
+  "text": "",
+  "metadata": {
+    "title": "Ludus vitalis : revista de filosofía de las ciencias de la vida",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006851-1",
+      "label": "Biología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041421-8",
+      "label": "Ciencias naturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045791-6",
+      "label": "Filosofía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129772-6",
+      "label": "ciencias de la vida"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_8907",
+  "text": "",
+  "metadata": {
+    "title": "Exhibition book",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002827-6",
+      "label": "arqueología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078951-2",
+      "label": "Prehistoria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124227-0",
+      "label": "Imperio bizantino--Historia--Hasta 527"
+    }
+  ]
+}

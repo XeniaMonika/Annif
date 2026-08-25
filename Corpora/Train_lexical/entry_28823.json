@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_28823",
+  "text": "",
+  "metadata": {
+    "title": "Materiales de ontologia estetica y hermenéutica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000626-8",
+      "label": "Estética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075660-9",
+      "label": "ontología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115604-3",
+      "label": "Postmodernismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128972-9",
+      "label": "Hermenéutica"
+    }
+  ]
+}

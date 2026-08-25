@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_70222",
+  "text": "",
+  "metadata": {
+    "title": "Hispanorama",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4005044-0",
+      "label": "Baviera"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019119-9",
+      "label": "Galicia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053588-5",
+      "label": "Administración escolar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062005-0",
+      "label": "Enseñanza"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_39871",
+  "text": "",
+  "metadata": {
+    "title": "Prehistoria : historia de España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071507-3",
+      "label": "Hallazgos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078951-2",
+      "label": "Prehistoria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4328681-1",
+      "label": "Etnoarqueología"
+    }
+  ]
+}

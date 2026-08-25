@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_7961",
+  "text": "",
+  "metadata": {
+    "title": "Textos potentes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1042500-7",
+      "label": "Oulipo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047497-5",
+      "label": "Prosa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074271-4",
+      "label": "Estilística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

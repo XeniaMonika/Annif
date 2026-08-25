@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_35573",
+  "text": "",
+  "metadata": {
+    "title": "Lengua y literatura de Borges",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118513532",
+      "label": "Borges, Jorge Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124854-5",
+      "label": "técnica narrativa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4152975-3",
+      "label": "Análisis del discurso narrativo"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_6314",
+  "text": "",
+  "metadata": {
+    "title": "Arte ingenuo : colección Santos Lloro",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1225940591",
+      "label": "Santos Lloro, Javier"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056248-7",
+      "label": "Juguetes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063851-0",
+      "label": "Arte popular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4234483-9",
+      "label": "Art brut"
+    }
+  ]
+}

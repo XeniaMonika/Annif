@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2702",
+  "text": "",
+  "metadata": {
+    "title": "Museos y centros de arte contemporáneo en España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039827-4",
+      "label": "modernidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040795-0",
+      "label": "Museos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4208853-7",
+      "label": "mundo del arte"
+    }
+  ]
+}

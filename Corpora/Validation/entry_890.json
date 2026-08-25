@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_890",
+  "text": "",
+  "metadata": {
+    "title": "La realidad de un escritor",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118803964",
+      "label": "Vargas Llosa, Mario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035296-1",
+      "label": "Lectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050479-7",
+      "label": "Novelas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4167882-5",
+      "label": "Producción literaria"
+    }
+  ]
+}

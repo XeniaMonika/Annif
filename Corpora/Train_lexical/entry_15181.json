@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_15181",
+  "text": "",
+  "metadata": {
+    "title": "Leyendo entre pantallas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035439-8",
+      "label": "lectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4191103-9",
+      "label": "Acceso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4195060-4",
+      "label": "Libros electrónicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4196910-8",
+      "label": "Medios digitales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4380940-6",
+      "label": "Bibliotecas digitales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4614795-0",
+      "label": "Alfabetización informacional"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_40669",
+  "text": "",
+  "metadata": {
+    "title": "Beauty design",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4072819-5",
+      "label": "Decoración interior"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4428932-7",
+      "label": "Centros de estética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4488683-4",
+      "label": "Peluquerías"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4718232-5",
+      "label": "Hotel de bienestar"
+    }
+  ]
+}

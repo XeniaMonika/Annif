@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_10643",
+  "text": "",
+  "metadata": {
+    "title": "Troll Corporation",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1071012568",
+      "label": "Comunidad en línea"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001307-8",
+      "label": "vida cotidiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121066-9",
+      "label": "Empleado de oficina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4196910-8",
+      "label": "Medios digitales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4535905-2",
+      "label": "comunicación virtual"
+    }
+  ]
+}

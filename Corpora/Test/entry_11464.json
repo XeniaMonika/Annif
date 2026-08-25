@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_11464",
+  "text": "",
+  "metadata": {
+    "title": "Cronología relativa del castellano",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4045830-1",
+      "label": "fonética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045836-2",
+      "label": "fonología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113923-9",
+      "label": "Fonología histórica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120134-6",
+      "label": "castellano medieval"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4160014-9",
+      "label": "Fonética histórica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4239828-9",
+      "label": "Datación relativa"
+    }
+  ]
+}

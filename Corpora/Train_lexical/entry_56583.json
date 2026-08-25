@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_56583",
+  "text": "",
+  "metadata": {
+    "title": "Libro blanco sobre Acteal, Chiapas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1233765-1",
+      "label": "Ejército Zapatista de Liberación Nacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4003451-3",
+      "label": "magnicidio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4109063-9",
+      "label": "Tzotzil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4235519-9",
+      "label": "Chenalhó"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4556961-7",
+      "label": "Matanza de Acteal"
+    }
+  ]
+}

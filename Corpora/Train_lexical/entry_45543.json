@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_45543",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario casi médico de la provincia de Granada",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4021816-8",
+      "label": "Provincia de Granada"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038243-6",
+      "label": "Medicina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061588-1",
+      "label": "lengua coloquial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    }
+  ]
+}

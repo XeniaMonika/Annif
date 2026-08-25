@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_10173",
+  "text": "",
+  "metadata": {
+    "title": "Las formaciones parasintéticas en español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4066957-9",
+      "label": "formación de palabras"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130468-8",
+      "label": "Compuesto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4306188-6",
+      "label": "Palabra compuesta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4325022-1",
+      "label": "Formación de prefijos"
+    }
+  ]
+}

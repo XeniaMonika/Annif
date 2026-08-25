@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_55160",
+  "text": "",
+  "metadata": {
+    "title": "Encephalon",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4019752-9",
+      "label": "Cerebro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120806-7",
+      "label": "Resonancia magnética nuclear (Medicina)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159930-5",
+      "label": "Función cerebral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4185710-0",
+      "label": "Anatomía topográfica"
+    }
+  ]
+}

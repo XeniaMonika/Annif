@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_66",
+  "text": "",
+  "metadata": {
+    "title": "Madrid y las estrellas : paseos y curiosidades",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003311-9",
+      "label": "Astronomía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120448-7",
+      "label": "Lugares históricos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125665-7",
+      "label": "Curiosidades y maravillas"
+    }
+  ]
+}

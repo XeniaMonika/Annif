@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_229",
+  "text": "",
+  "metadata": {
+    "title": "Colección Museográfica de Cártama : catálogo de la Colección Expositiva",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4071507-3",
+      "label": "Hallazgos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4142944-8",
+      "label": "Museos arqueológicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4983893-3",
+      "label": "Cártama"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_9565",
+  "text": "",
+  "metadata": {
+    "title": "De Kant a Hölderlin",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118532847",
+      "label": "Fichte, Johann Gottlieb"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118551981",
+      "label": "Hölderlin, Friedrich"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118559796",
+      "label": "Kant, Immanuel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011784-4",
+      "label": "Idealismo alemán"
+    }
+  ]
+}

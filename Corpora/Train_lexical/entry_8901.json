@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_8901",
+  "text": "",
+  "metadata": {
+    "title": "Esculturas de Juan Porcel, Juan Pascual de Mena y Vincente Rudiez en el desaparecido retablo mayor diseñado por Sabatini para los capuchinos del Prado",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/120237601",
+      "label": "Sabatini, Francisco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1251070620",
+      "label": "Rudiez, Vicente"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1251073387",
+      "label": "Porcel, Juan"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/133275566",
+      "label": "Mena, Juan Pascual"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4136462-4",
+      "label": "Retablos"
+    }
+  ]
+}

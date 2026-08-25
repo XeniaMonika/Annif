@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5765",
+  "text": "",
+  "metadata": {
+    "title": "El jazz habla español : 63 entrevisas con músicos de jazz, blues, world, tango-jazz, latin-jazz, flamenco-jazz",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4028532-7",
+      "label": "jazz"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040841-3",
+      "label": "Músicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    }
+  ]
+}

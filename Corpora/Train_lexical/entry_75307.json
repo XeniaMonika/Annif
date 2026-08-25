@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_75307",
+  "text": "",
+  "metadata": {
+    "title": "Boletín mensual de novedades de librería",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1027025-5",
+      "label": "Biblioteca Nacional de España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

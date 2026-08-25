@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_12258",
+  "text": "",
+  "metadata": {
+    "title": "El Lied romántico alemán",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4050491-8",
+      "label": "Romanticismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063852-2",
+      "label": "canción popular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4166040-7",
+      "label": "Canción artística de concierto"
+    }
+  ]
+}

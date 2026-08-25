@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_7866",
+  "text": "",
+  "metadata": {
+    "title": "Documentos con pinturas : diplomática, historia y arte",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008602-1",
+      "label": "Cubiertas de libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008650-1",
+      "label": "Iluminación de manuscritos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020531-9",
+      "label": "Historiografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072428-1",
+      "label": "heráldica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123412-1",
+      "label": "Ilustración científica"
+    }
+  ]
+}

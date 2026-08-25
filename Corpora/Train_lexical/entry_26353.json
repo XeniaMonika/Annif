@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_26353",
+  "text": "",
+  "metadata": {
+    "title": "Catálogo del herbario de la Real Expedición Botánica de Nueva España, 1787-1803, conservado en el Real Jardín Botánico de Madrid",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1020537-8",
+      "label": "Real Jardín Botánico de Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159577-4",
+      "label": "Herbarios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7752680-6",
+      "label": "Real Expedición Botánica a Nueva España"
+    }
+  ]
+}

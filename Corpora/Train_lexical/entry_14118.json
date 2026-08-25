@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_14118",
+  "text": "",
+  "metadata": {
+    "title": "El piano en Barcelona entre 1880 y 1936",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4030982-4",
+      "label": "Piano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4030996-4",
+      "label": "Tocar el piano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4164060-3",
+      "label": "Piano--Fabricación"
+    }
+  ]
+}

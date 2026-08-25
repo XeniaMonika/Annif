@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_29261",
+  "text": "",
+  "metadata": {
+    "title": "Guadalajara",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050482-7",
+      "label": "Arte románico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073436-5",
+      "label": "Iglesias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4086838-2",
+      "label": "Provincia de Guadalajara"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241203-1",
+      "label": "Castilla-La Mancha"
+    }
+  ]
+}

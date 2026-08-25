@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_29806",
+  "text": "",
+  "metadata": {
+    "title": "Montserrat : arte e historia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4010109-5",
+      "label": "Arte religioso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073436-5",
+      "label": "Iglesias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115223-2",
+      "label": "Montserrat"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7583222-7",
+      "label": "dependencia monástica"
+    }
+  ]
+}

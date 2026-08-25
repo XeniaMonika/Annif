@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3109",
+  "text": "",
+  "metadata": {
+    "title": "Diversidad lingüística y diccionario",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035548-2",
+      "label": "Lexicografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077623-2",
+      "label": "Sociolingüística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    }
+  ]
+}

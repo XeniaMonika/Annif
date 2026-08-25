@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_6283",
+  "text": "",
+  "metadata": {
+    "title": "Celia en el colegio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001307-8",
+      "label": "vida cotidiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036871-3",
+      "label": "Niñas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4298025-2",
+      "label": "escuela monástica"
+    }
+  ]
+}

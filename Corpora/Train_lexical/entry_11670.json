@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_11670",
+  "text": "",
+  "metadata": {
+    "title": "Arqueología computacional : nuevos enfoques para la documentación, análisis y difusión del patrimonio cultural",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002827-6",
+      "label": "arqueología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006617-4",
+      "label": "Diagnóstico por imagen"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011152-0",
+      "label": "Proceso de datos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165975-2",
+      "label": "Patrimonio cultural--Protección"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4431027-4",
+      "label": "innovación tecnológica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4765640-2",
+      "label": "Reconstrucción virtual"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3383",
+  "text": "",
+  "metadata": {
+    "title": "Disciplinas, saberes y prácticas : filosofía natural, matemáticas y astronomía en la sociedad española de la época moderna",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003311-9",
+      "label": "Astronomía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037944-9",
+      "label": "Matemáticas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041408-5",
+      "label": "Filosofía de la naturaleza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4274490-8",
+      "label": "Vida intelectual"
+    }
+  ]
+}

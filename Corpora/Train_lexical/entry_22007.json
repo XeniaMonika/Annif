@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_22007",
+  "text": "",
+  "metadata": {
+    "title": "De Camilo a Golconda",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118623389",
+      "label": "Torres, Camilo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031812-6",
+      "label": "Colombia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078248-7",
+      "label": "Teología de la liberación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129640-0",
+      "label": "Comunidad cristiana"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_13334",
+  "text": "",
+  "metadata": {
+    "title": "El mar es tu espejo : historias de tripulaciones abandonadas en el Mediterráneo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4018026-8",
+      "label": "Barcos de carga"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022873-3",
+      "label": "asentamiento portuario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4052413-9",
+      "label": "tripulación de barco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074900-9",
+      "label": "Cuenca del Mediterráneo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4730853-9",
+      "label": "situación de emergencia"
+    }
+  ]
+}

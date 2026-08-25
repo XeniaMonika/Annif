@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_829",
+  "text": "",
+  "metadata": {
+    "title": "Studia epigraphica et historica in honorem Ioannis Pisonis",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/130435430",
+      "label": "Piso, Ioan"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001480-0",
+      "label": "Historia antigua"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020531-9",
+      "label": "Historiografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027107-9",
+      "label": "Inscripciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068754-5",
+      "label": "Civilización clásica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113791-7",
+      "label": "Lengua griega"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    }
+  ]
+}

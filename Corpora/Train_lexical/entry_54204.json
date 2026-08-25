@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_54204",
+  "text": "",
+  "metadata": {
+    "title": "Adressbuch der europäischen Kartoffelwirtschaft",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4029804-8",
+      "label": "Patata"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163376-3",
+      "label": "producción de papa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4267486-4",
+      "label": "Sector de la patata"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2404",
+  "text": "",
+  "metadata": {
+    "title": "Mi abuelo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4029002-5",
+      "label": "niño"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4155196-5",
+      "label": "Franquismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4158313-9",
+      "label": "abuelo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177827-3",
+      "label": "republicano"
+    }
+  ]
+}

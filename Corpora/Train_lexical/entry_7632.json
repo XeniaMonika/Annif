@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_7632",
+  "text": "",
+  "metadata": {
+    "title": "Vida privada",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016397-0",
+      "label": "familia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077571-9",
+      "label": "Clases sociales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130286-2",
+      "label": "Aristocracia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4227561-1",
+      "label": "Cambio sociocultural"
+    }
+  ]
+}

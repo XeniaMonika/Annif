@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11367",
+  "text": "",
+  "metadata": {
+    "title": "Europa oriental",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4043271-3",
+      "label": "Austria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055302-4",
+      "label": "Eslovenia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055974-9",
+      "label": "Lengua española--Didáctica--Extranjeros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058449-5",
+      "label": "Europa del Sudeste"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075739-0",
+      "label": "Europa del Este"
+    }
+  ]
+}

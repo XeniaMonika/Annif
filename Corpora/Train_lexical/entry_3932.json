@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_3932",
+  "text": "",
+  "metadata": {
+    "title": "Repensar la vivienda suburbana",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1086939328",
+      "label": "vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4009396-7",
+      "label": "Cancún"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056795-3",
+      "label": "diseño urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126921-4",
+      "label": "Edificación en bloque"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131169-3",
+      "label": "Complejo residencial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188724-4",
+      "label": "Suburbio"
+    }
+  ]
+}

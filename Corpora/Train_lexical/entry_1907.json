@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_1907",
+  "text": "",
+  "metadata": {
+    "title": "New shelters : sustainable building systems",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1086939328",
+      "label": "vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069183-4",
+      "label": "bioconstrucción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125387-5",
+      "label": "Arquitectura y clima"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140255-8",
+      "label": "Arquitectura regionalista"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4326464-5",
+      "label": "Desarrollo sostenible"
+    }
+  ]
+}

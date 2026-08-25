@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_12290",
+  "text": "",
+  "metadata": {
+    "title": "Isla bonita",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037363-0",
+      "label": "Hombres"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038636-3",
+      "label": "Menorca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062137-6",
+      "label": "vacaciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4154364-6",
+      "label": "cine de comedia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4167616-6",
+      "label": "aventura amorosa"
+    }
+  ]
+}

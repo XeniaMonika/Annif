@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5612",
+  "text": "",
+  "metadata": {
+    "title": "La ciudad de los Coches",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001307-8",
+      "label": "vida cotidiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022309-7",
+      "label": "Planificación de espacios verdes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036582-7",
+      "label": "Control de la contaminación atmosférica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138941-4",
+      "label": "Niños en el medio urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4417126-2",
+      "label": "Evolución del tráfico"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_73804",
+  "text": "",
+  "metadata": {
+    "title": "Cuba : el vecino socialista",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055785-6",
+      "label": "socialismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077575-6",
+      "label": "Situación social"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165852-8",
+      "label": "Revolución cubana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4248362-1",
+      "label": "Situación económica"
+    }
+  ]
+}

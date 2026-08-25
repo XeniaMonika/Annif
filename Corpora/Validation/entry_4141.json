@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_4141",
+  "text": "",
+  "metadata": {
+    "title": "Léxico disponible de Burgos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4053369-4",
+      "label": "Escolares"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077347-4",
+      "label": "educación secundaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077741-8",
+      "label": "Variación (Lingüística)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4080585-2",
+      "label": "Provincia de Burgos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132191-1",
+      "label": "Frecuencia de las palabras"
+    }
+  ]
+}

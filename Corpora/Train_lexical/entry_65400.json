@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_65400",
+  "text": "",
+  "metadata": {
+    "title": "El habla de Jerez : estudio sociolingüístico",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003877-4",
+      "label": "pronunciación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4021806-5",
+      "label": "Gramática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040725-1",
+      "label": "dialecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4257243-5",
+      "label": ""
+    }
+  ]
+}

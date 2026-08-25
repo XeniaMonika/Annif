@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3839",
+  "text": "",
+  "metadata": {
+    "title": "Rutas de Barcelona : paseos por la historia de la ciudad",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120448-7",
+      "label": "Lugares históricos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125656-6",
+      "label": "atracción turística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125698-0",
+      "label": "Civilización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4224835-8",
+      "label": "Pasear"
+    }
+  ]
+}

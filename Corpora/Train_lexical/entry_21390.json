@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_21390",
+  "text": "",
+  "metadata": {
+    "title": "Escuela normal",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002890-2",
+      "label": "Argentina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064292-6",
+      "label": "campaña electoral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4180044-8",
+      "label": "Consejo estudiantil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4180172-6",
+      "label": "Vida escolar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188638-0",
+      "label": "Preparación"
+    }
+  ]
+}

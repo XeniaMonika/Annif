@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_36200",
+  "text": "",
+  "metadata": {
+    "title": "Los estudios del español hablado entre 1950 y 1999 : períodos, disciplinas y corrientes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020717-1",
+      "label": "lenguaje oral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077623-2",
+      "label": "Sociolingüística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194747-2",
+      "label": "análisis del discurso"
+    }
+  ]
+}

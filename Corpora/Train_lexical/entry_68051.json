@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_68051",
+  "text": "",
+  "metadata": {
+    "title": "El son cubano : poesía general",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063852-2",
+      "label": "canción popular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4202361-0",
+      "label": "poesía popular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4363365-1",
+      "label": "Son cubano"
+    }
+  ]
+}

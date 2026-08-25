@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5852",
+  "text": "",
+  "metadata": {
+    "title": "Variazioni sull'autore in età moderna",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120316-1",
+      "label": "Lengua portuguesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130545-0",
+      "label": "Autoría"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132036-0",
+      "label": "Atribución"
+    }
+  ]
+}

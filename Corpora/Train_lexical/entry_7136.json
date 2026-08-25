@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_7136",
+  "text": "",
+  "metadata": {
+    "title": "San Francisco architects : top bay area studios",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002844-6",
+      "label": "Arquitectos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002849-5",
+      "label": "estudio de arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051520-5",
+      "label": "San Francisco, Calif."
+    }
+  ]
+}

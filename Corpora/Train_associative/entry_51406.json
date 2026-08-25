@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_51406",
+  "text": "",
+  "metadata": {
+    "title": "Ensayo de un catálogo bio-bibliográfico de escritores judeo-españoles-portugueses del siglo X al XIX",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053309-8",
+      "label": "Escritores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120211-9",
+      "label": "Lengua sefardí"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120316-1",
+      "label": "Lengua portuguesa"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_68976",
+  "text": "",
+  "metadata": {
+    "title": "Contrapunteo cubano del tabaco y el azúcar",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000911-7",
+      "label": "Aculturación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4137447-2",
+      "label": "monocultivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4184295-9",
+      "label": "Cultivo del tabaco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4191066-7",
+      "label": "Cultivo de la caña de azúcar"
+    }
+  ]
+}

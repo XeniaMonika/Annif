@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_13000",
+  "text": "",
+  "metadata": {
+    "title": "Un país llamado Cervantes : el orígen judeoconverso del escritor",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11851993X",
+      "label": "Cervantes Saavedra, Miguel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037685-0",
+      "label": "marranos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114087-4",
+      "label": "Judaísmo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120440-2",
+      "label": "Origen"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165211-3",
+      "label": "Conversos"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_6646",
+  "text": "",
+  "metadata": {
+    "title": "Arte, investigación y feminismos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033430-2",
+      "label": "Mujeres artistas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4222126-2",
+      "label": "Teoría feminista"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4370467-0",
+      "label": "Feminismo y arte"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_30810",
+  "text": "",
+  "metadata": {
+    "title": "Física",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1055406174",
+      "label": "Palacios, Julio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1057041815",
+      "label": "Catalán Sañudo, Miguel Antonio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119047314",
+      "label": "Echegaray, José"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/138435227",
+      "label": "Cabrera, Blas"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3761",
+  "text": "",
+  "metadata": {
+    "title": "Las muertes de Prim : estudio médico legal del general Prim",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/116290498",
+      "label": "Prim y Prats, Juan"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4048805-6",
+      "label": "Medicina legal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4060336-2",
+      "label": "muerte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4187104-2",
+      "label": "Exploración clínica"
+    }
+  ]
+}

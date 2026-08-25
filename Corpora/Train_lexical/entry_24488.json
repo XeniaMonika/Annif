@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_24488",
+  "text": "",
+  "metadata": {
+    "title": "Palabras envenenadas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006249-1",
+      "label": "fraude"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036510-4",
+      "label": "Mentira"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126865-9",
+      "label": "Delitos sexuales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4156316-5",
+      "label": "Secreto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165725-1",
+      "label": "Caso penal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4189399-2",
+      "label": "Jóvenes de sexo femenino"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4327200-9",
+      "label": "Desaparecer"
+    }
+  ]
+}

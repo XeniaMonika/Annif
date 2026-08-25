@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_5492",
+  "text": "",
+  "metadata": {
+    "title": "El tesoro de cuentos : cuentos y fábulas de España y Latinoamerérica : Geschichten und Fabeln aus Spanien und Lateinamerika",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015464-6",
+      "label": "narración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016112-2",
+      "label": "Fábulas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026718-0",
+      "label": "indígenas de América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036910-9",
+      "label": "cuento de hadas popular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    }
+  ]
+}

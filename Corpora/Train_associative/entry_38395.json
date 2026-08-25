@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_38395",
+  "text": "",
+  "metadata": {
+    "title": "Lengua española y estructuras gramaticales",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4021806-5",
+      "label": "Gramática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058779-4",
+      "label": "Sintaxis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4170560-9",
+      "label": "Morfología (Gramática)"
+    }
+  ]
+}

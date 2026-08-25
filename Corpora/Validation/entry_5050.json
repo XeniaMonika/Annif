@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5050",
+  "text": "",
+  "metadata": {
+    "title": "Conversaciones sobre el socialismo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/219809-5",
+      "label": "Partido Socialista Obrero Español"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046514-7",
+      "label": "política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046517-2",
+      "label": "Políticos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129611-4",
+      "label": "identidad política"
+    }
+  ]
+}

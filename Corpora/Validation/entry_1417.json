@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1417",
+  "text": "",
+  "metadata": {
+    "title": "Cervantes en Sevilla : un documento cervantino en la Biblioteca Universitaria",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1139366254",
+      "label": "Gutiérrez, Tomás"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/11851993X",
+      "label": "Cervantes Saavedra, Miguel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054671-8",
+      "label": "Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4598663-0",
+      "label": "Escrito de demanda"
+    }
+  ]
+}

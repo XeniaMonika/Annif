@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_33900",
+  "text": "",
+  "metadata": {
+    "title": "El atlas del Rey Planeta : la \"Descripción de España y de las costas y puertos de sus reinos\" de Pedro Texeira (1634)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4029823-1",
+      "label": "cartografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046843-4",
+      "label": "Portugal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

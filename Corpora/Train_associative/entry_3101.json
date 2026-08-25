@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3101",
+  "text": "",
+  "metadata": {
+    "title": "Las expediciones científicas Españolas a América y Filipinas en el siglo XVIII (1735-1808)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045771-0",
+      "label": "Filipinas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129116-5",
+      "label": "Expedición"
+    }
+  ]
+}

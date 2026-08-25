@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_34239",
+  "text": "",
+  "metadata": {
+    "title": "Anfibios y reptiles del estado de Chihuahua, México",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4036689-3",
+      "label": "Anfibios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076664-0",
+      "label": "Reptiles"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4085251-9",
+      "label": "Chihuahua"
+    }
+  ]
+}

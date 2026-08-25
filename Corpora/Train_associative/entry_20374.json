@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_20374",
+  "text": "",
+  "metadata": {
+    "title": "Europa, regioni ed enti locali in Italia, Spagna e nel Regno Unito",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4019990-3",
+      "label": "Gobierno local"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022153-2",
+      "label": "Reino Unido"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027833-5",
+      "label": "Italia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063317-2",
+      "label": "administración"
+    }
+  ]
+}

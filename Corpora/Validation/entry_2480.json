@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_2480",
+  "text": "",
+  "metadata": {
+    "title": "El castellano es un idioma loable, lo hable quien lo hable : un libro sobre la letra pequeña",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001307-8",
+      "label": "vida cotidiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056475-7",
+      "label": "Crítica lingüística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4150727-7",
+      "label": "Errores de impresión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177206-4",
+      "label": "error ortográfico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4183326-0",
+      "label": "apogeo artístico"
+    }
+  ]
+}

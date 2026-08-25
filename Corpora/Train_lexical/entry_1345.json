@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1345",
+  "text": "",
+  "metadata": {
+    "title": "El Maestro del Tríptico del Zarzoso \"Maestro Felipe, pintor\"",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/116443-0",
+      "label": "Museo del Prado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132036-0",
+      "label": "Atribución"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4134184-3",
+      "label": "Arte gótico internacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4186214-4",
+      "label": "tríptico"
+    }
+  ]
+}

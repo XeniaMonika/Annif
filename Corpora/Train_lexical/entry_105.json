@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_105",
+  "text": "",
+  "metadata": {
+    "title": "Nike - Diseño en movimento",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/2113724-9",
+      "label": "Museo de Diseño Vitra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011510-0",
+      "label": "diseño"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027089-0",
+      "label": "innovación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056396-0",
+      "label": "Ropa deportiva"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056418-6",
+      "label": "calzado deportivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/5280196-2",
+      "label": "Nike"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7645448-4",
+      "label": "zapatillas de deporte"
+    }
+  ]
+}

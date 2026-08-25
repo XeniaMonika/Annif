@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_34783",
+  "text": "",
+  "metadata": {
+    "title": "Philosophie et théologie : Festschrift Emilio Brito",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/133702529",
+      "label": "Brito, Emilio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045791-6",
+      "label": "Filosofía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049415-9",
+      "label": "Religión--Filosofía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059758-1",
+      "label": "Teología"
+    }
+  ]
+}

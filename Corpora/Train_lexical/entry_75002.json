@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_75002",
+  "text": "",
+  "metadata": {
+    "title": "España e Hispanoamérica : Catálogo de libros españoles y publ. extranjeras sobre España e Hispanoamérica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062222-8",
+      "label": "Utrecht"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194079-9",
+      "label": "Hispanoamérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4255210-2",
+      "label": "Biblioteca de la Universidad"
+    }
+  ]
+}

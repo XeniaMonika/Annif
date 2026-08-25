@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_53622",
+  "text": "",
+  "metadata": {
+    "title": "Un viaje mágico por los misterios de América",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4016718-5",
+      "label": "Pintura rupestre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129464-6",
+      "label": "Excavación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140069-0",
+      "label": "Menhires"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4171310-2",
+      "label": "Monumentos naturales"
+    }
+  ]
+}

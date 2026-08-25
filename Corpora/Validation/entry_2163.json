@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2163",
+  "text": "",
+  "metadata": {
+    "title": "Historia de los cuatro órdenes militares : de Santiago, Calatrava, Alacántara y Montesa",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4102550-7",
+      "label": "Orden de Santiago"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4269969-1",
+      "label": "Orden de Alcántara"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4328696-3",
+      "label": "Orden de Calatrava"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4730250-1",
+      "label": "Orden de Montesa"
+    }
+  ]
+}

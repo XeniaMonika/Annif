@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_67840",
+  "text": "",
+  "metadata": {
+    "title": "Kuba : Geschichte, Wirtschaft, Kultur ; Referate",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066399-1",
+      "label": "economía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073972-7",
+      "label": "Cultura del país"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125698-0",
+      "label": "Civilización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131549-2",
+      "label": "Geografía regional"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_12234",
+  "text": "",
+  "metadata": {
+    "title": "Teatre valencià contemporani",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059702-7",
+      "label": "Teatros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059714-3",
+      "label": "Crítica teatral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062284-8",
+      "label": "Valencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4354544-0",
+      "label": "Comunidad Autónoma de Valencia"
+    }
+  ]
+}

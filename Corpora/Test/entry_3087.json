@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_3087",
+  "text": "",
+  "metadata": {
+    "title": "La escuela de Salamanca : filosofía y humanismo ante el mundo moderno",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4026140-2",
+      "label": "Humanismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045790-4",
+      "label": "Filósofos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045791-6",
+      "label": "Filosofía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121693-3",
+      "label": "Escolástica tardía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4364895-2",
+      "label": "Escuela de Salamanca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4728969-7",
+      "label": "Escuelas Mayores"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_12729",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario de la bohemia : de Bécquer a Max Estrella : (1854-1920)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053309-8",
+      "label": "Escritores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4146230-0",
+      "label": "Bohemia"
+    }
+  ]
+}

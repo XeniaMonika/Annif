@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_4487",
+  "text": "",
+  "metadata": {
+    "title": "Historia de los museos, historia de la museología : España, Portugal, América",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040795-0",
+      "label": "Museos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046843-4",
+      "label": "Portugal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    }
+  ]
+}

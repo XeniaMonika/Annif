@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_8645",
+  "text": "",
+  "metadata": {
+    "title": "La ciencia literaria en tiempos de Juan Andrés (1740-1817)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/124878113",
+      "label": "Andrés, Giovanni"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036019-2",
+      "label": "Historia de la literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036020-9",
+      "label": "Crítica literaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061418-9",
+      "label": "Traducciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128972-9",
+      "label": "Hermenéutica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/80092-2",
+      "label": "Jesuitas"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "entry_18380",
+  "text": "",
+  "metadata": {
+    "title": "Para que(m) se avalia? - Livros didáticos e avaliações (Brasil, Chile, Espanha, Japão, México e Portugal)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008003-1",
+      "label": "Brasil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4009929-5",
+      "label": "Chile"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027005-1",
+      "label": "Análisis de contenido"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4028495-5",
+      "label": "Japón"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046843-4",
+      "label": "Portugal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071034-8",
+      "label": "evaluación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113702-4",
+      "label": "Procedimiento de autorización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4155046-8",
+      "label": "Método de investigación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4180102-7",
+      "label": "Investigación sobre los libros de texto"
+    }
+  ]
+}

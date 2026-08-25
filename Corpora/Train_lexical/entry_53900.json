@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_53900",
+  "text": "",
+  "metadata": {
+    "title": "El cuerno de Maltea",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000096-5",
+      "label": "Supersticiones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022233-0",
+      "label": "gran ciudad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034309-1",
+      "label": "Vida rural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4117191-3",
+      "label": "La fe en el diablo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128660-1",
+      "label": "Cabras"
+    }
+  ]
+}

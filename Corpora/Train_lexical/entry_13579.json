@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_13579",
+  "text": "",
+  "metadata": {
+    "title": "Geografía lingüística y los pronombres le, la, lo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1155559576",
+      "label": "la"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045271-2",
+      "label": "Pronombre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047468-9",
+      "label": "pronombre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056463-0",
+      "label": "Geografía lingüística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077741-8",
+      "label": "Variación (Lingüística)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4451183-8",
+      "label": "le"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4471058-6",
+      "label": "lo"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_4357",
+  "text": "",
+  "metadata": {
+    "title": "Biblica, Judaica, Philosophica, theologica, ethica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015950-4",
+      "label": "Hermenéutica bíblica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069994-8",
+      "label": "Ética cristiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075933-7",
+      "label": "Patrística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114087-4",
+      "label": "Judaísmo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129954-1",
+      "label": "cristianismo primitivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4192352-2",
+      "label": "Diálogo interreligioso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4298909-7",
+      "label": "Teología de la paternidad"
+    }
+  ]
+}

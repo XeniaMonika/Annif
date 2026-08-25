@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_44159",
+  "text": "",
+  "metadata": {
+    "title": "Spanish American literature : a collection of essays",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036034-9",
+      "label": "estudios literarios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194079-9",
+      "label": "Hispanoamérica"
+    }
+  ]
+}

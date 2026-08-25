@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_38193",
+  "text": "",
+  "metadata": {
+    "title": "Métodos de Bézier y B-splines",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4293190-3",
+      "label": "Área de Bézier"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4308681-0",
+      "label": "Curva de Bézier"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4384798-5",
+      "label": "B-spline"
+    }
+  ]
+}

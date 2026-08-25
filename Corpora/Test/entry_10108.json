@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_10108",
+  "text": "",
+  "metadata": {
+    "title": "El derecho y el mar en la España moderna",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4048737-4",
+      "label": "Derecho"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054176-9",
+      "label": "Derecho marítimo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054184-8",
+      "label": "transporte marítimo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

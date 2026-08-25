@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_12809",
+  "text": "",
+  "metadata": {
+    "title": "Letras, números e incógnitas : estudio de las voces aritmético-algebraicas del Renacimiento",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001156-2",
+      "label": "Álgebra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002919-0",
+      "label": "Aritmética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016216-3",
+      "label": "Lenguajes especializados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037944-9",
+      "label": "Matemáticas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_22089",
+  "text": "",
+  "metadata": {
+    "title": "Green urban landscapes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022309-7",
+      "label": "Planificación de espacios verdes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4182746-6",
+      "label": "Arquitectura del paisaje urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4182753-3",
+      "label": "parque urbano"
+    }
+  ]
+}

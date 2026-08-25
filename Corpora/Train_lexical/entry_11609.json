@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11609",
+  "text": "",
+  "metadata": {
+    "title": "Comprobando la realidad",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4031952-0",
+      "label": "Comedias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139137-8",
+      "label": "Espionaje industrial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4141014-2",
+      "label": "aventura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4317743-8",
+      "label": "hombre joven"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4399931-1",
+      "label": "Realidad virtual"
+    }
+  ]
+}

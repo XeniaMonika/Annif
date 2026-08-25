@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_111",
+  "text": "",
+  "metadata": {
+    "title": "El reverso de la utopía : América Latina y el Oriente Medio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4041251-9",
+      "label": "utopía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049680-6",
+      "label": "revolución"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068878-1",
+      "label": "Oriente Próximo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    }
+  ]
+}

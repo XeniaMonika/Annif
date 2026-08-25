@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_412",
+  "text": "",
+  "metadata": {
+    "title": "El orden del azar : Guillermo de Torre entre los Borges",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118513532",
+      "label": "Borges, Jorge Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118997041",
+      "label": "Torre, Guillermo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/121397904",
+      "label": "Borges, Norah"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053309-8",
+      "label": "Escritores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4211127-4",
+      "label": "Perímetro"
+    }
+  ]
+}

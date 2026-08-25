@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3104",
+  "text": "",
+  "metadata": {
+    "title": "Enseñar a leer, escribir, hablar, escuchar e interactuar en la clase de español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055974-9",
+      "label": "Lengua española--Didáctica--Extranjeros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4135331-6",
+      "label": "Comprensión lectora"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4160399-0",
+      "label": "Comprensión oral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4182529-9",
+      "label": "Producción del lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4184945-0",
+      "label": "Redacción de textos"
+    }
+  ]
+}

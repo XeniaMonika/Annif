@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_68789",
+  "text": "",
+  "metadata": {
+    "title": "La agricultura, la pesca y la alimentación españolas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4017310-0",
+      "label": "explotación pesquera"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4017345-8",
+      "label": "industria pesquera"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034402-2",
+      "label": "Agricultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068471-4",
+      "label": "producción agrícola"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124852-1",
+      "label": "Industria alimentaria"
+    }
+  ]
+}

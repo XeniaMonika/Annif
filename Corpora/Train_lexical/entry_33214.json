@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_33214",
+  "text": "",
+  "metadata": {
+    "title": "Hispania Epigraphica : online database",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4027107-9",
+      "label": "Inscripciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076769-3",
+      "label": "Época romana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4152508-5",
+      "label": "epigrafía"
+    }
+  ]
+}

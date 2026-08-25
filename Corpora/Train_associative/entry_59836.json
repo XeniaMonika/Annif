@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_59836",
+  "text": "",
+  "metadata": {
+    "title": "Cuba, Puerto-Rico y Filipinas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045771-0",
+      "label": "Filipinas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073972-7",
+      "label": "Cultura del país"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076429-1",
+      "label": "Puerto Rico"
+    }
+  ]
+}

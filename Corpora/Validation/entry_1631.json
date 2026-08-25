@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1631",
+  "text": "",
+  "metadata": {
+    "title": "Desafección, posdemocracia, antipolítica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1031250328",
+      "label": "posdemocracia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011413-2",
+      "label": "Democracia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046514-7",
+      "label": "política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4182680-2",
+      "label": "desinterés por la política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4488178-2",
+      "label": "Contramovimiento"
+    }
+  ]
+}

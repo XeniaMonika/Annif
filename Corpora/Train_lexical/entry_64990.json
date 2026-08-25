@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_64990",
+  "text": "",
+  "metadata": {
+    "title": "Historia y ficción - crónicas de América",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001671-7",
+      "label": "América--En la literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039575-3",
+      "label": "Misioneros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4187207-1",
+      "label": "Pueblos indígenas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4473166-8",
+      "label": "Conquistadores"
+    }
+  ]
+}

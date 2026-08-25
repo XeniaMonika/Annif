@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_17607",
+  "text": "",
+  "metadata": {
+    "title": "El camino hacia la forma : Goethe, Webern, Balthasar",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118506323",
+      "label": "Balthasar, Hans Urs"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118540238",
+      "label": "Goethe, Johann Wolfgang"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118629786",
+      "label": "Webern, Anton"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4000626-8",
+      "label": "Estética"
+    }
+  ]
+}

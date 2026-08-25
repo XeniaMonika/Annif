@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_10677",
+  "text": "",
+  "metadata": {
+    "title": "Todo el románico de Guadalajara",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4004913-9",
+      "label": "escultura arquitectónica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050482-7",
+      "label": "Arte románico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4086838-2",
+      "label": "Provincia de Guadalajara"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_33187",
+  "text": "",
+  "metadata": {
+    "title": "Salvador Dalí y otros estudios sobre arte y vanguardia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118523481",
+      "label": "Dalí, Salvador"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058665-0",
+      "label": "surrealismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133965-4",
+      "label": "vanguardismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4175712-9",
+      "label": "Primitivismo"
+    }
+  ]
+}

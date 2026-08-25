@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_65142",
+  "text": "",
+  "metadata": {
+    "title": "Portugal y las islas del Atlántico",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004066-5",
+      "label": "Azores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4029617-9",
+      "label": "Cabo Verde"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036857-9",
+      "label": "Madeira"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4118426-9",
+      "label": "Santo Tomé y Príncipe"
+    }
+  ]
+}

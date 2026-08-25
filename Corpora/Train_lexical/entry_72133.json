@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_72133",
+  "text": "",
+  "metadata": {
+    "title": "El habla de la ciudad de México : materiales para su estudio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039060-3",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040725-1",
+      "label": "dialecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061588-1",
+      "label": "lengua coloquial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165338-5",
+      "label": "Corpora (Lingüística)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4170221-9",
+      "label": "transcripción fonética"
+    }
+  ]
+}

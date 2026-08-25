@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_43456",
+  "text": "",
+  "metadata": {
+    "title": "Colección Estudios geológicos y mineros para la obra \"El Perú\"",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4005614-4",
+      "label": "Minería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020216-1",
+      "label": "geografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020227-6",
+      "label": "Geología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    }
+  ]
+}

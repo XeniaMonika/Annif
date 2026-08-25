@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_10463",
+  "text": "",
+  "metadata": {
+    "title": "La cocina de Picasso",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118594206",
+      "label": "Picasso, Pablo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031445-5",
+      "label": "Cocina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4057577-9",
+      "label": "Pintura de naturalezas muertas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4205642-1",
+      "label": "Ingesta de alimentos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4413218-9",
+      "label": "Alimentación"
+    }
+  ]
+}

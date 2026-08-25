@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_24203",
+  "text": "",
+  "metadata": {
+    "title": "Doula : Geburtsbegleitung",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4019589-2",
+      "label": "Nacimiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019604-5",
+      "label": "Obstetricia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040949-1",
+      "label": "Madres"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053724-9",
+      "label": "Embarazo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4156175-2",
+      "label": "Dolor de parto"
+    }
+  ]
+}

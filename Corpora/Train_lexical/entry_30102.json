@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_30102",
+  "text": "",
+  "metadata": {
+    "title": "Roma antica in 3D",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050471-2",
+      "label": "Roma"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4150634-0",
+      "label": "Reconstrucción tridimensional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7714866-6",
+      "label": "Casa de Julio Polibio"
+    }
+  ]
+}

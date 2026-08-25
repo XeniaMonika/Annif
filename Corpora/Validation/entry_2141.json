@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2141",
+  "text": "",
+  "metadata": {
+    "title": "El mar español : (España en el Pacífico)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014840-3",
+      "label": "Explorador"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014842-7",
+      "label": "exploración geográfica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194681-9",
+      "label": "Viajes por mar"
+    }
+  ]
+}

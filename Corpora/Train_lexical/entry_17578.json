@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_17578",
+  "text": "",
+  "metadata": {
+    "title": "Galapagos Islands, Quito & Guayaquil",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071538-3",
+      "label": "Islas Galápagos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116883-5",
+      "label": "Quito"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4239243-3",
+      "label": "Guayaquil"
+    }
+  ]
+}

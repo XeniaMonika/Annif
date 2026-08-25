@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_43365",
+  "text": "",
+  "metadata": {
+    "title": "a + t",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056795-3",
+      "label": "diseño urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066772-8",
+      "label": "Vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4112587-3",
+      "label": "Teoría de la arquitectura"
+    }
+  ]
+}

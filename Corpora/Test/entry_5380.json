@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5380",
+  "text": "",
+  "metadata": {
+    "title": "El 15-M en sesenta preguntas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4046514-7",
+      "label": "política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066399-1",
+      "label": "economía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132887-5",
+      "label": "irregularidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4226404-2",
+      "label": "movimiento de protesta"
+    }
+  ]
+}

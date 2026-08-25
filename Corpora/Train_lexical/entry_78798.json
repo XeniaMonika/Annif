@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_78798",
+  "text": "",
+  "metadata": {
+    "title": "Proben-Buch : Schriften, Einfassungen etc.",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035206-7",
+      "label": "Leipzig"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138999-2",
+      "label": "Muestra de escritura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4350515-6",
+      "label": "Fundición tipográfica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/5524171-2",
+      "label": "Fundición tipográfica Julius Klinkhardt"
+    }
+  ]
+}

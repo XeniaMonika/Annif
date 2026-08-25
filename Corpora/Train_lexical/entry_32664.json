@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_32664",
+  "text": "",
+  "metadata": {
+    "title": "Houses",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4013843-4",
+      "label": "Viviendas unifamiliares"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4168041-8",
+      "label": "Lofts"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241891-4",
+      "label": "apartamiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4275792-7",
+      "label": "mansarda"
+    }
+  ]
+}

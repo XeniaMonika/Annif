@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3967",
+  "text": "",
+  "metadata": {
+    "title": "Museo Arqueológico Nacional - guía",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1016874-6",
+      "label": "Museo Arqueológico Nacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002827-6",
+      "label": "arqueología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068754-5",
+      "label": "Civilización clásica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071507-3",
+      "label": "Hallazgos"
+    }
+  ]
+}

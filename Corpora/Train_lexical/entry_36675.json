@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_36675",
+  "text": "",
+  "metadata": {
+    "title": "Casa nuestra : Iberian houses",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4023693-6",
+      "label": "vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046843-4",
+      "label": "Portugal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063532-6",
+      "label": "Arquitectura doméstica"
+    }
+  ]
+}

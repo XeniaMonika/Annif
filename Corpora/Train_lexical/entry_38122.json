@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_38122",
+  "text": "",
+  "metadata": {
+    "title": "Medical design",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002466-0",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4003167-6",
+      "label": "Consultas de médicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4032791-7",
+      "label": "Edificios sanitarios--Diseño y construcción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072819-5",
+      "label": "Decoración interior"
+    }
+  ]
+}

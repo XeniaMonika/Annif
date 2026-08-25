@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_28924",
+  "text": "",
+  "metadata": {
+    "title": "Nacimiento, matrimonio y muerte en León y su provincia : encuesta del Ateneo (1901-1902)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4013657-7",
+      "label": "Matrimonio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019589-2",
+      "label": "Nacimiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035366-7",
+      "label": "Provincia de León"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4060294-1",
+      "label": "Muerte"
+    }
+  ]
+}

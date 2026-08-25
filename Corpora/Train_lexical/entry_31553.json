@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_31553",
+  "text": "",
+  "metadata": {
+    "title": "Hacia un modelo lingüístico de resumen automático de artículos médicos en español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4038243-6",
+      "label": "Medicina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059667-9",
+      "label": "Proceso de textos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125424-7",
+      "label": "Artículo de revista"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4521645-9",
+      "label": "Dar una conferencia"
+    }
+  ]
+}

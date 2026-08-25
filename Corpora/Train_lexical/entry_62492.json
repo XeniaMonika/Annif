@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_62492",
+  "text": "",
+  "metadata": {
+    "title": "Teatro : 5 autores cubanos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4153308-2",
+      "label": "Drama del exilio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4339382-2",
+      "label": "cubanos"
+    }
+  ]
+}

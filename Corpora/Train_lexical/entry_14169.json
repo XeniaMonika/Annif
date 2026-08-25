@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_14169",
+  "text": "",
+  "metadata": {
+    "title": "Diario de a bordo del primer viaje de Cristóbal Colón",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118564994",
+      "label": "Colombo, Cristoforo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014841-5",
+      "label": "Descubrimientos científicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4586137-7",
+      "label": ""
+    }
+  ]
+}

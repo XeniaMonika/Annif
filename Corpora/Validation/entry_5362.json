@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_5362",
+  "text": "",
+  "metadata": {
+    "title": "Short-title catalogue of eighteenth-century Spanish books in the British Library",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1023420-2",
+      "label": "Biblioteca Británica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4013134-8",
+      "label": "impreso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

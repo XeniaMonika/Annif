@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_18400",
+  "text": "",
+  "metadata": {
+    "title": "Escritores mexicanos en el periódico El Sol de Madrid",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1119822688",
+      "label": "El @sol"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053309-8",
+      "label": "Escritores"
+    }
+  ]
+}

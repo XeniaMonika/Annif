@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_20010",
+  "text": "",
+  "metadata": {
+    "title": "La expedición de Martin Rikli y Carl Schröter en 1908 : primer viaje de estudios del ámbito germanoparlante a Canarias",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/116547529",
+      "label": "Rikli, Martin"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119560534",
+      "label": "Schröter, Carl"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/120587971",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073188-1",
+      "label": "Islas Canarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4183841-5",
+      "label": "Viaje de estudios"
+    }
+  ]
+}

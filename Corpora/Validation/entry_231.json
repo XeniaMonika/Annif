@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_231",
+  "text": "",
+  "metadata": {
+    "title": "Erudición e Ilustración. Estudos sobre Martín Sarmiento",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/12202611X",
+      "label": "Sarmiento, Martín"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4003524-4",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066562-8",
+      "label": "Ciencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4274490-8",
+      "label": "Vida intelectual"
+    }
+  ]
+}

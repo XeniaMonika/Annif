@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_10188",
+  "text": "",
+  "metadata": {
+    "title": "Estudio del lenguaje tradicional del romancero isleño : Canarias, Cuba y Puerto Rico",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4060560-7",
+      "label": "tradición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073188-1",
+      "label": "Islas Canarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076429-1",
+      "label": "Puerto Rico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4388297-3",
+      "label": "Romancero"
+    }
+  ]
+}

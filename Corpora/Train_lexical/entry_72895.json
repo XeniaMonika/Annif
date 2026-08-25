@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_72895",
+  "text": "",
+  "metadata": {
+    "title": "Buenos Aires : arrabal, sainete, tango",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008756-6",
+      "label": "Buenos Aires"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4178927-1",
+      "label": "Sainetes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4184397-6",
+      "label": "Tango"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188724-4",
+      "label": "Suburbio"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_41444",
+  "text": "",
+  "metadata": {
+    "title": "Violencia y muerte en Navarra : guerras, epidemias y escasez de subsistencias en el siglo XIX",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033114-3",
+      "label": "Guerra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041455-3",
+      "label": "Navarra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4137380-7",
+      "label": "Epidemias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4160816-1",
+      "label": "Hambre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4267244-2",
+      "label": "Mortalidad"
+    }
+  ]
+}

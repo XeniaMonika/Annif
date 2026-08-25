@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_880",
+  "text": "",
+  "metadata": {
+    "title": "En tierra de nadie : antología de artículos, narraciones y crónicas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015464-6",
+      "label": "narración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018145-5",
+      "label": "Francia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125430-2",
+      "label": "artículo periodístico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128644-3",
+      "label": "Contexto histórico"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_67312",
+  "text": "",
+  "metadata": {
+    "title": "El teatro romano de Sagunto",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4059702-7",
+      "label": "Teatros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076769-3",
+      "label": "Época romana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4118212-1",
+      "label": "Sagunt"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4142280-6",
+      "label": "Anfiteatros"
+    }
+  ]
+}

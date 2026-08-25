@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_12230",
+  "text": "",
+  "metadata": {
+    "title": "La muerte de Adonais : los últimos días de John Keats, Percy B. Shelley y lord Byron",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118518208",
+      "label": "Byron, George Gordon Byron"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118560883",
+      "label": "Keats, John"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118613774",
+      "label": "Shelley, Percy Bysshe"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4060294-1",
+      "label": "Muerte"
+    }
+  ]
+}

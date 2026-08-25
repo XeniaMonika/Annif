@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_45",
+  "text": "",
+  "metadata": {
+    "title": "La sospecha de Sofía",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4011882-4",
+      "label": "Alemania"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075770-5",
+      "label": "Guerra fría"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7544028-3",
+      "label": "usurpación de identidad"
+    }
+  ]
+}

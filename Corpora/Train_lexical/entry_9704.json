@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_9704",
+  "text": "",
+  "metadata": {
+    "title": "España, 1836-1936 : pensamiento, literatura y economía política",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115586-5",
+      "label": "economía política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115590-7",
+      "label": "Pensamiento político"
+    }
+  ]
+}

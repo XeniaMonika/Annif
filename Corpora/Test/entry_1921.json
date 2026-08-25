@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1921",
+  "text": "",
+  "metadata": {
+    "title": "El turista perplejo : cuadernos de viaje",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003900-6",
+      "label": "Australia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058449-5",
+      "label": "Europa del Sudeste"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075468-6",
+      "label": "Corea del Norte"
+    }
+  ]
+}

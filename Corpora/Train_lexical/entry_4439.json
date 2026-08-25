@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_4439",
+  "text": "",
+  "metadata": {
+    "title": "El mar y la conquista de Hispania",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054141-1",
+      "label": "guerra naval"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4065398-5",
+      "label": "Mediterráneo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4264420-3",
+      "label": "Expansión territorial"
+    }
+  ]
+}

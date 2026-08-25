@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_8445",
+  "text": "",
+  "metadata": {
+    "title": "La villa ducal de Marchena",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1194271723",
+      "label": "Palacio de los Duques de Arcos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4141396-9",
+      "label": "Casa nobiliaria"
+    }
+  ]
+}

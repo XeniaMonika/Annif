@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_40689",
+  "text": "",
+  "metadata": {
+    "title": "¿Quién, qué, cómo, cuándo? : [das Spanien-Quiz ; Fragen und Antworten zu Spanien und Lateinamerika - für Spanisch-Fans mit Vorkenntnissen]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4048095-1",
+      "label": "quiz"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073972-7",
+      "label": "Cultura del país"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

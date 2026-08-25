@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_10975",
+  "text": "",
+  "metadata": {
+    "title": "Tesoro lexicográfico del español de Canarias",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040725-1",
+      "label": "dialecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073188-1",
+      "label": "Islas Canarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163187-0",
+      "label": "español canario"
+    }
+  ]
+}

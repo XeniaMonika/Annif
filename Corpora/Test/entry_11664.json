@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_11664",
+  "text": "",
+  "metadata": {
+    "title": "Vocabulario del dialecto murciano : con un estudio preliminar y un apéndice de documentos regionales",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040725-1",
+      "label": "dialecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114409-0",
+      "label": "Lengua inglesa--Lexicología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115291-8",
+      "label": "Murcia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7675993-3",
+      "label": "murziano"
+    }
+  ]
+}

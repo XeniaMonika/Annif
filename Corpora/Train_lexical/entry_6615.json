@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_6615",
+  "text": "",
+  "metadata": {
+    "title": "La silla de la discordia : Mies, Breuer y Stam",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118582291",
+      "label": "Mies van der Rohe, Ludwig"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/11867398X",
+      "label": "Breuer, Marcel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119039885",
+      "label": "Stam, Mart"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011510-0",
+      "label": "diseño"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039860-2",
+      "label": "Muebles"
+    }
+  ]
+}

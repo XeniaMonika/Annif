@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_7259",
+  "text": "",
+  "metadata": {
+    "title": "Impresores, libreros y mercaderes de libros en la Sevilla del quinientos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4013134-8",
+      "label": "impreso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054671-8",
+      "label": "Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063004-3",
+      "label": "editorial de libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138343-6",
+      "label": "Editor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4146801-6",
+      "label": "impresor de libros"
+    }
+  ]
+}

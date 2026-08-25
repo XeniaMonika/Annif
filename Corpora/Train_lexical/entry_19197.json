@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_19197",
+  "text": "",
+  "metadata": {
+    "title": "Somos libros, seámoslo siempre",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008626-4",
+      "label": "Libros--Comercio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015553-5",
+      "label": "Ensayo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053309-8",
+      "label": "Escritores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4145247-1",
+      "label": "Bibliofilia"
+    }
+  ]
+}

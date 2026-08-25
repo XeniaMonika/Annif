@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1304",
+  "text": "",
+  "metadata": {
+    "title": "Atlas sentimental de la España vacía",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4034026-0",
+      "label": "medio rural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034288-8",
+      "label": "Éxodo rural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127794-6",
+      "label": "Historia local"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_4958",
+  "text": "",
+  "metadata": {
+    "title": "Libros al fuego y lecturas prohibidas : el bibliocausto franquista (1936-1948)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063004-3",
+      "label": "editorial de libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121054-2",
+      "label": "Mercado del libro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4134544-7",
+      "label": "Quema de libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4178894-1",
+      "label": "Purgas políticas"
+    }
+  ]
+}

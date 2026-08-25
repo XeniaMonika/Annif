@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_12579",
+  "text": "",
+  "metadata": {
+    "title": "Escribir. Leer. Vivir : Goethe, Tolstói, Mann, Zweig y Kafka",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118540238",
+      "label": "Goethe, Johann Wolfgang"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118559230",
+      "label": "Kafka, Franz"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118577166",
+      "label": "Mann, Thomas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118637479",
+      "label": "Zweig, Stefan"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/11864291X",
+      "label": "Tolstoj, Lev Nikolaevič"
+    }
+  ]
+}

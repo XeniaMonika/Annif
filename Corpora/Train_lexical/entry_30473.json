@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_30473",
+  "text": "",
+  "metadata": {
+    "title": "Estudios de derecho de familia y de sucesiones : (dimensiones interna e internacional)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015110-4",
+      "label": "derecho de sucesiones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016419-6",
+      "label": "Derecho de familia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027426-3",
+      "label": "Derecho de familia internacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4137971-8",
+      "label": "Herencias y sucesiones (Derecho internacional)"
+    }
+  ]
+}

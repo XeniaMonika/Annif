@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_12974",
+  "text": "",
+  "metadata": {
+    "title": "Nueve siglos de arte en la cartuja",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4010109-5",
+      "label": "Arte religioso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078014-4",
+      "label": "América del Sur"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078704-7",
+      "label": "EE. UU."
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163358-1",
+      "label": "Cartujas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4178936-2",
+      "label": "arquitectura sacra"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2289",
+  "text": "",
+  "metadata": {
+    "title": "Otra cosa",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004668-0",
+      "label": "manualidades"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4032903-3",
+      "label": "creatividad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072730-0",
+      "label": "imaginación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076573-8",
+      "label": "reciclaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4171558-5",
+      "label": "Curiosidad"
+    }
+  ]
+}

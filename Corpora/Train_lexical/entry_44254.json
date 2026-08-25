@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_44254",
+  "text": "",
+  "metadata": {
+    "title": "Hacia una especificación computacional de la transitividad en el Español : estudio contrastivo con el inglés",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014777-0",
+      "label": "Lengua inglesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035843-4",
+      "label": "Lingüística computacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073706-8",
+      "label": "Gramática comparada"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4204860-6",
+      "label": "Transitividad"
+    }
+  ]
+}

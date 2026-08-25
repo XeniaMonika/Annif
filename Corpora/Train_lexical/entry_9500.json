@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_9500",
+  "text": "",
+  "metadata": {
+    "title": "Panteones Reales de Aragón",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4021732-2",
+      "label": "Sepulcros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4024600-0",
+      "label": "gobernante"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068794-6",
+      "label": "Aragón"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074442-5",
+      "label": "Mecenazgo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4157984-7",
+      "label": "Escultura funeraria"
+    }
+  ]
+}

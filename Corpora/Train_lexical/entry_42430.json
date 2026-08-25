@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_42430",
+  "text": "",
+  "metadata": {
+    "title": "Los Pagaza : historia de una familia vasca",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/130561908",
+      "label": "Pagazaurtundua Ruiz, Maite"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016397-0",
+      "label": "familia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020832-1",
+      "label": "Violencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046514-7",
+      "label": "política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069161-5",
+      "label": "País Vasco"
+    }
+  ]
+}

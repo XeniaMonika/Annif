@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_15444",
+  "text": "",
+  "metadata": {
+    "title": "La música en torno a los Hermanos Duport",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/100465692",
+      "label": "Duport, Jean-Louis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/11625257X",
+      "label": "Duport, Jean-Pierre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018145-5",
+      "label": "Francia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4025520-7",
+      "label": "Música de la corte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188376-7",
+      "label": "Violonchelistas"
+    }
+  ]
+}

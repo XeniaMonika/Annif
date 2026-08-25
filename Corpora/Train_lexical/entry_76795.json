@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_76795",
+  "text": "",
+  "metadata": {
+    "title": "Temas de historia económica argentina",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002890-2",
+      "label": "Argentina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040629-5",
+      "label": "Monedas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074617-3",
+      "label": "unidad de medida"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125931-2",
+      "label": "Evolución de los precios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130657-0",
+      "label": "Pesos y medidas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163495-0",
+      "label": "Poder adquisitivo"
+    }
+  ]
+}

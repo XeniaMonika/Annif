@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_42341",
+  "text": "",
+  "metadata": {
+    "title": "Museo Nacional de Antropología, México : libro conmemorativo del cuarenta aniversario",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1031422-2",
+      "label": "Museo Nacional de Antropología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026718-0",
+      "label": "indígenas de América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051157-1",
+      "label": "Cultura material"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    }
+  ]
+}

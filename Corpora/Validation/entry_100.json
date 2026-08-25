@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_100",
+  "text": "",
+  "metadata": {
+    "title": "El fin del arte : identidad, militancia y sentido",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4026486-5",
+      "label": "Ideología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033433-8",
+      "label": "Libertad artística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046558-5",
+      "label": "Sociología política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120630-7",
+      "label": "Arte--Aspectos económicos"
+    }
+  ]
+}

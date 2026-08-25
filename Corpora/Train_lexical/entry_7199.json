@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_7199",
+  "text": "",
+  "metadata": {
+    "title": "Los libros escolares de matemática y física en Argentina entre 1961 y 2009 : el papel de las imágenes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002890-2",
+      "label": "Argentina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037949-8",
+      "label": "didáctica de la matemática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038971-6",
+      "label": "Método"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045977-9",
+      "label": "didáctica de la física"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188423-1",
+      "label": "Medios visuales"
+    }
+  ]
+}

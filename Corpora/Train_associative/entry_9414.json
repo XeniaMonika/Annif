@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_9414",
+  "text": "",
+  "metadata": {
+    "title": "Geoliteratura : paisaje literario y turismo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4018406-7",
+      "label": "turismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177612-4",
+      "label": "Literatura de viajes"
+    }
+  ]
+}

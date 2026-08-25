@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_98",
+  "text": "",
+  "metadata": {
+    "title": "Los domingos mueren más personas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008756-6",
+      "label": "Buenos Aires"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040949-1",
+      "label": "Madres"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062386-5",
+      "label": "padre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122101-1",
+      "label": "Coma (Patología)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123184-3",
+      "label": "Conflicto familiar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123409-1",
+      "label": "Búsqueda de la identidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4203420-6",
+      "label": "hijo"
+    }
+  ]
+}

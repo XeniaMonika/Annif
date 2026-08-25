@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_29400",
+  "text": "",
+  "metadata": {
+    "title": "Cuenca",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050482-7",
+      "label": "Arte románico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073436-5",
+      "label": "Iglesias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4085364-0",
+      "label": "Provincia de Cuenca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241203-1",
+      "label": "Castilla-La Mancha"
+    }
+  ]
+}

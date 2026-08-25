@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_46609",
+  "text": "",
+  "metadata": {
+    "title": "Elsevier's dictionary of plant names of North America, including Mexico : in Latin, Spanish (Mexican and European) and English (American)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4042483-2",
+      "label": "América del Norte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045573-7",
+      "label": "Plantas--Nombres vulgares"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4205976-8",
+      "label": "Plantas--Nomenclatura"
+    }
+  ]
+}

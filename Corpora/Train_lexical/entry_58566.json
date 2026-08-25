@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_58566",
+  "text": "",
+  "metadata": {
+    "title": "El cancionero teatral de Lope de Vega",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118626353",
+      "label": "Vega, Lope"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035669-3",
+      "label": "Lied"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059702-7",
+      "label": "Teatros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4147237-8",
+      "label": "Cancionero"
+    }
+  ]
+}

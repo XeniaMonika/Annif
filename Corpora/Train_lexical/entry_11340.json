@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_11340",
+  "text": "",
+  "metadata": {
+    "title": "Café Lehmitz",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118593072",
+      "label": "Petersen, Anders"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046840-9",
+      "label": "Fotografía de retrato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4209055-6",
+      "label": "Invitado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4677076-8",
+      "label": "Lehmitz"
+    }
+  ]
+}

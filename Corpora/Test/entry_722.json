@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_722",
+  "text": "",
+  "metadata": {
+    "title": "El arte del saber ligero : una breve historia del exceso de información",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066559-8",
+      "label": "conocimiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114011-4",
+      "label": "Sociedad de la información"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177306-8",
+      "label": "reducción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4374795-4",
+      "label": "Sobrecarga de información"
+    }
+  ]
+}

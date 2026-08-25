@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_4468",
+  "text": "",
+  "metadata": {
+    "title": "Escribir e imprimir : el libro en el Reino de Navarra en el siglo XVIII",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008598-3",
+      "label": "impresión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008626-4",
+      "label": "Libros--Comercio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041455-3",
+      "label": "Navarra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063004-3",
+      "label": "editorial de libros"
+    }
+  ]
+}

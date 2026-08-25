@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_6446",
+  "text": "",
+  "metadata": {
+    "title": "El libro : reflexiones interdisciplinares sobre la lectura, la biblioteca y la edición",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035439-8",
+      "label": "lectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4187925-9",
+      "label": "edición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4449808-1",
+      "label": "Interdisciplinariedad de las ciencias"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11152",
+  "text": "",
+  "metadata": {
+    "title": "Regiones de Valparaíso, Metropolitana, O'Higgins y del Maule",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4031170-3",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034402-2",
+      "label": "Agricultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4198312-9",
+      "label": "Valparaíso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7531216-5",
+      "label": "Provincia del Maule"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7716421-0",
+      "label": "Provincia de O'Higgins"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_795",
+  "text": "",
+  "metadata": {
+    "title": "El País : libro de estilo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116621-8",
+      "label": "estilística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131821-3",
+      "label": "Periodismo--Lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4231580-3",
+      "label": "El @país"
+    }
+  ]
+}

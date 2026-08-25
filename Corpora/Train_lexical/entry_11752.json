@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_11752",
+  "text": "",
+  "metadata": {
+    "title": "Maravilloso y fantástico : dos ámbitos de escritura",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045673-0",
+      "label": "Lo @Fantástico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4067064-8",
+      "label": "Lo @Maravilloso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126324-8",
+      "label": "Literatura fantástica"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1696",
+  "text": "",
+  "metadata": {
+    "title": "Intercambios artísticos : Andalucía, Brasil, Estados Unidos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008003-1",
+      "label": "Brasil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033422-3",
+      "label": "numeración de las artes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078704-7",
+      "label": "EE. UU."
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165964-8",
+      "label": "Intercambio cultural"
+    }
+  ]
+}

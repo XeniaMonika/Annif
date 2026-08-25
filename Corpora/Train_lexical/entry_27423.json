@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_27423",
+  "text": "",
+  "metadata": {
+    "title": "De arte grammatica : Festschrift für Eberhard Gärtner zu seinem 65. Geburtstag",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/124073107",
+      "label": "Gärtner, Eberhard"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4021806-5",
+      "label": "Gramática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120316-1",
+      "label": "Lengua portuguesa"
+    }
+  ]
+}

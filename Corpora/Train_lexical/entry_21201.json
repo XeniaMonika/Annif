@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_21201",
+  "text": "",
+  "metadata": {
+    "title": "Diario de viajes de Francisco José de Caldas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/119212609",
+      "label": "Caldas, Francisco José"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4017916-3",
+      "label": "Expediciones científicas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031812-6",
+      "label": "Colombia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129321-6",
+      "label": "Ecuador"
+    }
+  ]
+}

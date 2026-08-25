@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_20474",
+  "text": "",
+  "metadata": {
+    "title": "El libro en Grecia y Roma : soportes y formatos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068754-5",
+      "label": "Civilización clásica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076778-4",
+      "label": "Imperio Romano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4093976-5",
+      "label": "Grecia"
+    }
+  ]
+}

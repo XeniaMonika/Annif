@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_52376",
+  "text": "",
+  "metadata": {
+    "title": "El libro escolar, reflejo de intenciones políticas e influencias pedagógicas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020219-7",
+      "label": "Geografía--Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020533-2",
+      "label": "Historia--Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130470-6",
+      "label": "convención"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4180102-7",
+      "label": "Investigación sobre los libros de texto"
+    }
+  ]
+}

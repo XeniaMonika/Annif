@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_37541",
+  "text": "",
+  "metadata": {
+    "title": "La piel de Barcelona : graffitis & murales",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4021791-7",
+      "label": "Graffiti"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064542-3",
+      "label": "pintura mural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4153769-5",
+      "label": "Pintura de fachadas"
+    }
+  ]
+}

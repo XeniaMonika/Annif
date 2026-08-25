@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_33219",
+  "text": "",
+  "metadata": {
+    "title": "Epigraphik-Datenbank Clauss - Slaby",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4027107-9",
+      "label": "Inscripciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076778-4",
+      "label": "Imperio Romano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4152508-5",
+      "label": "epigrafía"
+    }
+  ]
+}

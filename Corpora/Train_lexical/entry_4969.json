@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_4969",
+  "text": "",
+  "metadata": {
+    "title": "Urban landscape",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4018319-1",
+      "label": "Espacio abierto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056754-0",
+      "label": "planeamiento urbanístico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056795-3",
+      "label": "diseño urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4172385-5",
+      "label": "Espacios públicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4326464-5",
+      "label": "Desarrollo sostenible"
+    }
+  ]
+}

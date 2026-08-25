@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_71307",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario ilustrado de terminología textil : alemán-español, español-alemán",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4059615-1",
+      "label": "textil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059643-6",
+      "label": "Tecnología textil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    }
+  ]
+}

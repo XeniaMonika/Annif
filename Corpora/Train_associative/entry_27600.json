@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_27600",
+  "text": "",
+  "metadata": {
+    "title": "La gran aventura de Cristóbal Colón",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118564994",
+      "label": "Colombo, Cristoforo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014841-5",
+      "label": "Descubrimientos científicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014842-7",
+      "label": "exploración geográfica"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_74578",
+  "text": "",
+  "metadata": {
+    "title": "Arte y artistas flamencos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071246-1",
+      "label": "flamenco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124099-6",
+      "label": "Cantantes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4136608-6",
+      "label": "Bailarines"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4157372-9",
+      "label": "Guitarristas"
+    }
+  ]
+}

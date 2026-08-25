@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_68876",
+  "text": "",
+  "metadata": {
+    "title": "List of terms of hydrogeology, geochemistry and geothermals of mineral and thermal waters",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020198-3",
+      "label": "Geoquímica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026307-1",
+      "label": "Hidrogeología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072678-2",
+      "label": "Química del agua"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114605-0",
+      "label": "Agua mineral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4185120-1",
+      "label": "Agua termal"
+    }
+  ]
+}

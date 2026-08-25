@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_68606",
+  "text": "",
+  "metadata": {
+    "title": "Mapa geológico estructural de Venezuela",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020227-6",
+      "label": "Geología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4057956-6",
+      "label": "estratigrafía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059351-4",
+      "label": "tectónica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062512-6",
+      "label": "Venezuela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4237213-6",
+      "label": "dislocación tectónica"
+    }
+  ]
+}

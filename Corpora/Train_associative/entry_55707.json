@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_55707",
+  "text": "",
+  "metadata": {
+    "title": "Publicaciones de la Universidad de Santo Domingo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4012694-8",
+      "label": "República Dominicana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039660-5",
+      "label": "América Central"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062512-6",
+      "label": "Venezuela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078014-4",
+      "label": "América del Sur"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_42048",
+  "text": "",
+  "metadata": {
+    "title": "Nautilo : catálogo de la Biblioteca y Hemeroteca Nacionales de México",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/25932-9",
+      "label": "Biblioteca Nacional de México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4013134-8",
+      "label": "impreso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    }
+  ]
+}

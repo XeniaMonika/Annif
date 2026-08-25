@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_64774",
+  "text": "",
+  "metadata": {
+    "title": "Glosario  de terminos agricolas Maya-Español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4007842-5",
+      "label": "Botánica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016216-3",
+      "label": "Lenguajes especializados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034402-2",
+      "label": "Agricultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4220899-3",
+      "label": "Lengua maya"
+    }
+  ]
+}

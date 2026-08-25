@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_57835",
+  "text": "",
+  "metadata": {
+    "title": "Hispania, al-Andalus, Castilla",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4010074-1",
+      "label": "Cristianismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027743-4",
+      "label": "Islamismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073292-7",
+      "label": "Castilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125698-0",
+      "label": "Civilización"
+    }
+  ]
+}

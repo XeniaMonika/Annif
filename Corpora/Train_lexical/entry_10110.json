@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_10110",
+  "text": "",
+  "metadata": {
+    "title": "Los escenarios móviles : diálogos teatrales y fílmicos entre Andalucía y Latinoamerica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033569-0",
+      "label": "Comunicación intercultural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059702-7",
+      "label": "Teatros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    }
+  ]
+}

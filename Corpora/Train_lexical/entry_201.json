@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_201",
+  "text": "",
+  "metadata": {
+    "title": "La Alta Zaragoza : un rincón natural de la provincia, en el Pirineo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4034343-1",
+      "label": "Paisaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4043216-6",
+      "label": "ecosistema"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4601495-0",
+      "label": "Biodiversidad vegetal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7526259-9",
+      "label": "Provincia de Zaragoza"
+    }
+  ]
+}

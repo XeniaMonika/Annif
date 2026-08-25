@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_26338",
+  "text": "",
+  "metadata": {
+    "title": "Imago mundi : mapas e imprenta",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/10076920-2",
+      "label": "Biblioteca Histórica Marqués de Valdecilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4029823-1",
+      "label": "cartografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4238091-1",
+      "label": "Mapas antiguos"
+    }
+  ]
+}

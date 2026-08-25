@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_9700",
+  "text": "",
+  "metadata": {
+    "title": "La herencia de Antonio Machado (1939-1970)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118640739",
+      "label": "Machado, Antonio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015959-0",
+      "label": "exilio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033422-3",
+      "label": "numeración de las artes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4274490-8",
+      "label": "Vida intelectual"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_65413",
+  "text": "",
+  "metadata": {
+    "title": "Las naves del descubrimiento y sus hombres",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118564994",
+      "label": "Colombo, Cristoforo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014841-5",
+      "label": "Descubrimientos científicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054232-4",
+      "label": "Barcos de vela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4198158-3",
+      "label": "La Pinta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4198160-1",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4198162-5",
+      "label": "La Niña"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2123",
+  "text": "",
+  "metadata": {
+    "title": "Residencia de estudiantes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118517465",
+      "label": "Buñuel, Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118523481",
+      "label": "Dalí, Salvador"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118537598",
+      "label": "García Lorca, Federico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058187-1",
+      "label": "Colegios mayores"
+    }
+  ]
+}

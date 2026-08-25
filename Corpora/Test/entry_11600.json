@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_11600",
+  "text": "",
+  "metadata": {
+    "title": "Estudios sintáctico-semánticos del español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4058779-4",
+      "label": "Sintaxis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059663-1",
+      "label": "Semántica del texto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4171694-2",
+      "label": "Nexus"
+    }
+  ]
+}

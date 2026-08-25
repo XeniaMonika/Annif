@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_1240",
+  "text": "",
+  "metadata": {
+    "title": "Marcado diferencial de objeto y semántica verbal en español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1050963423",
+      "label": "Marcado diferencial de objetos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4000954-3",
+      "label": "aspecto léxico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054490-4",
+      "label": "Semántica general"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062553-9",
+      "label": "verbo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4135470-9",
+      "label": "afecto"
+    }
+  ]
+}

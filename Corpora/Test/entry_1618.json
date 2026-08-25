@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1618",
+  "text": "",
+  "metadata": {
+    "title": "Miguel Hernández : ...y su palabra se hizo música",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118549820",
+      "label": "Hernández, Miguel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040837-1",
+      "label": "Aptitudes musicales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063269-6",
+      "label": "Sonido"
+    }
+  ]
+}

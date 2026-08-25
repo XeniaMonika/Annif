@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_40410",
+  "text": "",
+  "metadata": {
+    "title": "Catàleg de la BC",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4013134-8",
+      "label": "impreso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4029916-8",
+      "label": "Cataluña"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4207769-2",
+      "label": "Biblioteca de Cataluña"
+    }
+  ]
+}

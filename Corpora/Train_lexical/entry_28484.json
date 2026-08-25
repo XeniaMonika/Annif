@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_28484",
+  "text": "",
+  "metadata": {
+    "title": "Lake - mural art from Berlin & other cities",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4005728-8",
+      "label": "Berlín"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4021791-7",
+      "label": "Graffiti"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064542-3",
+      "label": "pintura mural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4153769-5",
+      "label": "Pintura de fachadas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4642727-2",
+      "label": "dibujante de cómics"
+    }
+  ]
+}

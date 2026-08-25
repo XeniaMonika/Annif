@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11862",
+  "text": "",
+  "metadata": {
+    "title": "Travel, assistance, pilgrims & travelers : (xvi - xx centuries)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138490-8",
+      "label": "peregrino"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177613-6",
+      "label": "Viajero"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4187014-1",
+      "label": "alojamiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4203086-9",
+      "label": "Asistencia"
+    }
+  ]
+}

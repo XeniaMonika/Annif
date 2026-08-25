@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_65289",
+  "text": "",
+  "metadata": {
+    "title": "German, Dutch and Swedish indexes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014390-9",
+      "label": "Electrotecnia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116437-4",
+      "label": "Lengua sueca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122614-8",
+      "label": "Lengua holandesa"
+    }
+  ]
+}

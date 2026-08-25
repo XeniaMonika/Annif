@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_67307",
+  "text": "",
+  "metadata": {
+    "title": "Libros españoles en venta",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008626-4",
+      "label": "Libros--Comercio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4013134-8",
+      "label": "impreso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

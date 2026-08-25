@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_33363",
+  "text": "",
+  "metadata": {
+    "title": "Consultor gramatical : ortografia i morfosintaxi ; exercicis i morfosintaxi",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4045830-1",
+      "label": "fonética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4048780-5",
+      "label": "Ortografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114635-9",
+      "label": "Morfosintaxis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4305449-3",
+      "label": "valenciano"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_17262",
+  "text": "",
+  "metadata": {
+    "title": "Tecnologías para el aprendizaje en ciencias sociales",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020219-7",
+      "label": "Geografía--Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020533-2",
+      "label": "Historia--Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078641-9",
+      "label": "Tecnología educativa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194462-8",
+      "label": "Nueva tecnología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4196910-8",
+      "label": "Medios digitales"
+    }
+  ]
+}

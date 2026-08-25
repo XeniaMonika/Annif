@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1380",
+  "text": "",
+  "metadata": {
+    "title": "Barcelona - Milán : arquitecturas modernas en contacto : (del fascismo a la democracia)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011413-2",
+      "label": "Democracia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016494-9",
+      "label": "fascismo"
+    }
+  ]
+}

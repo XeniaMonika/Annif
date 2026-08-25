@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_23928",
+  "text": "",
+  "metadata": {
+    "title": "Life and the sacred",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015602-3",
+      "label": "Ética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034831-3",
+      "label": "Vida (Biología)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034864-7",
+      "label": "Estilo de vida"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049396-9",
+      "label": "Religión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128109-3",
+      "label": "Lo @Sagrado"
+    }
+  ]
+}

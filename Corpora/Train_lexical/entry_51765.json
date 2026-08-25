@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_51765",
+  "text": "",
+  "metadata": {
+    "title": "Después de : [rehacer paisajes]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4034343-1",
+      "label": "Paisaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034350-9",
+      "label": "Diseño paisajístico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034354-6",
+      "label": "Planificación paisajística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130864-5",
+      "label": "Daño al paisaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4166649-5",
+      "label": "Destrucción del paisaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4352570-2",
+      "label": "Recuperación"
+    }
+  ]
+}

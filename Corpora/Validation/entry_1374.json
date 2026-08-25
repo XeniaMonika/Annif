@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1374",
+  "text": "",
+  "metadata": {
+    "title": "Didàctica universitària dels estudis culturals : pràctiques i tenències en la Catalanística i la Hispanística",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4025226-7",
+      "label": "Didáctica universitaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033597-5",
+      "label": "estudios culturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159974-3",
+      "label": "Estudios hispánicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4249908-2",
+      "label": "filología catalana"
+    }
+  ]
+}

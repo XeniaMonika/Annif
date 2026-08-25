@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_53227",
+  "text": "",
+  "metadata": {
+    "title": "Corpus hebraicum nebrissense : la obra hebraica de Antonio de Nebrija",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118980955",
+      "label": "Nebrija, Elio Antonio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4021806-5",
+      "label": "Gramática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023922-6",
+      "label": "Lengua hebrea"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    }
+  ]
+}

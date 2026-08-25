@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_7871",
+  "text": "",
+  "metadata": {
+    "title": "Las pinturas murales de San Juan Bautista de Ruesta",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1201398991",
+      "label": "San Juan Bautista de Ruesta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064542-3",
+      "label": "pintura mural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140453-1",
+      "label": "Ermitas"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_75249",
+  "text": "",
+  "metadata": {
+    "title": "Nuevo cancionero salmantino : colección de canciones y temas folklóricos inéditos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4063852-2",
+      "label": "canción popular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4118281-9",
+      "label": "Salamanca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140677-1",
+      "label": "Música de baile"
+    }
+  ]
+}

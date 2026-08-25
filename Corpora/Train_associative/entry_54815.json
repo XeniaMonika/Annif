@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_54815",
+  "text": "",
+  "metadata": {
+    "title": "Introduccion a la literatura medieval española",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120134-6",
+      "label": "castellano medieval"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129108-6",
+      "label": "Historia medieval"
+    }
+  ]
+}

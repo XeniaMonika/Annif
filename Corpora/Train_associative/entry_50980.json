@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_50980",
+  "text": "",
+  "metadata": {
+    "title": "Estudios de lingüística afro-románica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000695-5",
+      "label": "África"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115788-6",
+      "label": "Lenguas románicas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120316-1",
+      "label": "Lengua portuguesa"
+    }
+  ]
+}

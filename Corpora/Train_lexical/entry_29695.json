@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_29695",
+  "text": "",
+  "metadata": {
+    "title": "Escala Macrosísmica Europea 1998 : EMS-98",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015134-7",
+      "label": "Terremotos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130826-8",
+      "label": "Análisis de daños"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4286928-6",
+      "label": "Magnitud"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4304375-6",
+      "label": "Estimación"
+    }
+  ]
+}

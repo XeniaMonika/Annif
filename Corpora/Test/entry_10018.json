@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_10018",
+  "text": "",
+  "metadata": {
+    "title": "Borges/Escher, Sarduy/CoBrA : un encuentro posmoderno",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118513532",
+      "label": "Borges, Jorge Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118531069",
+      "label": "Escher, M. C."
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118794574",
+      "label": "Sarduy, Severo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/2072101-8",
+      "label": "CoBrA"
+    }
+  ]
+}

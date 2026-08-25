@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_248",
+  "text": "",
+  "metadata": {
+    "title": "Enchiridion Theologicum Lullianum",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118575279",
+      "label": "Lullus, Raimundus"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059758-1",
+      "label": "Teología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061418-9",
+      "label": "Traducciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4117633-9",
+      "label": "obra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4143517-5",
+      "label": "Edición"
+    }
+  ]
+}

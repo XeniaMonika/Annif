@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_12345",
+  "text": "",
+  "metadata": {
+    "title": "Spiritualitäten und Religionen : ihr Beitrag zur Gerechtigkeit und Erkenntnis in der globalen Gesellschaft : Dokumentation des XVIII. Internationalen Seminars des Dialogprogramms Nord-Süd",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4049396-9",
+      "label": "Religión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115411-3",
+      "label": "Relaciones Norte-Sur"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116568-8",
+      "label": "espiritualidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4236433-4",
+      "label": "Justicia social"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4557997-0",
+      "label": "Globalización"
+    }
+  ]
+}

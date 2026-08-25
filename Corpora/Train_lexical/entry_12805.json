@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_12805",
+  "text": "",
+  "metadata": {
+    "title": "Técnica y estética: el \"Cantar de mio Cid\" y la épica francesa",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001516-6",
+      "label": "Lengua francesa--Hasta S.XIII"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015065-3",
+      "label": "epopeya"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4147562-8",
+      "label": "Cantares de gesta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4174961-3",
+      "label": "Poema del Cid"
+    }
+  ]
+}

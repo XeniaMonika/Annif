@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3456",
+  "text": "",
+  "metadata": {
+    "title": "Destinos intelectuales en España : Alexandru Busuioceanu, Vintilă Horia y George Uscătescu",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/119036819",
+      "label": "Uscatescu, George"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/128579625",
+      "label": "Horia, Vintilă"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/130484369",
+      "label": "Busuioceanu, Alexandru"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015961-9",
+      "label": "Literatura--Autores exiliados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

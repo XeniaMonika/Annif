@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5775",
+  "text": "",
+  "metadata": {
+    "title": "La Residencia de Estudiantes : los residentes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001307-8",
+      "label": "vida cotidiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058167-6",
+      "label": "Estudiantes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058187-1",
+      "label": "Colegios mayores"
+    }
+  ]
+}

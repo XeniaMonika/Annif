@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_49635",
+  "text": "",
+  "metadata": {
+    "title": "Roedores, rapaces y carnivoros de Aysen",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4021969-0",
+      "label": "Falconiformes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069050-7",
+      "label": "Aysén"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4171111-7",
+      "label": "Roedores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177019-5",
+      "label": "Animales predadores"
+    }
+  ]
+}

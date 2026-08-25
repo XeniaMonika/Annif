@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2970",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario del mono leído",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000666-9",
+      "label": "Monos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4492870-1",
+      "label": "Adopción de perspectivas"
+    }
+  ]
+}

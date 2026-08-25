@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_2103",
+  "text": "",
+  "metadata": {
+    "title": "La fisonomía del libro medieval y moderno : entre la funcionalidad, la estética y la información",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008598-3",
+      "label": "impresión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120472-4",
+      "label": "Iluminación de manuscritos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4136134-9",
+      "label": "Libro ilustrado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4146814-4",
+      "label": "Libros--Diseño"
+    }
+  ]
+}

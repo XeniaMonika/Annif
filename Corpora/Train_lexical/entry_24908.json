@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_24908",
+  "text": "",
+  "metadata": {
+    "title": "Crónicas de la violencia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4043830-2",
+      "label": "Crimen organizado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139162-7",
+      "label": "Tráfico de drogas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4150702-2",
+      "label": "Delitos relacionados con las drogas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4157234-8",
+      "label": "crimen violento"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_53020",
+  "text": "",
+  "metadata": {
+    "title": "La agricultura, la pesca y la alimentación en España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4017310-0",
+      "label": "explotación pesquera"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034402-2",
+      "label": "Agricultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068471-4",
+      "label": "producción agrícola"
+    }
+  ]
+}

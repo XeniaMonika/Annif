@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_17711",
+  "text": "",
+  "metadata": {
+    "title": "Casa O'Gorman 1929",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11855932X",
+      "label": "Kahlo, Frida"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118745514",
+      "label": "Rivera, Diego"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/122732022",
+      "label": "O'Gorman, Juan"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023693-6",
+      "label": "vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039060-3",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4155675-6",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4466237-3",
+      "label": "Casa-taller"
+    }
+  ]
+}

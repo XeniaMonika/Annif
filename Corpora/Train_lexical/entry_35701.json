@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_35701",
+  "text": "",
+  "metadata": {
+    "title": "Medicina",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1159103356",
+      "label": "Jiménez Díaz, Carlos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118589288",
+      "label": "Ochoa, Severo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118641867",
+      "label": "Ramón y Cajal, Santiago"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118781693",
+      "label": "Marañón, Gregorio"
+    }
+  ]
+}

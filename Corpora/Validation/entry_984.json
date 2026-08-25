@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_984",
+  "text": "",
+  "metadata": {
+    "title": "11 ciudades : viajes de un periodista deportivo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4137679-1",
+      "label": "Competiciones deportivas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4142399-9",
+      "label": "Anécdotas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4144779-7",
+      "label": "fútbol profesional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4195410-5",
+      "label": "Periodista deportivo"
+    }
+  ]
+}

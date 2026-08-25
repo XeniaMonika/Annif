@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1570",
+  "text": "",
+  "metadata": {
+    "title": "El arte de contar un cuento",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015464-6",
+      "label": "narración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4030550-8",
+      "label": "infancia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075995-7",
+      "label": "Desarrollo de la personalidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132307-5",
+      "label": "Narración de cuentos"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_9083",
+  "text": "",
+  "metadata": {
+    "title": "Tratado de rítmica y prosodia y de métrica y versificación",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039002-0",
+      "label": "Versificación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047500-1",
+      "label": "Análisis prosódico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132330-0",
+      "label": "Ritmo"
+    }
+  ]
+}

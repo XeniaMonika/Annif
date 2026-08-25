@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11347",
+  "text": "",
+  "metadata": {
+    "title": "El libro de las suertes : tratado de adivinación por el juego de azar",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079012-5",
+      "label": "Adivinación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4313975-9",
+      "label": "aljamía"
+    }
+  ]
+}

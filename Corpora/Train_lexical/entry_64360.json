@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_64360",
+  "text": "",
+  "metadata": {
+    "title": "Catálogo de la escultura gótica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1016874-6",
+      "label": "Museo Arqueológico Nacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4021656-1",
+      "label": "Arte gótico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046277-8",
+      "label": "Escultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

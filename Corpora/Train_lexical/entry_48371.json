@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_48371",
+  "text": "",
+  "metadata": {
+    "title": "Nombres y apellidos asturianos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003329-6",
+      "label": "Asturias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016415-9",
+      "label": "apellido"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063994-0",
+      "label": "nombre de pila"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4212009-3",
+      "label": "asturiano"
+    }
+  ]
+}

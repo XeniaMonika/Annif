@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_18101",
+  "text": "",
+  "metadata": {
+    "title": "Burgos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4004973-5",
+      "label": "Edificios históricos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4080585-2",
+      "label": "Provincia de Burgos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4171310-2",
+      "label": "Monumentos naturales"
+    }
+  ]
+}

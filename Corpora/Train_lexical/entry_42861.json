@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_42861",
+  "text": "",
+  "metadata": {
+    "title": "Barcelona modernista",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/119009692",
+      "label": "Gaudí, Antoni"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119050676",
+      "label": "Jujol i Gibert, Josep Maria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119230291",
+      "label": "Puig i Cadafalch, Josep"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119290731",
+      "label": "Domènech i Montaner, Lluís"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4028939-4",
+      "label": "Arte modernista"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4732517-3",
+      "label": "Decoración de edificios"
+    }
+  ]
+}

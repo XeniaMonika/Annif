@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_23619",
+  "text": "",
+  "metadata": {
+    "title": "Atlas ilustrado de las Guerras de Marruecos 1859 - 1926",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033114-3",
+      "label": "Guerra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037680-1",
+      "label": "Marruecos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4065004-2",
+      "label": "Política militar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4200305-2",
+      "label": "guerra colonial"
+    }
+  ]
+}

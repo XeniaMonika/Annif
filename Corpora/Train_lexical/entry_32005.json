@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_32005",
+  "text": "",
+  "metadata": {
+    "title": "Paisaje y territorio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4034350-9",
+      "label": "Diseño paisajístico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034353-4",
+      "label": "gestión del paisaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114354-1",
+      "label": "Paisaje--En el arte"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2018",
+  "text": "",
+  "metadata": {
+    "title": "Guía lorquiana de Al Alpujarra y Guadix : cielo denso de lapislazuli",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118537598",
+      "label": "García Lorca, Federico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4098883-1",
+      "label": "La Alpujarra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4239234-2",
+      "label": "Guadix"
+    }
+  ]
+}

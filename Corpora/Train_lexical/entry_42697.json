@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_42697",
+  "text": "",
+  "metadata": {
+    "title": "Papeles semánticos : (instrumento y comitativo)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4169748-0",
+      "label": "Análisis semántico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4206709-1",
+      "label": "rol semántico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4237166-1",
+      "label": "instrumental"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4699099-9",
+      "label": ""
+    }
+  ]
+}

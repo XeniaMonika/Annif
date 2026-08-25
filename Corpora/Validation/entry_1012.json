@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1012",
+  "text": "",
+  "metadata": {
+    "title": "El infinito en un junco : la invención de los libros en el mundo antiguo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008626-4",
+      "label": "Libros--Comercio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068754-5",
+      "label": "Civilización clásica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076778-4",
+      "label": "Imperio Romano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4093976-5",
+      "label": "Grecia"
+    }
+  ]
+}

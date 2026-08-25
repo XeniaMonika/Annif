@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_44622",
+  "text": "",
+  "metadata": {
+    "title": "Adquisición, enseñanza y contraste de lenguas, bilingüísmo y traducción",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4056458-7",
+      "label": "Lenguaje--Adquisición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056505-1",
+      "label": "enseñanza de lengua"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061418-9",
+      "label": "Traducciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068227-4",
+      "label": "Bilingüismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4187739-1",
+      "label": "Lingüística comparada"
+    }
+  ]
+}

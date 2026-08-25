@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_64847",
+  "text": "",
+  "metadata": {
+    "title": "El campo semántico \"grueso/delgado\" en español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000497-1",
+      "label": "Adjetivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138097-6",
+      "label": "Campo semántico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7716900-1",
+      "label": "grueso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7716901-3",
+      "label": "delgado"
+    }
+  ]
+}

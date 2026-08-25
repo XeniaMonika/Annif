@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2290",
+  "text": "",
+  "metadata": {
+    "title": "Velázquez, Rembrandt, Vermeer : miradas afines",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041282-9",
+      "label": "Conciencia nacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4042203-3",
+      "label": "Países Bajos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

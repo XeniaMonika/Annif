@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2295",
+  "text": "",
+  "metadata": {
+    "title": "Andalucía : Inquisición y varia historia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027106-7",
+      "label": "Inquisición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4187563-1",
+      "label": "Libro prohibido"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188521-1",
+      "label": "Volksfest"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4190741-3",
+      "label": "ceremonia"
+    }
+  ]
+}

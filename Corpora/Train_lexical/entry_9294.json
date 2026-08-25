@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_9294",
+  "text": "",
+  "metadata": {
+    "title": "Arte y ciencia en la pintura de paisaje : Alexander von Humboldt",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118554700",
+      "label": "Humboldt, Alexander"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014842-7",
+      "label": "exploración geográfica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114355-3",
+      "label": "Pintura de paisaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115737-0",
+      "label": "Foto de viaje"
+    }
+  ]
+}

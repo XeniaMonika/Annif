@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_27689",
+  "text": "",
+  "metadata": {
+    "title": "El resumen automático y la evaluación de traducciones en el contexto de la traducción especializada",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4048839-1",
+      "label": "Derecho--Terminología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061418-9",
+      "label": "Traducciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165338-5",
+      "label": "Corpora (Lingüística)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4265353-8",
+      "label": "Análisis automático de contenidos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4438228-5",
+      "label": "traductología"
+    }
+  ]
+}

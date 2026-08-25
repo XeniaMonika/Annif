@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5575",
+  "text": "",
+  "metadata": {
+    "title": "Gramática general, comunicación y partes del discurso",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012475-7",
+      "label": "discurso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4021806-5",
+      "label": "Gramática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071984-4",
+      "label": "Categoría gramatical"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140778-7",
+      "label": "Teoría gramatical"
+    }
+  ]
+}

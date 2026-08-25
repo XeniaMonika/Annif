@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1433",
+  "text": "",
+  "metadata": {
+    "title": "Cómo escribir y publicar un artículo científico",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4066571-9",
+      "label": "escritura académica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066596-3",
+      "label": "Manuscrito científico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125424-7",
+      "label": "Artículo de revista"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4187925-9",
+      "label": "edición"
+    }
+  ]
+}

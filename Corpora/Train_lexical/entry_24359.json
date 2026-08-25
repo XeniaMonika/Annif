@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_24359",
+  "text": "",
+  "metadata": {
+    "title": "Cancionero musical popular español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063852-2",
+      "label": "canción popular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120981-3",
+      "label": "modificación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127833-1",
+      "label": "Etnomusicología"
+    }
+  ]
+}

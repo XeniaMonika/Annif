@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2779",
+  "text": "",
+  "metadata": {
+    "title": "La caza y los toros",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015602-3",
+      "label": "Ética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027955-8",
+      "label": "Caza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130211-4",
+      "label": "Corridas de toros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4323955-9",
+      "label": "Cultura tradicional"
+    }
+  ]
+}

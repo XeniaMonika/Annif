@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11049",
+  "text": "",
+  "metadata": {
+    "title": "Las palabras primas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077741-8",
+      "label": "Variación (Lingüística)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194079-9",
+      "label": "Hispanoamérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4419922-3",
+      "label": "lengua regional"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_30733",
+  "text": "",
+  "metadata": {
+    "title": "Liber de sectis hereticorum et orthodoxe fidei dogmata",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014904-3",
+      "label": "toma de decisiones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022838-1",
+      "label": "Herejía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059758-1",
+      "label": "Teología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129954-1",
+      "label": "cristianismo primitivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163958-3",
+      "label": "Magisterio eclesiástico"
+    }
+  ]
+}

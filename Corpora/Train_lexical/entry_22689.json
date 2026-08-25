@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_22689",
+  "text": "",
+  "metadata": {
+    "title": "Wikipedia (y otros monstruos)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001307-8",
+      "label": "vida cotidiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041005-5",
+      "label": "Mitología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4093976-5",
+      "label": "Grecia"
+    }
+  ]
+}

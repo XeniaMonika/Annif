@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_33596",
+  "text": "",
+  "metadata": {
+    "title": "Reliqva scripta metrica et mvsica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039002-0",
+      "label": "Versificación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040802-4",
+      "label": "música"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    }
+  ]
+}

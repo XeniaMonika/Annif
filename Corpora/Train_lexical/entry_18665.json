@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_18665",
+  "text": "",
+  "metadata": {
+    "title": "Una historia del libro judío : la cultura judia argentina a través de sus editores, libreros, traductores, imprentas y bibliotecas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002890-2",
+      "label": "Argentina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4028808-0",
+      "label": "Judíos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4146827-2",
+      "label": "Producción editorial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7855244-8",
+      "label": "Divulgación literaria"
+    }
+  ]
+}

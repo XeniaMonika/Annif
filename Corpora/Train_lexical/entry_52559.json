@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_52559",
+  "text": "",
+  "metadata": {
+    "title": "Emigración Centroeuropea a América Latina",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1232349453",
+      "label": "centroeuropeos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4003920-1",
+      "label": "emigración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4013960-8",
+      "label": "inmigración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039677-0",
+      "label": "Europa Central"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075739-0",
+      "label": "Europa del Este"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4381520-0",
+      "label": "europeos del Este"
+    }
+  ]
+}

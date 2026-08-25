@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_20258",
+  "text": "",
+  "metadata": {
+    "title": "Dioses, bailes y cantos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124840-5",
+      "label": "Extranjerismos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133214-3",
+      "label": "Lengua quechua"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4224967-3",
+      "label": "Lengua aimara"
+    }
+  ]
+}

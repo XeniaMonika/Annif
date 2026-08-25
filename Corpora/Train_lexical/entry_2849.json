@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2849",
+  "text": "",
+  "metadata": {
+    "title": "Oiza, Oteiza, Huarte",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11907737X",
+      "label": "Oteiza, Jorge"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/124866611",
+      "label": "Sáenz de Oíza, Francisco Javier"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/170516636",
+      "label": "Huarte Beaumont, Juan"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120975-8",
+      "label": "proyecto de construcción"
+    }
+  ]
+}

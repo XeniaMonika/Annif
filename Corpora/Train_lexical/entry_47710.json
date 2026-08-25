@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_47710",
+  "text": "",
+  "metadata": {
+    "title": "El español de América : aproximación sincrónica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4045836-2",
+      "label": "fonología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077723-6",
+      "label": "Lenguas en contacto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114635-9",
+      "label": "Morfosintaxis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159976-7",
+      "label": "hispanoamericano"
+    }
+  ]
+}

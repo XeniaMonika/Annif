@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1304",
+  "text": "",
+  "metadata": {
+    "title": "La Casa en llamas : antropología de la arquitectura en un valle del País Vasco",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002230-4",
+      "label": "antropología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023693-6",
+      "label": "vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034026-0",
+      "label": "medio rural"
+    }
+  ]
+}

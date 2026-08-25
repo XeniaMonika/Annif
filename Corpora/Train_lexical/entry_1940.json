@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1940",
+  "text": "",
+  "metadata": {
+    "title": "Cha-cha-chá : (dueto)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4013003-4",
+      "label": "Animales--Adiestramiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026181-5",
+      "label": "Perros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038639-9",
+      "label": "¡Vaya!"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113972-0",
+      "label": "Cuidado de los perros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4145198-3",
+      "label": "Relación"
+    }
+  ]
+}

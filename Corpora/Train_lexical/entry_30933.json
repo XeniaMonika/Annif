@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_30933",
+  "text": "",
+  "metadata": {
+    "title": "¿Dónde estás Ahmed?",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037678-3",
+      "label": "marroquí"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076527-1",
+      "label": "Racismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4162166-9",
+      "label": "Intolerancia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4244141-9",
+      "label": "Xenofobia"
+    }
+  ]
+}

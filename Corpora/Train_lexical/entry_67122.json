@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_67122",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario botánico de nombres vulgares cubanos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4007842-5",
+      "label": "Botánica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015640-0",
+      "label": "etimología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045573-7",
+      "label": "Plantas--Nombres vulgares"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

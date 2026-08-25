@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_18197",
+  "text": "",
+  "metadata": {
+    "title": "Cerveza mexicana : antología de un arte efervescente",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006537-6",
+      "label": "Cerveza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008024-9",
+      "label": "cervecería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011510-0",
+      "label": "diseño"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074577-6",
+      "label": "Marca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122920-4",
+      "label": "elaboración de cerveza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4208864-1",
+      "label": "botella de cerveza"
+    }
+  ]
+}

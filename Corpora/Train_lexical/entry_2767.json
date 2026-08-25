@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2767",
+  "text": "",
+  "metadata": {
+    "title": "Museos y colecciones universitarias de arte en España y Latinoamérica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040795-0",
+      "label": "Museos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061778-6",
+      "label": "universidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    }
+  ]
+}

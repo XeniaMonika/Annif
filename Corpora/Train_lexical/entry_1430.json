@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_1430",
+  "text": "",
+  "metadata": {
+    "title": "Shaping the past",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/10068828-7",
+      "label": "Instituto Goethe"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1257372203",
+      "label": "Monument Lab"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/2006663-6",
+      "label": "Centro Federal de Educación Política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011453-3",
+      "label": "monumento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4200793-8",
+      "label": "Memoria colectiva"
+    }
+  ]
+}

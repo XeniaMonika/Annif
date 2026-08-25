@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1625",
+  "text": "",
+  "metadata": {
+    "title": "Diego Velázquez invita a Pablo Picasso",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118594206",
+      "label": "Picasso, Pablo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118626426",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1328",
+  "text": "",
+  "metadata": {
+    "title": "Buenas noticias : relaciones de sucesos en los siglos XVI-XVIII : estudios y textos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4022600-1",
+      "label": "bien"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127996-7",
+      "label": "mensaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128022-2",
+      "label": "Informe"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4136947-6",
+      "label": "cuento popular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4152718-5",
+      "label": "acontecimiento"
+    }
+  ]
+}

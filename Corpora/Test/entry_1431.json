@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1431",
+  "text": "",
+  "metadata": {
+    "title": "Andalucía, tierra de Moros y Cristianos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4010071-6",
+      "label": "Cristianos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033542-2",
+      "label": "Identidad cultural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4119950-9",
+      "label": "moriscos"
+    }
+  ]
+}

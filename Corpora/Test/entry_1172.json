@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1172",
+  "text": "",
+  "metadata": {
+    "title": "¿Dónde está Franco? : cuaderno de un viaje",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11853470X",
+      "label": "Franco, Francisco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128337-5",
+      "label": "controversia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4136435-1",
+      "label": "estatua ecuestre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4200793-8",
+      "label": "Memoria colectiva"
+    }
+  ]
+}

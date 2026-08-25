@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_76695",
+  "text": "",
+  "metadata": {
+    "title": "Anales del Instituto de Geología",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020227-6",
+      "label": "Geología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020288-4",
+      "label": "Ciencias de la tierra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020740-7",
+      "label": "Petrología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039457-8",
+      "label": "Mineralogía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044375-9",
+      "label": "Paleontología"
+    }
+  ]
+}

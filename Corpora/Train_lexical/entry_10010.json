@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_10010",
+  "text": "",
+  "metadata": {
+    "title": "Michigan, acaso Michigan",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037363-0",
+      "label": "Hombres"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062983-1",
+      "label": "Accidentes de tráfico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122101-1",
+      "label": "Coma (Patología)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4156622-1",
+      "label": "convalecencia"
+    }
+  ]
+}

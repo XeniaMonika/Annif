@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_50142",
+  "text": "",
+  "metadata": {
+    "title": "Iconographic encyclopaedia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4026535-3",
+      "label": "iconografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041421-8",
+      "label": "Ciencias naturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059205-4",
+      "label": "técnica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066562-8",
+      "label": "Ciencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123412-1",
+      "label": "Ilustración científica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4190104-6",
+      "label": "Libro científico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4190121-6",
+      "label": "Transmisión de conocimientos"
+    }
+  ]
+}

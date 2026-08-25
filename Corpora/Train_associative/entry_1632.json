@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_1632",
+  "text": "",
+  "metadata": {
+    "title": "El almanaque literario : aspectos editoriales y textuales de la producción en España, Italia y Portugal durante el siglo XVIII",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4027833-5",
+      "label": "Italia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046843-4",
+      "label": "Portugal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114056-4",
+      "label": "Lengua italiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120316-1",
+      "label": "Lengua portuguesa"
+    }
+  ]
+}

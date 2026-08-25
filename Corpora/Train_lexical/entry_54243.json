@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_54243",
+  "text": "",
+  "metadata": {
+    "title": "Mediterranean encounters, economic, religious, political, 1100 - 1550",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020588-5",
+      "label": "sociedad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049396-9",
+      "label": "Religión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066399-1",
+      "label": "economía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074900-9",
+      "label": "Cuenca del Mediterráneo"
+    }
+  ]
+}

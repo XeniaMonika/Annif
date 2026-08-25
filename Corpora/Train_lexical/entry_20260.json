@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_20260",
+  "text": "",
+  "metadata": {
+    "title": "Atlas de la vulnerabilidad de la aglomeración de La Paz",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4041387-1",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063234-9",
+      "label": "Urbanización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069106-8",
+      "label": "Áreas metropolitanas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127847-1",
+      "label": "La Paz"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7846420-1",
+      "label": "El Alto de La Paz"
+    }
+  ]
+}

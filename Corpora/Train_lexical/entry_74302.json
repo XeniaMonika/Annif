@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_74302",
+  "text": "",
+  "metadata": {
+    "title": "Bauer Bodoni",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4018118-2",
+      "label": "Fráncfort del Meno"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138999-2",
+      "label": "Muestra de escritura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4350515-6",
+      "label": "Fundición tipográfica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/506082-5",
+      "label": "Fundición Bauersche"
+    }
+  ]
+}

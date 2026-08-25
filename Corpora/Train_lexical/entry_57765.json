@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_57765",
+  "text": "",
+  "metadata": {
+    "title": "El saco de Roma : 1527",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006627-7",
+      "label": "retrato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050471-2",
+      "label": "Roma"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4178820-5",
+      "label": "Saqueo de Roma"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4286607-8",
+      "label": "Hecho histórico"
+    }
+  ]
+}

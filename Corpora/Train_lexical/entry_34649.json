@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_34649",
+  "text": "",
+  "metadata": {
+    "title": "Instituciones políticas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4011413-2",
+      "label": "Democracia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046584-6",
+      "label": "sistema político"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064286-0",
+      "label": "Elecciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139210-3",
+      "label": "sistema electoral"
+    }
+  ]
+}

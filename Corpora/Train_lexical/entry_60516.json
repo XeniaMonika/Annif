@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_60516",
+  "text": "",
+  "metadata": {
+    "title": "Casa colombiana",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4023693-6",
+      "label": "vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031812-6",
+      "label": "Colombia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063532-6",
+      "label": "Arquitectura doméstica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072819-5",
+      "label": "Decoración interior"
+    }
+  ]
+}

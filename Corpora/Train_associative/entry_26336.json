@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_26336",
+  "text": "",
+  "metadata": {
+    "title": "Cien años de poesia : 53 poemas en catalán, gallego y vasco: estructuras poéticas, pautas críticas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4088809-5",
+      "label": "Lengua vasca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113661-5",
+      "label": "Lengua gallega"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120218-1",
+      "label": "Lengua catalana"
+    }
+  ]
+}

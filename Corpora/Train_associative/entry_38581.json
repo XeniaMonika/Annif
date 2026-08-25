@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_38581",
+  "text": "",
+  "metadata": {
+    "title": "Arte y ciudad : ámbitos medieval, moderno y contemporáneo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004913-9",
+      "label": "escultura arquitectónica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056723-0",
+      "label": "Ciudades"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4172385-5",
+      "label": "Espacios públicos"
+    }
+  ]
+}

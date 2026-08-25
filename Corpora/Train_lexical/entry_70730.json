@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_70730",
+  "text": "",
+  "metadata": {
+    "title": "Biblia Hebraica Stuttgartensia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001515-4",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059657-6",
+      "label": "crítica textual"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127952-9",
+      "label": "Biblia Hebraica Stuttgartensia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128514-1",
+      "label": "Masora"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4226122-3",
+      "label": "Torá"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_10123",
+  "text": "",
+  "metadata": {
+    "title": "El ocaso del regimen : del asesinato de Carrero a la muerte de Franco",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11851153X",
+      "label": "Carrero Blanco, Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/11853470X",
+      "label": "Franco, Francisco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015594-8",
+      "label": "ETA"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040235-6",
+      "label": "Asesinato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049012-9",
+      "label": "Gobierno"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4060294-1",
+      "label": "Muerte"
+    }
+  ]
+}

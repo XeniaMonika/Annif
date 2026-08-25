@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_22779",
+  "text": "",
+  "metadata": {
+    "title": "Pontevedra : Volumen 1",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004913-9",
+      "label": "escultura arquitectónica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050482-7",
+      "label": "Arte románico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073436-5",
+      "label": "Iglesias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4226880-1",
+      "label": "Provincia de Pontevedra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7583222-7",
+      "label": "dependencia monástica"
+    }
+  ]
+}

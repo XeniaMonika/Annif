@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_60218",
+  "text": "",
+  "metadata": {
+    "title": "Cuba y sus sones",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063852-2",
+      "label": "canción popular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063854-6",
+      "label": "música tradicional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140677-1",
+      "label": "Música de baile"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4363365-1",
+      "label": "Son cubano"
+    }
+  ]
+}

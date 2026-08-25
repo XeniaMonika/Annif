@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_1115",
+  "text": "",
+  "metadata": {
+    "title": "Las lenguas del caribe continental : estudio sobre arealidad incipiente",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4031812-6",
+      "label": "Colombia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056463-0",
+      "label": "Geografía lingüística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062512-6",
+      "label": "Venezuela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073790-1",
+      "label": "lengua criolla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079486-6",
+      "label": "América Central"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127160-9",
+      "label": "Indios de América--Lenguas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4260365-1",
+      "label": "Costa del Caribe"
+    }
+  ]
+}

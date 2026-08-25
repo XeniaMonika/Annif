@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_1024",
+  "text": "",
+  "metadata": {
+    "title": "Laboratorio de Vivienda : Apan",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125387-5",
+      "label": "Arquitectura y clima"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131331-8",
+      "label": "Construcción económica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4142867-5",
+      "label": "Viviendas de empleados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4144148-5",
+      "label": "Tipo de construcción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4205756-5",
+      "label": "Vivienda para trabajadores"
+    }
+  ]
+}

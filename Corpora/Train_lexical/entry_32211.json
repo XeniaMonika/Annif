@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_32211",
+  "text": "",
+  "metadata": {
+    "title": "Arte y terror",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4018944-2",
+      "label": "Miedo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046565-2",
+      "label": "Terrorismo de Estado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4136410-7",
+      "label": "Guerra--En el arte"
+    }
+  ]
+}

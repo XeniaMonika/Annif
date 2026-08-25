@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_53568",
+  "text": "",
+  "metadata": {
+    "title": "El indio en la llanura del Plata : guía bibliográfica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4026718-0",
+      "label": "indígenas de América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044867-8",
+      "label": "Patagonia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4117029-5",
+      "label": "Cuenca del Río de la Plata"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4242905-5",
+      "label": "Pampas"
+    }
+  ]
+}

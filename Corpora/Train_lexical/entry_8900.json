@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_8900",
+  "text": "",
+  "metadata": {
+    "title": "Sources et modèles des historiens anciens",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020531-9",
+      "label": "Historiografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038971-6",
+      "label": "Método"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068754-5",
+      "label": "Civilización clásica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113791-7",
+      "label": "Lengua griega"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    }
+  ]
+}

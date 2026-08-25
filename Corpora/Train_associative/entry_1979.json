@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1979",
+  "text": "",
+  "metadata": {
+    "title": "Huir de Centroamérica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003920-1",
+      "label": "emigración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4013960-8",
+      "label": "inmigración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039660-5",
+      "label": "América Central"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4162051-3",
+      "label": "Migración internacional"
+    }
+  ]
+}

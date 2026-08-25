@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_62836",
+  "text": "",
+  "metadata": {
+    "title": "Módulo para la impresión de textos escolares",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035448-9",
+      "label": "Enseñanza de la lectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039660-5",
+      "label": "América Central"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4070935-8",
+      "label": "Clases de lectura para principiantes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4151988-7",
+      "label": "Educación primaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159653-5",
+      "label": "Fabricación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4180857-5",
+      "label": "Autoaprendizaje"
+    }
+  ]
+}

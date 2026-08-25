@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5615",
+  "text": "",
+  "metadata": {
+    "title": "California style",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4029307-5",
+      "label": "California"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063532-6",
+      "label": "Arquitectura doméstica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4205757-7",
+      "label": "Casa de diseño"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4311326-6",
+      "label": "Casas de campo"
+    }
+  ]
+}

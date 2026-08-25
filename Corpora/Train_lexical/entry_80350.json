@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_80350",
+  "text": "",
+  "metadata": {
+    "title": "Cuestión de Cochinchina",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003217-6",
+      "label": "Asia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058448-3",
+      "label": "Sudeste Asiático"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072778-6",
+      "label": "Indochina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4095315-4",
+      "label": "India interior"
+    }
+  ]
+}

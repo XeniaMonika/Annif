@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3611",
+  "text": "",
+  "metadata": {
+    "title": "Bernini : Roma y la monarquía hispánica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118509926",
+      "label": "Bernini, Gian Lorenzo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050471-2",
+      "label": "Roma"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055967-1",
+      "label": "Españoles"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129665-5",
+      "label": "Estatuas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4228647-5",
+      "label": "Santa María la Mayor"
+    }
+  ]
+}

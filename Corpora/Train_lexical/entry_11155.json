@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11155",
+  "text": "",
+  "metadata": {
+    "title": "Regiones de Arica y Parinacota, Tarapacá y Antofagste",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/16070189-2",
+      "label": "Arica y Parinacota"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031170-3",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034402-2",
+      "label": "Agricultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4355763-6",
+      "label": "Tarapacá"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4472501-2",
+      "label": "Antofagasta"
+    }
+  ]
+}

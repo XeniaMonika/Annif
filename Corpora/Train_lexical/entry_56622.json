@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_56622",
+  "text": "",
+  "metadata": {
+    "title": "Libros, lectores y lecturas : estudios sobre bibliotecas particulares españolas del Siglo de Oro",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047289-9",
+      "label": "Bibliotecas privadas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4181251-7",
+      "label": "Literatura española--S.XVI-XVII"
+    }
+  ]
+}

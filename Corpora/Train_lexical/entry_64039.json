@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_64039",
+  "text": "",
+  "metadata": {
+    "title": "Tesoros de la Pinacoteca Virreinal",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/5187709-0",
+      "label": "Pinacoteca Virreinal de San Diego"
+    }
+  ]
+}

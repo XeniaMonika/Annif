@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_61861",
+  "text": "",
+  "metadata": {
+    "title": "Biblioteca marítima española",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014840-3",
+      "label": "Explorador"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116383-7",
+      "label": "transporte acuático"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4347186-9",
+      "label": "Navegación"
+    }
+  ]
+}

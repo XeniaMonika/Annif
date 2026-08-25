@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_43063",
+  "text": "",
+  "metadata": {
+    "title": "Barcelona, un dia : un llibre de contes de la ciutat",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033842-3",
+      "label": "cuento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120218-1",
+      "label": "Lengua catalana"
+    }
+  ]
+}

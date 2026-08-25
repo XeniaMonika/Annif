@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5365",
+  "text": "",
+  "metadata": {
+    "title": "Estudios de erudición y homenaje a Menéndez Pelayo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118580817",
+      "label": "Menéndez y Pelayo, Marcelino"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125698-0",
+      "label": "Civilización"
+    }
+  ]
+}

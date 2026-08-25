@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2137",
+  "text": "",
+  "metadata": {
+    "title": "Yo, Hernán Cortés : el juicio de residencia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118522280",
+      "label": "Cortés, Hernán"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020527-7",
+      "label": "seudohistoria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034869-6",
+      "label": "Currículum vitae"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047577-3",
+      "label": "Procesos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4195062-8",
+      "label": "La conquista de México"
+    }
+  ]
+}

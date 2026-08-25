@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_6987",
+  "text": "",
+  "metadata": {
+    "title": "La lectura en la España contemporánea",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130705-7",
+      "label": "Hábitos de lectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4273696-1",
+      "label": "Cultura de la lectura"
+    }
+  ]
+}

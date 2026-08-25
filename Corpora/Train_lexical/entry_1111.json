@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1111",
+  "text": "",
+  "metadata": {
+    "title": "Elective affinities : rethinking entanglements between Latin America and East-Central Europe",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035965-7",
+      "label": "Referencias literarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075739-0",
+      "label": "Europa del Este"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075753-5",
+      "label": "Europa Central y Oriental"
+    }
+  ]
+}

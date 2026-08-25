@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_4995",
+  "text": "",
+  "metadata": {
+    "title": "The Pylos tablets",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4027107-9",
+      "label": "Inscripciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035808-2",
+      "label": "Inscripciones en lineal B"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4103392-9",
+      "label": "Pilos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4203040-7",
+      "label": "tablilla de barro"
+    }
+  ]
+}

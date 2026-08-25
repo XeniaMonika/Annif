@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_512",
+  "text": "",
+  "metadata": {
+    "title": "El proceso al libro : la censura inquisitoria en la España del siglo XVII",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027106-7",
+      "label": "Inquisición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4067601-8",
+      "label": "Censura"
+    }
+  ]
+}

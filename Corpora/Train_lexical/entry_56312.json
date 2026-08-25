@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_56312",
+  "text": "",
+  "metadata": {
+    "title": "La aventura de Malaspina : la gran expedición científica del siglo XVIII por las costas de América, las Filipinas y las islas del Pacífico",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/119228521",
+      "label": "Malaspina, Alessandro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4017916-3",
+      "label": "Expediciones científicas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044257-3",
+      "label": "Oceanía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045771-0",
+      "label": "Filipinas"
+    }
+  ]
+}

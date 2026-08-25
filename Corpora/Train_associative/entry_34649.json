@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_34649",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario Espasa historia de España y América",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078014-4",
+      "label": "América del Sur"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194079-9",
+      "label": "Hispanoamérica"
+    }
+  ]
+}

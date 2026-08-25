@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_18000",
+  "text": "",
+  "metadata": {
+    "title": "Los usos lingüísticos de la población de Ceuta : el español, el árabe y el beréber",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4085201-5",
+      "label": "Ceuta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133509-0",
+      "label": "Lenguas bereberes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4191506-9",
+      "label": "uso del lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241223-7",
+      "label": "Lengua árabe"
+    }
+  ]
+}

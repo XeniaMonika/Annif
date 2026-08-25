@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_56374",
+  "text": "",
+  "metadata": {
+    "title": "Gente del libro : autores, editores y bibliotecarios 1939 - 1999",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074272-6",
+      "label": "Vida literaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138343-6",
+      "label": "Editor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4145258-6",
+      "label": "Bibliotecarios"
+    }
+  ]
+}

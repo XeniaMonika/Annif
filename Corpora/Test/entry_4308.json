@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_4308",
+  "text": "",
+  "metadata": {
+    "title": "Economía : Marruecos, España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037680-1",
+      "label": "Marruecos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068297-3",
+      "label": "Relaciones económicas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129504-3",
+      "label": "Estructura económica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4248362-1",
+      "label": "Situación económica"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_25052",
+  "text": "",
+  "metadata": {
+    "title": "Arquitectura en el jardín",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125179-9",
+      "label": "diseño de jardines"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4145198-3",
+      "label": "Relación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7700528-4",
+      "label": "arquitectura del paisaje"
+    }
+  ]
+}

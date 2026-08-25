@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_63169",
+  "text": "",
+  "metadata": {
+    "title": "Así hablamos (también) : el español andaluz",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040725-1",
+      "label": "dialecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061588-1",
+      "label": "lengua coloquial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4268549-7",
+      "label": "Andaluz"
+    }
+  ]
+}

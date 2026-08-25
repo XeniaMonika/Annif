@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_6301",
+  "text": "",
+  "metadata": {
+    "title": "Estudios de arte y sociedad en Valladolid : (siglos XVI-XIX)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020588-5",
+      "label": "sociedad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4119355-6",
+      "label": "Valladolid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4119356-8",
+      "label": "Provincia de Valladolid"
+    }
+  ]
+}

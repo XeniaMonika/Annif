@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_73198",
+  "text": "",
+  "metadata": {
+    "title": "Arquitectura y pintura en Teotihuacán",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064542-3",
+      "label": "pintura mural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4153769-5",
+      "label": "Pintura de fachadas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4314185-7",
+      "label": "Teotihuacán"
+    }
+  ]
+}

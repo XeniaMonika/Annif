@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2280",
+  "text": "",
+  "metadata": {
+    "title": "El mercado de la música en la Sevilla del Siglo de Oro",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040841-3",
+      "label": "Músicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054671-8",
+      "label": "Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163926-1",
+      "label": "Músico de iglesia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4182754-5",
+      "label": "Stadtpfeifer"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4553971-6",
+      "label": "Comercio de instrumentos musicales"
+    }
+  ]
+}

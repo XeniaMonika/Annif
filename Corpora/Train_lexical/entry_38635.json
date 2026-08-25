@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_38635",
+  "text": "",
+  "metadata": {
+    "title": "Atlas histórico de Chile",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4009929-5",
+      "label": "Chile"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020533-2",
+      "label": "Historia--Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038782-3",
+      "label": "Mesoamérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039660-5",
+      "label": "América Central"
+    }
+  ]
+}

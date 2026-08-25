@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_45829",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario de voces americanas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014841-5",
+      "label": "Descubrimientos científicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159976-7",
+      "label": "hispanoamericano"
+    }
+  ]
+}

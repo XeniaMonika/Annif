@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_61698",
+  "text": "",
+  "metadata": {
+    "title": "El español de América y Canarias desde una perspectiva histórica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040725-1",
+      "label": "dialecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073188-1",
+      "label": "Islas Canarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159976-7",
+      "label": "hispanoamericano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163187-0",
+      "label": "español canario"
+    }
+  ]
+}

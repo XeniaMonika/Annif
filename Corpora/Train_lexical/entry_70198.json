@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_70198",
+  "text": "",
+  "metadata": {
+    "title": "El habla culta de Caracas : materiales para su estudio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4009457-1",
+      "label": "Caracas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040725-1",
+      "label": "dialecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062512-6",
+      "label": "Venezuela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077831-9",
+      "label": "lengua estándar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165338-5",
+      "label": "Corpora (Lingüística)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1229",
+  "text": "",
+  "metadata": {
+    "title": "Literaturas en diálogo y escrituras en redes. Textos críticos sobre escritoras de América y España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4053311-6",
+      "label": "escritor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113622-6",
+      "label": "Literatura--Autoras"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194079-9",
+      "label": "Hispanoamérica"
+    }
+  ]
+}

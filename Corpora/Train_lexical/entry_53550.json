@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_53550",
+  "text": "",
+  "metadata": {
+    "title": "La chronica gothorum pseudo-isidoriana (ms. Paris BN 6113)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058693-5",
+      "label": "Suevos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062328-2",
+      "label": "Vándalos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4065792-9",
+      "label": "Visigodos"
+    }
+  ]
+}

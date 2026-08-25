@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_18712",
+  "text": "",
+  "metadata": {
+    "title": "Teatro de calle actual",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129566-3",
+      "label": "Industria del espectáculo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4155326-3",
+      "label": "teatro silvestre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4433627-5",
+      "label": "escenografía"
+    }
+  ]
+}

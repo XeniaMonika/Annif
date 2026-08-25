@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_30216",
+  "text": "",
+  "metadata": {
+    "title": "Borges y Cortázar : lo fantástico bilingüe",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118513532",
+      "label": "Borges, Jorge Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118522272",
+      "label": "Cortázar, Julio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129956-5",
+      "label": "Novela fantástica"
+    }
+  ]
+}

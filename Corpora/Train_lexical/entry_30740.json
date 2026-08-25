@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_30740",
+  "text": "",
+  "metadata": {
+    "title": "El símbolo hecho piedra : El Escorial, un laberinto descifrado",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1007050-3",
+      "label": "Monasterio de El Escorial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    }
+  ]
+}

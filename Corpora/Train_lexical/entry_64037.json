@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_64037",
+  "text": "",
+  "metadata": {
+    "title": "Patrimonio artístico de México en la Cancillería",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113357-2",
+      "label": "grabado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122164-3",
+      "label": "pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132226-5",
+      "label": "Edificios para embajadas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    }
+  ]
+}

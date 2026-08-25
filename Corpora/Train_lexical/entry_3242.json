@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_3242",
+  "text": "",
+  "metadata": {
+    "title": "Hugo Wolf : Spanisches Liederbuch, Nietzsche y literatura",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118587943",
+      "label": "Nietzsche, Friedrich"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118634712",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/300174845",
+      "label": "Wolf, Hugo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045791-6",
+      "label": "Filosofía"
+    }
+  ]
+}

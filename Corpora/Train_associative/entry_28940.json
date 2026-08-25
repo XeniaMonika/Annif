@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_28940",
+  "text": "",
+  "metadata": {
+    "title": "Picasso en Praga",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118594206",
+      "label": "Picasso, Pablo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033659-1",
+      "label": "Crítica artística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    }
+  ]
+}

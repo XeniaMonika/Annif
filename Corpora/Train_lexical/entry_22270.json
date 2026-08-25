@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_22270",
+  "text": "",
+  "metadata": {
+    "title": "Arnold Böcklin, invitación al mito",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118512374",
+      "label": "Böcklin, Arnold"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068754-5",
+      "label": "Civilización clásica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075159-4",
+      "label": "Mito"
+    }
+  ]
+}

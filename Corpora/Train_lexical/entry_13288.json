@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_13288",
+  "text": "",
+  "metadata": {
+    "title": "Barcelona, libro de los pasajes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116587-1",
+      "label": "Paisaje urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140279-0",
+      "label": "paso cubierto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4770285-0",
+      "label": "Pasillo"
+    }
+  ]
+}

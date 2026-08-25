@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_43955",
+  "text": "",
+  "metadata": {
+    "title": "Libros escolares : una introducción a su análisis y evaluación",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4026661-8",
+      "label": "Implementación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038971-6",
+      "label": "Método"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071034-8",
+      "label": "evaluación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077178-7",
+      "label": "Análisis de libros de texto"
+    }
+  ]
+}

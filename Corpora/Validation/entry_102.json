@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_102",
+  "text": "",
+  "metadata": {
+    "title": "Los libros de la nación : intelectuales, literatura y resistencia en la posguerra española",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4067601-8",
+      "label": "Censura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079262-6",
+      "label": "resistencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4155196-5",
+      "label": "Franquismo"
+    }
+  ]
+}

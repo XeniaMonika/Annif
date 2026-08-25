@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_21404",
+  "text": "",
+  "metadata": {
+    "title": "Das ultimative Buch vom Holz",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4025668-6",
+      "label": "Madera"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4160495-7",
+      "label": "Tipo de madera"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4297312-0",
+      "label": "Especie de árbol"
+    }
+  ]
+}

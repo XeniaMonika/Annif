@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5436",
+  "text": "",
+  "metadata": {
+    "title": "Lógica y lenguaje en Eugenio Coseriu",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118522345",
+      "label": "Coseriu, Eugenio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036202-4",
+      "label": "Lógica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056486-1",
+      "label": "Lenguaje--Filosofía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074250-7",
+      "label": "Lingüística"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_70619",
+  "text": "",
+  "metadata": {
+    "title": "Libro del sexto grado : vademecum",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015428-2",
+      "label": "Educación de adultos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020219-7",
+      "label": "Geografía--Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020533-2",
+      "label": "Historia--Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037949-8",
+      "label": "didáctica de la matemática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041425-5",
+      "label": "Enseñanza de las ciencias naturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054365-1",
+      "label": "Educación secundaria de primer ciclo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055974-9",
+      "label": "Lengua española--Didáctica--Extranjeros"
+    }
+  ]
+}

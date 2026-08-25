@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_12145",
+  "text": "",
+  "metadata": {
+    "title": "El taller compartido : Picasso, Fín, Vilató, Xavier",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118594206",
+      "label": "Picasso, Pablo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/122621581",
+      "label": "Fín, José"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/128496800",
+      "label": "Vilató, Javier"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113357-2",
+      "label": "grabado"
+    }
+  ]
+}

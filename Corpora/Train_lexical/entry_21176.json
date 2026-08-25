@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_21176",
+  "text": "",
+  "metadata": {
+    "title": "Una historia de la lectura",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035296-1",
+      "label": "Lectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035439-8",
+      "label": "lectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035441-6",
+      "label": "Lectores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4145243-4",
+      "label": "Bibliomanía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4145247-1",
+      "label": "Bibliofilia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4273696-1",
+      "label": "Cultura de la lectura"
+    }
+  ]
+}

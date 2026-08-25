@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_10649",
+  "text": "",
+  "metadata": {
+    "title": "La emigración española a América : (1492 - 1824)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4003920-1",
+      "label": "emigración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4013960-8",
+      "label": "inmigración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055967-1",
+      "label": "Españoles"
+    }
+  ]
+}

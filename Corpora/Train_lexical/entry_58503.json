@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_58503",
+  "text": "",
+  "metadata": {
+    "title": "Arte efímero Andaluz",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008017-1",
+      "label": "costumbre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121260-5",
+      "label": "fiesta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4154166-2",
+      "label": "Decoración festiva"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4203721-9",
+      "label": "Poema conmemorativo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4409483-8",
+      "label": "Catafalco"
+    }
+  ]
+}

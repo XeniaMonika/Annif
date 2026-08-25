@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5514",
+  "text": "",
+  "metadata": {
+    "title": "Un pulque literario : (a la sombra de las pencas de maguey)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7742594-7",
+      "label": "Agave"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7742865-1",
+      "label": "Pulque"
+    }
+  ]
+}

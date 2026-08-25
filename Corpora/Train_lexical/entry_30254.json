@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_30254",
+  "text": "",
+  "metadata": {
+    "title": "Atlas lingüistico guaraní-románico (ALGR)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4044601-3",
+      "label": "Paraguay"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077623-2",
+      "label": "Sociolingüística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077723-6",
+      "label": "Lenguas en contacto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4158502-1",
+      "label": "Lengua guaraní"
+    }
+  ]
+}

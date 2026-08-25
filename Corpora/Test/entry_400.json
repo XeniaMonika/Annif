@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_400",
+  "text": "",
+  "metadata": {
+    "title": "Procesos de variación y cambio en el español de Sevilla y Las Palmas de Gran Canaria",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4054671-8",
+      "label": "Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056508-7",
+      "label": "Cambio lingüístico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077741-8",
+      "label": "Variación (Lingüística)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4111216-7",
+      "label": "Las Palmas"
+    }
+  ]
+}

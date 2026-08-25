@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_13468",
+  "text": "",
+  "metadata": {
+    "title": "Romanice loqui : Festschrift für Gerald Bernhard zu seinem 60. Geburtstag",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/111541743",
+      "label": "Bernhard, Gerald"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056463-0",
+      "label": "Geografía lingüística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077723-6",
+      "label": "Lenguas en contacto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114056-4",
+      "label": "Lengua italiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4332789-8",
+      "label": "Lingüística de la variación"
+    }
+  ]
+}

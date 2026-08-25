@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3363",
+  "text": "",
+  "metadata": {
+    "title": "El léxico médico del \"Cancionero de Baena\"",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4038243-6",
+      "label": "Medicina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4318171-5",
+      "label": "Cancionero de Baena"
+    }
+  ]
+}

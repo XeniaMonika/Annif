@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_60301",
+  "text": "",
+  "metadata": {
+    "title": "México en la cuenca del Pacífico",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044982-8",
+      "label": "Región del Pacífico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066438-7",
+      "label": "Desarrollo económico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066493-4",
+      "label": "Política económica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079344-8",
+      "label": "Cooperación económica"
+    }
+  ]
+}

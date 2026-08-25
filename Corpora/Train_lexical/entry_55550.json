@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_55550",
+  "text": "",
+  "metadata": {
+    "title": "Un sermonario castellano medieval : el Ms. 1854 de la Biblioteca Universitaria de Salamanca",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120218-1",
+      "label": "Lengua catalana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122202-7",
+      "label": "Predicación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123978-7",
+      "label": "Recopilación de sermones"
+    }
+  ]
+}

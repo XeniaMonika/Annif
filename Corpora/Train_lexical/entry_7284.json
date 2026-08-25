@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_7284",
+  "text": "",
+  "metadata": {
+    "title": "Estudios de la Mezquita de Córdoba",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040320-8",
+      "label": "Mezquitas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4070108-6",
+      "label": "Catedral de Córdoba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073436-5",
+      "label": "Iglesias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4134930-1",
+      "label": "ornamento arquitectónico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    }
+  ]
+}

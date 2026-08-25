@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_59019",
+  "text": "",
+  "metadata": {
+    "title": "Dictionnaire de l'espagnol économique, commercial et financier : espagnol-français, français-espagnol ; gestion, langue de la presse, marketing, informatique, droit, correspondance commerciale",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4017214-4",
+      "label": "finanzas gerenciales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023222-0",
+      "label": "Comercio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066399-1",
+      "label": "economía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113615-9",
+      "label": "Lengua francesa"
+    }
+  ]
+}

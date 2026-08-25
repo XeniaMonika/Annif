@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_69162",
+  "text": "",
+  "metadata": {
+    "title": "Studien zum sentimentalen Unterhaltungsroman in Spanien : Pedro Mata, Alberto Insúa und José Maria Carretero",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118710796",
+      "label": "Insúa, Alberto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118731661",
+      "label": "Mata, Pedro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/13291140X",
+      "label": "Carretero, José María"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050479-7",
+      "label": "Novelas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4060947-9",
+      "label": "Novela trivial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078573-7",
+      "label": "Novela de entretenimiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4181008-9",
+      "label": "Sentimentalismo"
+    }
+  ]
+}

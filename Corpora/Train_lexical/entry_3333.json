@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_3333",
+  "text": "",
+  "metadata": {
+    "title": "Arte de la lengua mexicana",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4021806-5",
+      "label": "Gramática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139760-5",
+      "label": "náhuatl"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4356568-2",
+      "label": "Olmos, Andrés"
+    }
+  ]
+}

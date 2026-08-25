@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_9473",
+  "text": "",
+  "metadata": {
+    "title": "Espacio insular y creación literaria : Antillas, Baleares, Canarias",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4069098-2",
+      "label": "Islas Baleares"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073188-1",
+      "label": "Islas Canarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120218-1",
+      "label": "Lengua catalana"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_8203",
+  "text": "",
+  "metadata": {
+    "title": "Ópera en pantalla : del cine al streaming",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4043582-9",
+      "label": "ópera"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068939-6",
+      "label": "Medios audiovisuales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129654-0",
+      "label": "Cines"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4155671-9",
+      "label": "Música de fondo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4170822-2",
+      "label": "Cine musical"
+    }
+  ]
+}

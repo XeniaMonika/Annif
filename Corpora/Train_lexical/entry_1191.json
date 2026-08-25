@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1191",
+  "text": "",
+  "metadata": {
+    "title": "Salud digital : enfoques actuales, aplicaciones y desafíos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4038261-8",
+      "label": "Medicina--Proceso de datos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7542254-2",
+      "label": "Telemática médica"
+    }
+  ]
+}

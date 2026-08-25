@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11434",
+  "text": "",
+  "metadata": {
+    "title": "El cuaderno caníbal",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033842-3",
+      "label": "cuento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4154375-0",
+      "label": "director de cine"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4439379-9",
+      "label": "homenaje"
+    }
+  ]
+}

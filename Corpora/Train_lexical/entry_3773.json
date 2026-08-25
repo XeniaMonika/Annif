@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3773",
+  "text": "",
+  "metadata": {
+    "title": "Selva misteriosa",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125655-4",
+      "label": "Héroes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4141014-2",
+      "label": "aventura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4309343-7",
+      "label": "Selva"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4338087-6",
+      "label": "cuenca del Amazonas"
+    }
+  ]
+}

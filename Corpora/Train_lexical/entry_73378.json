@@ -1,0 +1,58 @@
+{
+  "document_id": "entry_73378",
+  "text": "",
+  "metadata": {
+    "title": "Elsevier-Oldenbourg Ölfeld-Fachwörterbuch : in 5 Sprachen ; englisch/amerikanisch, französisch, spanisch, holländisch und deutsch",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014777-0",
+      "label": "Lengua inglesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015179-7",
+      "label": "Petróleo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015186-4",
+      "label": "Industria petrolera"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113615-9",
+      "label": "Lengua francesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122614-8",
+      "label": "Lengua holandesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125182-9",
+      "label": "Yacimientos petrolíferos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139144-5",
+      "label": "Extracción de petróleo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4152692-2",
+      "label": "Petróleo--Geología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4152707-0",
+      "label": "Sector petrolero"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4172422-7",
+      "label": "campo petrolífero"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3373",
+  "text": "",
+  "metadata": {
+    "title": "La colección pictórica del Ayuntamiento de Sevilla",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1069451622",
+      "label": "Ayuntamiento de Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040795-0",
+      "label": "Museos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054671-8",
+      "label": "Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    }
+  ]
+}

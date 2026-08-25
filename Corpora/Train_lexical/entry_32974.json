@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_32974",
+  "text": "",
+  "metadata": {
+    "title": "Studies in voice and transitivity",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4044845-9",
+      "label": "Pasivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071724-0",
+      "label": "Voz (Lingüística)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078727-8",
+      "label": "diátesis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4134802-3",
+      "label": "Lenguas utoaztecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4201445-1",
+      "label": "Activo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4204860-6",
+      "label": "Transitividad"
+    }
+  ]
+}

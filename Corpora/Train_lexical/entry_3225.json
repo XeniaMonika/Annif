@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3225",
+  "text": "",
+  "metadata": {
+    "title": "Artes mecánicas medievales",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023299-2",
+      "label": "oficio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041421-8",
+      "label": "Ciencias naturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4373680-4",
+      "label": "Artes mecánicas"
+    }
+  ]
+}

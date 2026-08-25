@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_75811",
+  "text": "",
+  "metadata": {
+    "title": "Berlin",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/25679-1",
+      "label": "Provincia de Brandeburgo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4005728-8",
+      "label": "Berlín"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011882-4",
+      "label": "Alemania"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047194-9",
+      "label": "Prusia"
+    }
+  ]
+}

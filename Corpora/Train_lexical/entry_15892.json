@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_15892",
+  "text": "",
+  "metadata": {
+    "title": "Modern livestock and poultry production",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4060095-6",
+      "label": "Animales--Nutrición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4060143-2",
+      "label": "crianza de animales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4117220-6",
+      "label": "ganadería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4117223-1",
+      "label": "Producción ganadera"
+    }
+  ]
+}

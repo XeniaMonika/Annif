@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_12482",
+  "text": "",
+  "metadata": {
+    "title": "La deuda",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053461-3",
+      "label": "deuda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077575-6",
+      "label": "Situación social"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4164760-9",
+      "label": "Cómico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4248362-1",
+      "label": "Situación económica"
+    }
+  ]
+}

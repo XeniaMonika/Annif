@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_57877",
+  "text": "",
+  "metadata": {
+    "title": "Liber Sancti Jacobi : Codex Calixtinus",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4051658-1",
+      "label": "Santiago de Compostela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064460-1",
+      "label": "Peregrinaciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4205032-7",
+      "label": "Códice Calixtino"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4361915-0",
+      "label": "Libro de Santiago"
+    }
+  ]
+}

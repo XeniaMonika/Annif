@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_4521",
+  "text": "",
+  "metadata": {
+    "title": "Pinturas y grafitos : basílica de la Natividad en Belén",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064542-3",
+      "label": "pintura mural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073436-5",
+      "label": "Iglesias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4203686-0",
+      "label": "Iglesia de la Natividad"
+    }
+  ]
+}

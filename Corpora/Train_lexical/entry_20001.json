@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_20001",
+  "text": "",
+  "metadata": {
+    "title": "Arts & architecture : 1945 - 1949 ; [selected covers and stories of the A&A magazine issues January 1945 (announcing the \"case study\" house program) - December 1949]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1054666431",
+      "label": "Arte y arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4029307-5",
+      "label": "California"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125424-7",
+      "label": "Artículo de revista"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4308572-6",
+      "label": "Crítica arquitectónica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4506315-1",
+      "label": "Historia de la arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4558603-2",
+      "label": "Case Study Houses"
+    }
+  ]
+}

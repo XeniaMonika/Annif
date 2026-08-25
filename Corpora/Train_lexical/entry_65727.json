@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_65727",
+  "text": "",
+  "metadata": {
+    "title": "Industry and environment : a guide to sources of information",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4026813-5",
+      "label": "empresa industrial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4043774-7",
+      "label": "Organizaciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131411-6",
+      "label": "Fuente de información"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4205608-1",
+      "label": "Información medioambiental"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4267581-9",
+      "label": "Sistema de información medioambiental"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4403462-3",
+      "label": "REED"
+    }
+  ]
+}

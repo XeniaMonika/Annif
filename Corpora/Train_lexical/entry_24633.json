@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_24633",
+  "text": "",
+  "metadata": {
+    "title": "La Investigación Experimental aplicada a la Arqueología",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002827-6",
+      "label": "arqueología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069098-2",
+      "label": "Islas Baleares"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078014-4",
+      "label": "América del Sur"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078951-2",
+      "label": "Prehistoria"
+    }
+  ]
+}

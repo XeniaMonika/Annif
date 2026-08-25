@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_49",
+  "text": "",
+  "metadata": {
+    "title": "La formación del lector literario : narrativa infantil y juvenil actual",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4028911-4",
+      "label": "literatura juvenil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035441-6",
+      "label": "Lectores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073409-2",
+      "label": "Literatura infantil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120218-1",
+      "label": "Lengua catalana"
+    }
+  ]
+}

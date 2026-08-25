@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1823",
+  "text": "",
+  "metadata": {
+    "title": "Barcelona 1912 : el caso Enriqueta Martí",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1077991649",
+      "label": "Martí, Enriqueta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120706-3",
+      "label": "asesinato masivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163869-4",
+      "label": "infanticidio"
+    }
+  ]
+}

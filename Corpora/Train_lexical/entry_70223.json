@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_70223",
+  "text": "",
+  "metadata": {
+    "title": "Revista de minas : RDM",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4005614-4",
+      "label": "Minería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014743-5",
+      "label": "industria de la energía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020288-4",
+      "label": "Ciencias de la tierra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074756-6",
+      "label": "Metalurgia"
+    }
+  ]
+}

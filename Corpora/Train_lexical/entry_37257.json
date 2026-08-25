@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_37257",
+  "text": "",
+  "metadata": {
+    "title": "IMDG code on CD : English, French and Spanish language",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4019638-0",
+      "label": "mercancía peligrosa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019666-5",
+      "label": "Etiquetado de peligros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054184-8",
+      "label": "transporte marítimo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4305175-3",
+      "label": "Código IMDG"
+    }
+  ]
+}

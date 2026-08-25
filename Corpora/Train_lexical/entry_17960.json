@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_17960",
+  "text": "",
+  "metadata": {
+    "title": "El manifiesto del girasol : una obra maestra de Gaudí; El Capricho de Comillas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1023846764",
+      "label": "El @Capricho"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119009692",
+      "label": "Gaudí, Antoni"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023693-6",
+      "label": "vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2271",
+  "text": "",
+  "metadata": {
+    "title": "Delimitación de competencias en el Estado autonómico y puntos de conexión",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056618-3",
+      "label": "Estado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068155-5",
+      "label": "Competencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4261178-7",
+      "label": "Comunidad Autónoma"
+    }
+  ]
+}

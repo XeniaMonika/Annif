@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1073",
+  "text": "",
+  "metadata": {
+    "title": "Abecedario : Picasso poeta",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118594206",
+      "label": "Picasso, Pablo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4003942-0",
+      "label": "Autógrafos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055251-2",
+      "label": "Cuaderno de bocetos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4225695-1",
+      "label": "Cuaderno"
+    }
+  ]
+}

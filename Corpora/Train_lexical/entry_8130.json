@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_8130",
+  "text": "",
+  "metadata": {
+    "title": "Retrats : (pintors, escultors, ceramistes, arquitectes)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4030270-2",
+      "label": "Cerámica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046277-8",
+      "label": "Escultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

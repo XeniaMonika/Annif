@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_1967",
+  "text": "",
+  "metadata": {
+    "title": "El cuaderno de la ausencia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118657313",
+      "label": "Baroja, Pío"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118870513",
+      "label": "Caro Baroja, Julio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119068850",
+      "label": "Baroja y Nessi, Ricardo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119388901",
+      "label": "Caro Baroja, Pío"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/121535320",
+      "label": "Baroja, Carmen"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015272-8",
+      "label": "Recordatorio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4060294-1",
+      "label": "Muerte"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2678",
+  "text": "",
+  "metadata": {
+    "title": "VIAJES, DISCURSOS Y MAPAS : Estudios sobre la obra geográfica de Gaspar Melchor de Jovellanos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020216-1",
+      "label": "geografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4029823-1",
+      "label": "cartografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

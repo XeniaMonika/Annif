@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_41601",
+  "text": "",
+  "metadata": {
+    "title": "Desde Washington",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11877395X",
+      "label": "Henríquez Ureña, Pedro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4005709-4",
+      "label": "informe"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064682-8",
+      "label": "Washington, DC"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4143584-9",
+      "label": "Corresponsal en el extranjero"
+    }
+  ]
+}

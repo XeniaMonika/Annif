@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_35718",
+  "text": "",
+  "metadata": {
+    "title": "The Portraits",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006627-7",
+      "label": "retrato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046840-9",
+      "label": "Fotografía de retrato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078704-7",
+      "label": "EE. UU."
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4145426-1",
+      "label": "Pintura de retrato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4693788-2",
+      "label": "Base de datos de imágenes"
+    }
+  ]
+}

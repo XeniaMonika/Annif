@@ -1,0 +1,18 @@
+{
+  "document_id": "entry_1337",
+  "text": "",
+  "metadata": {
+    "title": "Sabor",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4157026-1",
+      "label": "Sabor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4253946-8",
+      "label": "Sentido del gusto"
+    }
+  ]
+}

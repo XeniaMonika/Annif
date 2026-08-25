@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_4536",
+  "text": "",
+  "metadata": {
+    "title": "La casa de Austria y la monarquía de Madrid",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003846-4",
+      "label": "política exterior"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040034-7",
+      "label": "monarquía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4043271-3",
+      "label": "Austria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

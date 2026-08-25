@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_27809",
+  "text": "",
+  "metadata": {
+    "title": "Conocer el arte valenciano : la pintura del siglo XIX ; pintores de Valencia, ALicante y Castellón",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062284-8",
+      "label": "Valencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079702-8",
+      "label": "Alicante"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4085172-2",
+      "label": "Castellón de la Plana"
+    }
+  ]
+}

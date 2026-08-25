@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_27271",
+  "text": "",
+  "metadata": {
+    "title": "La calabaza, el tomate y el frijol : catalogo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4060370-2",
+      "label": "Tomates"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4146232-4",
+      "label": "Alubia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165900-4",
+      "label": "Calabazas"
+    }
+  ]
+}

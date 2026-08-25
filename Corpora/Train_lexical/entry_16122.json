@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_16122",
+  "text": "",
+  "metadata": {
+    "title": "La iluminación de las exposiciones temporales",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035633-4",
+      "label": "Iluminación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040795-0",
+      "label": "Museos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4112704-3",
+      "label": "Iluminación eléctrica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126074-0",
+      "label": "Técnica de iluminación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129601-1",
+      "label": "Exposiciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4135231-2",
+      "label": "Presentaciones"
+    }
+  ]
+}

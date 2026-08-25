@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_624",
+  "text": "",
+  "metadata": {
+    "title": "Las aventuras del Capitán Torrezno",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001220-7",
+      "label": "Alcoholismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044719-4",
+      "label": "Parodia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4291285-4",
+      "label": "Superhéroe"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4471429-4",
+      "label": "Consumo de tabaco"
+    }
+  ]
+}

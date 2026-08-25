@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_32416",
+  "text": "",
+  "metadata": {
+    "title": "Monte Perdido, Vignemale, La Munia : Ordesa, Gavarnie, Pineta, Bujaruelo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4018382-8",
+      "label": "Ocio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120998-9",
+      "label": "marcha de montaña"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4449773-8",
+      "label": "Parque Nacional de Ordesa y Monte Perdido"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4571538-5",
+      "label": "Parque Nacional de los Pirineos Occidentales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7667964-0",
+      "label": "Bujaruelo"
+    }
+  ]
+}

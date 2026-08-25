@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_60473",
+  "text": "",
+  "metadata": {
+    "title": "Estudios de narrativa cubana",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118667238",
+      "label": "Carpentier, Alejo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119487810",
+      "label": "Hernández Catá, Alfonso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/121120058",
+      "label": "Cardoso, Onelio Jorge"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047497-5",
+      "label": "Prosa"
+    }
+  ]
+}

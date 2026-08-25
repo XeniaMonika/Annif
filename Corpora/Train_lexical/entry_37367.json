@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_37367",
+  "text": "",
+  "metadata": {
+    "title": "Letras del reino de Chile",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4047497-5",
+      "label": "Prosa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4200946-7",
+      "label": "Ercilla y Zúñiga, Alonso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4444126-5",
+      "label": "Núñez de Pineda y Bascuñán, Francisco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7554289-4",
+      "label": "Conquista de Chile"
+    }
+  ]
+}

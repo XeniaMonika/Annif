@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_6633",
+  "text": "",
+  "metadata": {
+    "title": "La presencia del Prado : episodios de una historia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/116443-0",
+      "label": "Museo del Prado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4135231-2",
+      "label": "Presentaciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159916-0",
+      "label": "Depósito"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4286521-9",
+      "label": "Museo Víctor Balaguer"
+    }
+  ]
+}

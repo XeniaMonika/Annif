@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_11028",
+  "text": "",
+  "metadata": {
+    "title": "En la confidencia : tratado de la verdad musitada",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4126930-5",
+      "label": "Chismes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4156316-5",
+      "label": "Secreto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4156908-8",
+      "label": "Rumor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188096-1",
+      "label": "Secreto profesional"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_80340",
+  "text": "",
+  "metadata": {
+    "title": "Catálogo de los códices arábigos adquiridos en Tetuan por el Gobierno de S.M.",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1027025-5",
+      "label": "Biblioteca Nacional de España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241223-7",
+      "label": "Lengua árabe"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4373594-0",
+      "label": "Tetuán"
+    }
+  ]
+}

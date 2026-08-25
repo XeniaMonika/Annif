@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_24426",
+  "text": "",
+  "metadata": {
+    "title": "La triangulación geodésica, entre Quito y Cuenca, de Jorge Juan y Antonio de Ulloa",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/119052873",
+      "label": "Ulloa, Antonio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119052881",
+      "label": "Juan y Santacilia, Jorge"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4085363-9",
+      "label": "Cuenca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116883-5",
+      "label": "Quito"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4186018-4",
+      "label": "Triangulación"
+    }
+  ]
+}

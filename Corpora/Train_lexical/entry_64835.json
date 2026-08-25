@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_64835",
+  "text": "",
+  "metadata": {
+    "title": "Quimica de la flora de Chile",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4009929-5",
+      "label": "Chile"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045539-7",
+      "label": "Plantas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139067-2",
+      "label": "Plantas--Composición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4174632-6",
+      "label": "Fitoquímica"
+    }
+  ]
+}

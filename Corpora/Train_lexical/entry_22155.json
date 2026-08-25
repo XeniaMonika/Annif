@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_22155",
+  "text": "",
+  "metadata": {
+    "title": "En_línea : leer y escribir en la red",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4062005-0",
+      "label": "Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4191506-9",
+      "label": "uso del lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4308416-3",
+      "label": "Internet"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4481193-7",
+      "label": "Analfabetismo funcional"
+    }
+  ]
+}

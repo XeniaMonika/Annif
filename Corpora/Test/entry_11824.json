@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_11824",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario tecnico militar : español - aleman; aleman - español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4074823-6",
+      "label": "Ingeniería militar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4169977-4",
+      "label": "Arte y ciencia militar"
+    }
+  ]
+}

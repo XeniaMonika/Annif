@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_75305",
+  "text": "",
+  "metadata": {
+    "title": "Erdölwörterbuch : deutsch-englisch-französisch-spanisch",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014777-0",
+      "label": "Lengua inglesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015179-7",
+      "label": "Petróleo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047505-0",
+      "label": "Prospección"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113615-9",
+      "label": "Lengua francesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125182-9",
+      "label": "Yacimientos petrolíferos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139144-5",
+      "label": "Extracción de petróleo"
+    }
+  ]
+}

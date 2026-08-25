@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1711",
+  "text": "",
+  "metadata": {
+    "title": "Mal de altura : itinerario de viajes y relatos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4003217-6",
+      "label": "Asia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    }
+  ]
+}

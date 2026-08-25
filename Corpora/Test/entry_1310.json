@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1310",
+  "text": "",
+  "metadata": {
+    "title": "La biblioteca barroca : un itinerario bibliófilo por la cultura simbólica áurea",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004541-9",
+      "label": "Barroco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014553-0",
+      "label": "Emblemas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    }
+  ]
+}

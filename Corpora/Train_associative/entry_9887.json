@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_9887",
+  "text": "",
+  "metadata": {
+    "title": "Ciudades españolas en América",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055967-1",
+      "label": "Españoles"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056723-0",
+      "label": "Ciudades"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056730-8",
+      "label": "desarrollo urbano"
+    }
+  ]
+}

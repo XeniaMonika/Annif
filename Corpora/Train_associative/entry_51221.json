@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_51221",
+  "text": "",
+  "metadata": {
+    "title": "Pueblos en armas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014499-9",
+      "label": "El Salvador"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022428-4",
+      "label": "Guatemala"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022462-4",
+      "label": "Guerrillas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4042050-4",
+      "label": "Nicaragua"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046514-7",
+      "label": "política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079262-6",
+      "label": "resistencia"
+    }
+  ]
+}

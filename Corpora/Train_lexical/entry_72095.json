@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_72095",
+  "text": "",
+  "metadata": {
+    "title": "Lectures on algebraic and differential topology : delivered at the II. ELAM ; [Second Latin American School in Mathematics]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012255-4",
+      "label": "Topología diferencial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120861-4",
+      "label": "Topología algebraica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4164608-3",
+      "label": "Operación de cohomología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4175893-6",
+      "label": "Espacio proyectivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194231-0",
+      "label": "Clase característica"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_65862",
+  "text": "",
+  "metadata": {
+    "title": "France, España, Portugal, Italia del nord",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4016960-1",
+      "label": "Zonas húmedas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018145-5",
+      "label": "Francia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033469-7",
+      "label": "costa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034348-0",
+      "label": "historia del paisaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4042547-2",
+      "label": "Norte de Italia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4179145-9",
+      "label": "Imagen de satélite"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4293663-9",
+      "label": "Ecosistema acuático"
+    }
+  ]
+}

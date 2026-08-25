@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_79732",
+  "text": "",
+  "metadata": {
+    "title": "Territorio de las Misiones",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002890-2",
+      "label": "Argentina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078014-4",
+      "label": "América del Sur"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115161-6",
+      "label": "Provincia de Misiones"
+    }
+  ]
+}

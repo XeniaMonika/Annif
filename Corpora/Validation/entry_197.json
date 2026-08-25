@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_197",
+  "text": "",
+  "metadata": {
+    "title": "Pintoras : María Blanchard - Maruja Mallo - Norah Borges - Marie Laurencin",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118778927",
+      "label": "Laurencin, Marie"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119221969",
+      "label": "Mallo, Maruja"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119287145",
+      "label": "Blanchard, María"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/121397904",
+      "label": "Borges, Norah"
+    }
+  ]
+}

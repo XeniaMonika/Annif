@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_38010",
+  "text": "",
+  "metadata": {
+    "title": "Literatura y ciencia ante la inquisición española",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4027106-7",
+      "label": "Inquisición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066562-8",
+      "label": "Ciencia"
+    }
+  ]
+}

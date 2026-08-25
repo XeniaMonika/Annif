@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_24208",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario para armar",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066951-8",
+      "label": "palabra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4313695-3",
+      "label": "La historia más breve"
+    }
+  ]
+}

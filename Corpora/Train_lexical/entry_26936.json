@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_26936",
+  "text": "",
+  "metadata": {
+    "title": "Educación",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006667-8",
+      "label": "política educativa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006670-8",
+      "label": "Enseñanza--Derecho"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006672-1",
+      "label": "reforma educativa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006681-2",
+      "label": "Sistema educativo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022349-8",
+      "label": "Escuelas primarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077347-4",
+      "label": "educación secundaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4160198-1",
+      "label": "Educación superior"
+    }
+  ]
+}

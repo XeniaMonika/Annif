@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_7172",
+  "text": "",
+  "metadata": {
+    "title": "Territorios",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4036546-3",
+      "label": "Fotografía aérea"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132170-4",
+      "label": "Fotografía de paisaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4332556-7",
+      "label": "Drones"
+    }
+  ]
+}

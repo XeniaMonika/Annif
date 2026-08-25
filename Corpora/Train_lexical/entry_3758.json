@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3758",
+  "text": "",
+  "metadata": {
+    "title": "Arquitectura de los pantanos en España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4057020-4",
+      "label": "presa de materiales sueltos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120898-5",
+      "label": "Construcción de instalaciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127590-1",
+      "label": "embalse"
+    }
+  ]
+}

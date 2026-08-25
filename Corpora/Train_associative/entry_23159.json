@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_23159",
+  "text": "",
+  "metadata": {
+    "title": "La conjura de los mantuanos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040034-7",
+      "label": "monarquía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062512-6",
+      "label": "Venezuela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121814-0",
+      "label": "Movimientos de liberación nacional"
+    }
+  ]
+}

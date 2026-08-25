@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_30184",
+  "text": "",
+  "metadata": {
+    "title": "Cartas de una hermandad : Leopoldo Lugones, Horacio Quiroga, Ezequiel Martínez Estrada, Luis Franco, Samuel Glusberg",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118780794",
+      "label": "Lugones, Leopoldo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118782304",
+      "label": "Martínez Estrada, Ezequiel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118787543",
+      "label": "Quiroga, Horacio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/11899073X",
+      "label": "Espinoza, Enrique"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/128971150",
+      "label": "Franco, Luis"
+    }
+  ]
+}

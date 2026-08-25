@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_6523",
+  "text": "",
+  "metadata": {
+    "title": "Use",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4018319-1",
+      "label": "Espacio abierto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034350-9",
+      "label": "Diseño paisajístico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034354-6",
+      "label": "Planificación paisajística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7700528-4",
+      "label": "arquitectura del paisaje"
+    }
+  ]
+}

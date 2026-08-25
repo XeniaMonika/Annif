@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_16725",
+  "text": "",
+  "metadata": {
+    "title": "La Bastida y Tira del Lienzo : (Totana, Murcia)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1124169164",
+      "label": "La @Bastida de Totana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1124169334",
+      "label": "Tira del Lienzo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008357-3",
+      "label": "Edad del bronce"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071507-3",
+      "label": "Hallazgos"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_17649",
+  "text": "",
+  "metadata": {
+    "title": "Picassos schriftstellerisches Werk : Passagen zwischen Bild und Text",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118594206",
+      "label": "Picasso, Pablo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006568-6",
+      "label": "Imágenes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047497-5",
+      "label": "Prosa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059596-1",
+      "label": "texto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4195456-7",
+      "label": "Obra literaria"
+    }
+  ]
+}

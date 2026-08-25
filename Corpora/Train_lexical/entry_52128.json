@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_52128",
+  "text": "",
+  "metadata": {
+    "title": "Two Spanish songbooks",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4117192-5",
+      "label": "Historia del texto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4147237-8",
+      "label": "Cancionero"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4680302-6",
+      "label": "Cancionero capitular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4680306-3",
+      "label": "Cancionero de Egerton"
+    }
+  ]
+}

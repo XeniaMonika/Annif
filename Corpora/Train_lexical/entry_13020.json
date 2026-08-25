@@ -1,0 +1,46 @@
+{
+  "document_id": "entry_13020",
+  "text": "",
+  "metadata": {
+    "title": "The practice of art and science",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/10180417-9",
+      "label": "Ars Electronica Linz"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4010453-9",
+      "label": "arte digital"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041421-8",
+      "label": "Ciencias naturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059276-5",
+      "label": "Tecnología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066562-8",
+      "label": "Ciencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113418-7",
+      "label": "arte de los nuevos medios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4171529-9",
+      "label": "Red"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4359141-3",
+      "label": "Interconexión"
+    }
+  ]
+}

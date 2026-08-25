@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3149",
+  "text": "",
+  "metadata": {
+    "title": "De Roma a Santiago : caminos de la historia, legado cultural",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4050471-2",
+      "label": "Roma"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051658-1",
+      "label": "Santiago de Compostela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114067-9",
+      "label": "Camino de Santiago"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4189020-6",
+      "label": "ruta de peregrinación"
+    }
+  ]
+}

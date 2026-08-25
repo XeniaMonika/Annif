@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_58810",
+  "text": "",
+  "metadata": {
+    "title": "Del escribano a la biblioteca",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4273696-1",
+      "label": "Cultura de la lectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4294535-5",
+      "label": "comunicación escrita"
+    }
+  ]
+}

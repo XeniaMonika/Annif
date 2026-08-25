@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_6109",
+  "text": "",
+  "metadata": {
+    "title": "Exposition von Beschäftigten gegenüber solarer UV-Strahlung : Ergebnisse des Projekts mit GENESIS-UV",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002623-1",
+      "label": "Trabajadores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002771-5",
+      "label": "seguridad y salud del trabajo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4005920-0",
+      "label": "Enfermedades profesionales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047033-7",
+      "label": "medicina preventiva"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123037-1",
+      "label": "análisis de datos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139254-1",
+      "label": "radiación solar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140169-4",
+      "label": "Piel--Cáncer"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4186733-6",
+      "label": "radiación ultravioleta"
+    }
+  ]
+}

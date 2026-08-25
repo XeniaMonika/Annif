@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_62633",
+  "text": "",
+  "metadata": {
+    "title": "Harvest and postharvest technologies for fresh fruits and vegetables",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020069-3",
+      "label": "Hortalizas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4043047-9",
+      "label": "Frutas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4226376-1",
+      "label": "Procesos posteriores a la cosecha"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4249225-7",
+      "label": "Métodos de cosecha"
+    }
+  ]
+}

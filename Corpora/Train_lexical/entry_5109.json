@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5109",
+  "text": "",
+  "metadata": {
+    "title": "Ritratti di autoritratti",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033423-5",
+      "label": "Artistas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053309-8",
+      "label": "Escritores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054394-8",
+      "label": "Autorretrato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122349-4",
+      "label": "Presentación personal"
+    }
+  ]
+}

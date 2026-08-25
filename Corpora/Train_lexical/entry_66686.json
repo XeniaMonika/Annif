@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_66686",
+  "text": "",
+  "metadata": {
+    "title": "Aves de México : guía de campo : identificación de todas las especies encontradas en México, Guatemala, Belice y El Salvador",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4005412-3",
+      "label": "Belice"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014499-9",
+      "label": "El Salvador"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022428-4",
+      "label": "Guatemala"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063673-2",
+      "label": "Pájaros"
+    }
+  ]
+}

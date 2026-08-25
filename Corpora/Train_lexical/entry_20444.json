@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_20444",
+  "text": "",
+  "metadata": {
+    "title": "Perú Wiñaq Suyo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066438-7",
+      "label": "Desarrollo económico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073972-7",
+      "label": "Cultura del país"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4191554-9",
+      "label": "sector económico"
+    }
+  ]
+}

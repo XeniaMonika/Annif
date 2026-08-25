@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1133",
+  "text": "",
+  "metadata": {
+    "title": "Goethe als Naturforscher im Urteil der Naturwissenschaft und Medizin des 19. Jahrhunderts : Themen, Texte, Titel",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118540238",
+      "label": "Goethe, Johann Wolfgang"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038243-6",
+      "label": "Medicina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041421-8",
+      "label": "Ciencias naturales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066606-2",
+      "label": "Periodismo científico"
+    }
+  ]
+}

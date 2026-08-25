@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_4800",
+  "text": "",
+  "metadata": {
+    "title": "Parte de mí",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1057386804",
+      "label": "Sanz, Marta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1206347392",
+      "label": "COVID-19"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001307-8",
+      "label": "vida cotidiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4737034-8",
+      "label": "pandemia"
+    }
+  ]
+}

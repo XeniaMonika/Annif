@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_74410",
+  "text": "",
+  "metadata": {
+    "title": "Estudios épicos medievales : con algunos trabajos ineditos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015025-2",
+      "label": "Poesía épica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115788-6",
+      "label": "Lenguas románicas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159487-3",
+      "label": "epopeya heroica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159489-7",
+      "label": "Saga de héroes"
+    }
+  ]
+}

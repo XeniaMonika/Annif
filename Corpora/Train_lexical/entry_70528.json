@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_70528",
+  "text": "",
+  "metadata": {
+    "title": "Teatro escambray",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241565-2",
+      "label": "Teatro Escambray"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4338256-3",
+      "label": "repertorio"
+    }
+  ]
+}

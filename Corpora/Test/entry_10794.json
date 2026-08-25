@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_10794",
+  "text": "",
+  "metadata": {
+    "title": "Mosaicos romanos de Leon y Asturias",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003329-6",
+      "label": "Asturias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035366-7",
+      "label": "Provincia de León"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040311-7",
+      "label": "Mosaicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076769-3",
+      "label": "Época romana"
+    }
+  ]
+}

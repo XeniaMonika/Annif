@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_70445",
+  "text": "",
+  "metadata": {
+    "title": "Mapa de los instrumentos musicales de uso popular en el Peru : clasificación y ubicación geográfica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040851-6",
+      "label": "Instrumentos musicales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063849-2",
+      "label": "folclore"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063854-6",
+      "label": "música tradicional"
+    }
+  ]
+}

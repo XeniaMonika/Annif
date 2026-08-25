@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_45241",
+  "text": "",
+  "metadata": {
+    "title": "Ephemera : la vida sobre papel ; colección de la Biblioteca Nacional",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1027025-5",
+      "label": "Biblioteca Nacional de España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4013134-8",
+      "label": "impreso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019558-2",
+      "label": "arte comercial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079177-4",
+      "label": "Arte publicitario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4592456-9",
+      "label": "Lo @efímero"
+    }
+  ]
+}

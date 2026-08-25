@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_36686",
+  "text": "",
+  "metadata": {
+    "title": "Mis viajes por Europa : Suiza, Dinamarca, Suecia y Noruega",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4010877-6",
+      "label": "Dinamarca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4042640-3",
+      "label": "Noruega"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053881-3",
+      "label": "Suiza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077258-5",
+      "label": "Suecia"
+    }
+  ]
+}

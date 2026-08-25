@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_52463",
+  "text": "",
+  "metadata": {
+    "title": "Dioses, mitos y ritos del México antiguo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002827-6",
+      "label": "arqueología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4021469-2",
+      "label": "Dioses"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075159-4",
+      "label": "Mito"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124068-6",
+      "label": "rito"
+    }
+  ]
+}

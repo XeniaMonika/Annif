@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_2012",
+  "text": "",
+  "metadata": {
+    "title": "Controversias y poesía : (de Garcilaso a Góngora)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11854070X",
+      "label": "Góngora y Argote, Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118716344",
+      "label": "Vega, Garcilaso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128337-5",
+      "label": "controversia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4167844-8",
+      "label": "Polémica literaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4181251-7",
+      "label": "Literatura española--S.XVI-XVII"
+    }
+  ]
+}

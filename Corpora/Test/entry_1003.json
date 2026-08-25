@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_1003",
+  "text": "",
+  "metadata": {
+    "title": "Manipulación, persuasión y discurso",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4005203-5",
+      "label": "Influencia (Psicología)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037348-4",
+      "label": "manipulación mental"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037877-9",
+      "label": "medio de comunicación de masas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046514-7",
+      "label": "política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194747-2",
+      "label": "análisis del discurso"
+    }
+  ]
+}

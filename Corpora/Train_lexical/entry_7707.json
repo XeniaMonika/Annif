@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_7707",
+  "text": "",
+  "metadata": {
+    "title": "Los siete mares : antología de relatos de naufragios, motines y abordajes de las crónicas españolas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015464-6",
+      "label": "narración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4052449-8",
+      "label": "Accidentes marítimos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128013-1",
+      "label": "Piratería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4169757-1",
+      "label": "motín"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194681-9",
+      "label": "Viajes por mar"
+    }
+  ]
+}

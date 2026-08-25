@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_68101",
+  "text": "",
+  "metadata": {
+    "title": "Anima sola",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001307-8",
+      "label": "vida cotidiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016397-0",
+      "label": "familia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4118415-4",
+      "label": "Santiago de Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4164100-0",
+      "label": "pequeña burguesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4264167-6",
+      "label": "panadería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7520025-9",
+      "label": "Contacto tras la muerte"
+    }
+  ]
+}

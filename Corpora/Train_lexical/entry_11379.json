@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_11379",
+  "text": "",
+  "metadata": {
+    "title": "Cartas de Mariano Fortuny, Cecilia, Ricardo, Raimundo e Isabel de Madrazo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/116074260X",
+      "label": "Madrazo, Cecilia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/116074288X",
+      "label": "Madrazo, Isabel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1160743169",
+      "label": "Madrazo, Ricardo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/116443-0",
+      "label": "Museo del Prado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119341956",
+      "label": "Fortuny, Mariano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/131373358",
+      "label": "Madrazo y Garreta, Raimundo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4146609-3",
+      "label": "Recopilación de cartas"
+    }
+  ]
+}

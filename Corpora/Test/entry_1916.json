@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1916",
+  "text": "",
+  "metadata": {
+    "title": "Antonio Machado camino del exilio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118640739",
+      "label": "Machado, Antonio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015959-0",
+      "label": "exilio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018145-5",
+      "label": "Francia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027249-7",
+      "label": "Intelectuales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

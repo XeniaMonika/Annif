@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_6785",
+  "text": "",
+  "metadata": {
+    "title": "El cancionero profano de Alfonso X el Sabio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4134920-9",
+      "label": "galaicoportugués"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4199640-9",
+      "label": "Cantiga de amigo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4317831-5",
+      "label": "Poesía profana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4507979-1",
+      "label": "Cantiga de escarnio y de maldición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4671502-2",
+      "label": "Cantiga de amor"
+    }
+  ]
+}

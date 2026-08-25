@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5106",
+  "text": "",
+  "metadata": {
+    "title": "Miquel Barceló - metamorfosis",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/119211777",
+      "label": "Barceló, Miquel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4030270-2",
+      "label": "Cerámica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4279289-7",
+      "label": "Escultura en bronce"
+    }
+  ]
+}

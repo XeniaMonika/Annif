@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_14",
+  "text": "",
+  "metadata": {
+    "title": "Filipinas, un país entre dos imperios",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4028495-5",
+      "label": "Japón"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045771-0",
+      "label": "Filipinas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078704-7",
+      "label": "EE. UU."
+    }
+  ]
+}

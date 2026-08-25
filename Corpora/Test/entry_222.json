@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_222",
+  "text": "",
+  "metadata": {
+    "title": "Cien años de flamenco y radio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008460-7",
+      "label": "Bruselas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035919-0",
+      "label": "Lisboa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4044660-8",
+      "label": "París"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071246-1",
+      "label": "flamenco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127793-4",
+      "label": "Múnich"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4160384-9",
+      "label": "programa radiofónico"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_803",
+  "text": "",
+  "metadata": {
+    "title": "El Curueño, donde la luz es memoria",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1319144314",
+      "label": "Cuenca del Curueño"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001446-0",
+      "label": "Edad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034309-1",
+      "label": "Vida rural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051157-1",
+      "label": "Cultura material"
+    }
+  ]
+}

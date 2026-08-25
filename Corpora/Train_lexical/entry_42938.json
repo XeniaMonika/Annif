@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_42938",
+  "text": "",
+  "metadata": {
+    "title": "El título en la literatura y las artes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123592-7",
+      "label": "Objetos artísticos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127188-9",
+      "label": "Títulos de obras de arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133320-2",
+      "label": ""
+    }
+  ]
+}

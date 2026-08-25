@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_30103",
+  "text": "",
+  "metadata": {
+    "title": "Viajes en el Mediterráneo antiguo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074900-9",
+      "label": "Cuenca del Mediterráneo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076778-4",
+      "label": "Imperio Romano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4093976-5",
+      "label": "Grecia"
+    }
+  ]
+}

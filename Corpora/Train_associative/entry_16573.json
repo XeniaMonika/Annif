@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_16573",
+  "text": "",
+  "metadata": {
+    "title": "Cumaná 1799 : Alexander von Humboldt's Travels between Europe and the Americas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118554700",
+      "label": "Humboldt, Alexander"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129116-5",
+      "label": "Expedición"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_42130",
+  "text": "",
+  "metadata": {
+    "title": "Calles, casas y gente del Centro Histórico de Quito",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4023693-6",
+      "label": "vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046326-6",
+      "label": "Plazas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4057883-5",
+      "label": "Calles"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116883-5",
+      "label": "Quito"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129963-2",
+      "label": "Centros históricos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4151439-7",
+      "label": "habitante"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4402277-3",
+      "label": "Patrimonio Cultural de la Humanidad"
+    }
+  ]
+}

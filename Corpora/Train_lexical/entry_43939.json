@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_43939",
+  "text": "",
+  "metadata": {
+    "title": "Chocolate : regalo del edén",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053168-5",
+      "label": "Chocolate"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163030-0",
+      "label": "chocolate caliente"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4179923-9",
+      "label": "Postres de chocolate"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4485646-5",
+      "label": "Producción de cacao"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_34369",
+  "text": "",
+  "metadata": {
+    "title": "Grafías y préstamos semíticos en el griego y su transmisión a lenguas europeas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4018435-3",
+      "label": "Palabra de origen extranjero"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035076-9",
+      "label": "palabra prestada (préstamo)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113791-7",
+      "label": "Lengua griega"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116476-3",
+      "label": "Lenguas semíticas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4170221-9",
+      "label": "transcripción fonética"
+    }
+  ]
+}

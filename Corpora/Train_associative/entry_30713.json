@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_30713",
+  "text": "",
+  "metadata": {
+    "title": "Liber Sancti Iacobi : Codex Calixtinus",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4026535-3",
+      "label": "iconografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051658-1",
+      "label": "Santiago de Compostela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114067-9",
+      "label": "Camino de Santiago"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    }
+  ]
+}

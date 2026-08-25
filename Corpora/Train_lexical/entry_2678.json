@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2678",
+  "text": "",
+  "metadata": {
+    "title": "Los cultos de Mater Magna y Atis en Hispania",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033535-5",
+      "label": "culto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059416-6",
+      "label": "Templos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076769-3",
+      "label": "Época romana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4183079-9",
+      "label": "Estelas (Arqueología)"
+    }
+  ]
+}

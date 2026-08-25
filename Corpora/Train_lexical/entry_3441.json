@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_3441",
+  "text": "",
+  "metadata": {
+    "title": "Pilgern zu Wasser und zu Lande",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026944-9",
+      "label": "infraestructura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064460-1",
+      "label": "Peregrinaciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064794-8",
+      "label": "vía de agua"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194681-9",
+      "label": "Viajes por mar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4270112-0",
+      "label": "Peregrinación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4547298-1",
+      "label": "Por tierra"
+    }
+  ]
+}

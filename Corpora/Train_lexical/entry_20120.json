@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_20120",
+  "text": "",
+  "metadata": {
+    "title": "Didáctica de la guerra civil española",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020533-2",
+      "label": "Historia--Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055970-1",
+      "label": "España--Historia--1936-1939 (Guerra civil)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077347-4",
+      "label": "educación secundaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123176-4",
+      "label": "metodología didáctica"
+    }
+  ]
+}

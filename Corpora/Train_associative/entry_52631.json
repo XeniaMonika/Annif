@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_52631",
+  "text": "",
+  "metadata": {
+    "title": "Religion und Kirchen im industriellen Zeitalter",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4010074-1",
+      "label": "Cristianismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020533-2",
+      "label": "Historia--Enseñanza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020588-5",
+      "label": "sociedad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4030702-5",
+      "label": "Iglesia"
+    }
+  ]
+}

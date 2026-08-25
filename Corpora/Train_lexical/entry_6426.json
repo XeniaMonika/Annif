@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_6426",
+  "text": "",
+  "metadata": {
+    "title": "En búsqueda de las especias : las plantas de la expedición Magallanes-Elcano (1519-1522)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/117518530",
+      "label": "Magalhães, Fernão"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118681915",
+      "label": "Elcano, Juan Sebastián"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014842-7",
+      "label": "exploración geográfica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015207-8",
+      "label": "Vuelta al mundo a vela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020934-9",
+      "label": "Plantas aromáticas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045539-7",
+      "label": "Plantas"
+    }
+  ]
+}

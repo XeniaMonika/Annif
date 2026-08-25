@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_19",
+  "text": "",
+  "metadata": {
+    "title": "Los derechos humanos en la sociedad tecnológica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4011134-9",
+      "label": "Protección de datos--Derecho"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026926-7",
+      "label": "tecnologías de la información y la comunicación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045245-1",
+      "label": "atributo de la personalidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074725-6",
+      "label": "Derechos humanos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4196910-8",
+      "label": "Medios digitales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4412799-6",
+      "label": "Generación política"
+    }
+  ]
+}

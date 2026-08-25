@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2867",
+  "text": "",
+  "metadata": {
+    "title": "Lectores y libros en la ciudad de Sevilla (1550 - 1600)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047289-9",
+      "label": "Bibliotecas privadas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054671-8",
+      "label": "Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4273696-1",
+      "label": "Cultura de la lectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4274490-8",
+      "label": "Vida intelectual"
+    }
+  ]
+}

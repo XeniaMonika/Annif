@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_35530",
+  "text": "",
+  "metadata": {
+    "title": "Librarianship and human rights : a twenty-first century guide",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006465-7",
+      "label": "Biblioteconomía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074725-6",
+      "label": "Derechos humanos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4145258-6",
+      "label": "Bibliotecarios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4253135-4",
+      "label": "Ética profesional"
+    }
+  ]
+}

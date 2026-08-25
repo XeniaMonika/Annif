@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1366",
+  "text": "",
+  "metadata": {
+    "title": "Un sol incoloro : Juan González del Valle, un intelectual gallego asesinado en el Castillo de Hartheim (1941)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1306442745",
+      "label": "González del Valle, Juan"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011467-3",
+      "label": "deportación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015959-0",
+      "label": "exilio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040235-6",
+      "label": "Asesinato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4199122-9",
+      "label": "Campo de concentración de Mauthausen"
+    }
+  ]
+}

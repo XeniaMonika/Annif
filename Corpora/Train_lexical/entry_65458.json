@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_65458",
+  "text": "",
+  "metadata": {
+    "title": "Turquesita",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015217-0",
+      "label": "experiencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4030550-8",
+      "label": "infancia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054441-2",
+      "label": "Confianza en sí mismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131522-4",
+      "label": "Autoevaluación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4167394-3",
+      "label": "Disposición para aprender"
+    }
+  ]
+}

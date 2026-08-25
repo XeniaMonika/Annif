@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_41853",
+  "text": "",
+  "metadata": {
+    "title": "Buenos Aires : ciudad autónoma y provincia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008756-6",
+      "label": "Buenos Aires"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4057883-5",
+      "label": "Calles"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4088576-8",
+      "label": "Provincia de Buenos Aires"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122697-5",
+      "label": "La Plata"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4329093-0",
+      "label": "Mar del Plata"
+    }
+  ]
+}

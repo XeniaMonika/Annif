@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_1136",
+  "text": "",
+  "metadata": {
+    "title": "Caput studiorum : Festschrift für Rudolf Haensch zu seinem 65. Geburtstag",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/133971031",
+      "label": "Haensch, Rudolf"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076769-3",
+      "label": "Época romana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076778-4",
+      "label": "Imperio Romano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124227-0",
+      "label": "Imperio bizantino--Historia--Hasta 527"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4152508-5",
+      "label": "epigrafía"
+    }
+  ]
+}

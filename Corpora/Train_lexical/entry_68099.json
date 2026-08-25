@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_68099",
+  "text": "",
+  "metadata": {
+    "title": "Cuatro estudios biobibliográficos mexicanos. Francisco Cervantes de Salazar, Fray Agustin Dávila Padilla, Juan José de Eguiara y Eguren, José Mariano Beristáin de Souza",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118829750",
+      "label": "Beristáin de Souza, José Mariano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118993054",
+      "label": "Cervantes y Salazar, Francisco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118993062",
+      "label": "Dávila y Padilla, Agustín"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118995243",
+      "label": "Eguiara y Eguren, Juan José"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041919-8",
+      "label": "Nueva España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4349925-9",
+      "label": "Bibliógrafos"
+    }
+  ]
+}

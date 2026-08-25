@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_210",
+  "text": "",
+  "metadata": {
+    "title": "Las incursoras: mujeres, libros, infancia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4028911-4",
+      "label": "literatura juvenil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053311-6",
+      "label": "escritor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073409-2",
+      "label": "Literatura infantil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4266720-3",
+      "label": "editor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4454346-3",
+      "label": "ilustrador"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_52586",
+  "text": "",
+  "metadata": {
+    "title": "Los libros de texto en América Latina",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002890-2",
+      "label": "Argentina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022349-8",
+      "label": "Escuelas primarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062512-6",
+      "label": "Venezuela"
+    }
+  ]
+}

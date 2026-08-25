@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_21393",
+  "text": "",
+  "metadata": {
+    "title": "18 comidas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031952-0",
+      "label": "Comedias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051658-1",
+      "label": "Santiago de Compostela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4137343-1",
+      "label": "carácter nacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138354-0",
+      "label": "cultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139275-9",
+      "label": "Hábitos alimenticios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4184349-6",
+      "label": "Horario diario"
+    }
+  ]
+}

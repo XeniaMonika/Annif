@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_72872",
+  "text": "",
+  "metadata": {
+    "title": "La revolución del libro",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008598-3",
+      "label": "impresión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063004-3",
+      "label": "editorial de libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121054-2",
+      "label": "Mercado del libro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4146827-2",
+      "label": "Producción editorial"
+    }
+  ]
+}

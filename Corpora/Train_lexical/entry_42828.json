@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_42828",
+  "text": "",
+  "metadata": {
+    "title": "Bilduma : katalogoa : catálogo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/10039930-7",
+      "label": "Artium, Centro-Museo Vasco de Arte Contemporáneo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069161-5",
+      "label": "País Vasco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    }
+  ]
+}

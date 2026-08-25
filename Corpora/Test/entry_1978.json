@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1978",
+  "text": "",
+  "metadata": {
+    "title": "¿Qué dices, teacher? : las aventuras lingüísticas de un americano en España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006032-9",
+      "label": "Característica especial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061588-1",
+      "label": "lengua coloquial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066951-8",
+      "label": "palabra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076108-3",
+      "label": "Fraseología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

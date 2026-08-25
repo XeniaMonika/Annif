@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_77192",
+  "text": "",
+  "metadata": {
+    "title": "Mapa turista de España y Portugal : escala: 1/500.000e en 4 colores",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4046843-4",
+      "label": "Portugal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4057883-5",
+      "label": "Calles"
+    }
+  ]
+}

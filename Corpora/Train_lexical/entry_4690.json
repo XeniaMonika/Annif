@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_4690",
+  "text": "",
+  "metadata": {
+    "title": "La lira popular de la revuelta de octubre",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4009929-5",
+      "label": "Chile"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4136263-9",
+      "label": "Disturbios civiles"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4175030-5",
+      "label": "Poesías políticas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4176005-0",
+      "label": "Canciones protesta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4226404-2",
+      "label": "movimiento de protesta"
+    }
+  ]
+}

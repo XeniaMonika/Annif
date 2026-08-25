@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_10332",
+  "text": "",
+  "metadata": {
+    "title": "En busca del saber : arte y ciencia en el Mediterráneo medieval",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066562-8",
+      "label": "Ciencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074900-9",
+      "label": "Cuenca del Mediterráneo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4190121-6",
+      "label": "Transmisión de conocimientos"
+    }
+  ]
+}

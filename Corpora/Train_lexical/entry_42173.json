@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_42173",
+  "text": "",
+  "metadata": {
+    "title": "Jirones de hispanidad : España, Cuba, Puerto Rico y Filipinas en la perspectiva de dos cambios de siglo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033340-1",
+      "label": "Cuba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045771-0",
+      "label": "Filipinas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076429-1",
+      "label": "Puerto Rico"
+    }
+  ]
+}

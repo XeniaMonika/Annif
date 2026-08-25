@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_24799",
+  "text": "",
+  "metadata": {
+    "title": "Encuentro con el arte actual : pintores y escultores españoles : Spanish painters and sculptors",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037215-7",
+      "label": "Pintor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046277-8",
+      "label": "Escultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139550-5",
+      "label": "Escultor"
+    }
+  ]
+}

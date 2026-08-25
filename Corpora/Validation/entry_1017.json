@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1017",
+  "text": "",
+  "metadata": {
+    "title": "El epistolario : Manuel de Falla - María Lejárraga y Gregorio Martínez Sierra (1913-1943)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118531883",
+      "label": "Falla, Manuel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118782312",
+      "label": "Martínez Sierra, Gregorio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/122716264",
+      "label": "Martínez Sierra, María"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040802-4",
+      "label": "música"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

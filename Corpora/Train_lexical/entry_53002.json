@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_53002",
+  "text": "",
+  "metadata": {
+    "title": "Journal of Iberian geology : an international publication of earth sciences",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020227-6",
+      "label": "Geología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4025104-4",
+      "label": "Geología histórica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4057956-6",
+      "label": "estratigrafía"
+    }
+  ]
+}

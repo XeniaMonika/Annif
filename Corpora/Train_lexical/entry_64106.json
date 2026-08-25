@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_64106",
+  "text": "",
+  "metadata": {
+    "title": "Cuentos eslovenos contemporáneos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015464-6",
+      "label": "narración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061418-9",
+      "label": "Traducciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120336-7",
+      "label": "esloveno"
+    }
+  ]
+}

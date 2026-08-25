@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3119",
+  "text": "",
+  "metadata": {
+    "title": "Visitar les arts del passat : les exposicions retrospectives d'art a Catalunya, València i Mallorca entre 1867 i el 1937",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4029916-8",
+      "label": "Cataluña"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033560-4",
+      "label": "Patrimonio cultural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062284-8",
+      "label": "Valencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074511-9",
+      "label": "Mallorca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129601-1",
+      "label": "Exposiciones"
+    }
+  ]
+}

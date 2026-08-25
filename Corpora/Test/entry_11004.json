@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_11004",
+  "text": "",
+  "metadata": {
+    "title": "Lenguas especiales de Andalucía : repertorios léxicos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016216-3",
+      "label": "Lenguajes especializados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4268549-7",
+      "label": "Andaluz"
+    }
+  ]
+}

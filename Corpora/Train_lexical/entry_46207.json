@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_46207",
+  "text": "",
+  "metadata": {
+    "title": "Poesía andaluza de cancionero : antología",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4702245-0",
+      "label": "Cantiga"
+    }
+  ]
+}

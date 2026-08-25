@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1230",
+  "text": "",
+  "metadata": {
+    "title": "Universales vernáculos en la gramática del español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4021806-5",
+      "label": "Gramática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061588-1",
+      "label": "lengua coloquial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077728-5",
+      "label": "Universales (Lingüística)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077741-8",
+      "label": "Variación (Lingüística)"
+    }
+  ]
+}

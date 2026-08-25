@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_56424",
+  "text": "",
+  "metadata": {
+    "title": "Weltbilder der Wetterberichte",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4005709-4",
+      "label": "informe"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037877-9",
+      "label": "medio de comunicación de masas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4065352-3",
+      "label": "visión del mundo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079256-0",
+      "label": "Tiempo (Meteorología)--Predicción"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_48894",
+  "text": "",
+  "metadata": {
+    "title": "Rutas arqueológicas en la Espana Verde : [Galicia, Asturias, Cantabria y País Vasco]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019124-2",
+      "label": "Galicia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050482-7",
+      "label": "Arte románico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4256908-4",
+      "label": "País Vasco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4259109-0",
+      "label": "Provincia de Cantabria"
+    }
+  ]
+}

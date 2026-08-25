@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_32724",
+  "text": "",
+  "metadata": {
+    "title": "Seven avant-garde houses",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4013843-4",
+      "label": "Viviendas unifamiliares"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039827-4",
+      "label": "modernidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133965-4",
+      "label": "vanguardismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4245918-7",
+      "label": "Construcción de viviendas"
+    }
+  ]
+}

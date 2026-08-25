@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1999",
+  "text": "",
+  "metadata": {
+    "title": "Cartas de los martes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1127893440",
+      "label": "Noticias del día"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/131298399X",
+      "label": "Ferrandis Muñoz, José-Ramón"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127914-1",
+      "label": "crónica"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1703",
+  "text": "",
+  "metadata": {
+    "title": "El trust : el periodismo industrial en España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4028779-8",
+      "label": "periodismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4246829-2",
+      "label": "Participación ciudadana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4321280-3",
+      "label": "Fusión de empresas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4670933-2",
+      "label": "Producción de periódicos"
+    }
+  ]
+}

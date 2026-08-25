@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_4921",
+  "text": "",
+  "metadata": {
+    "title": "Teatro español en Italia : Valle-Inclán, García Lorca, Buero Vallejo, Sastre y Arrabal",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11850441X",
+      "label": "Arrabal, Fernando"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118537598",
+      "label": "García Lorca, Federico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118626019",
+      "label": "Valle-Inclán, Ramón"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118638068",
+      "label": "Buero Vallejo, Antonio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118794639",
+      "label": "Sastre, Alfonso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027833-5",
+      "label": "Italia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4143388-9",
+      "label": "presentación"
+    }
+  ]
+}

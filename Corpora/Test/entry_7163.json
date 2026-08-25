@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_7163",
+  "text": "",
+  "metadata": {
+    "title": "Paseo literario por el Madrid de Larra",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118569783",
+      "label": "Larra, Mariano José"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035947-5",
+      "label": "Lugar literario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4179437-0",
+      "label": "Escenario"
+    }
+  ]
+}

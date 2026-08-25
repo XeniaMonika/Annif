@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_25220",
+  "text": "",
+  "metadata": {
+    "title": "Modelos y prácticas en el cuento hispanoamericano : Arreola, Borges, Cortázar",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118513532",
+      "label": "Borges, Jorge Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118522272",
+      "label": "Cortázar, Julio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118645986",
+      "label": "Arreola, Juan José"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015464-6",
+      "label": "narración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124854-5",
+      "label": "técnica narrativa"
+    }
+  ]
+}

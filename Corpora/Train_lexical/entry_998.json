@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_998",
+  "text": "",
+  "metadata": {
+    "title": "Un testigo llamado Cervantes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11851993X",
+      "label": "Cervantes Saavedra, Miguel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062284-8",
+      "label": "Valencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4067701-1",
+      "label": "Testigos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116634-6",
+      "label": "Procedimiento penal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4162948-6",
+      "label": "Error judicial"
+    }
+  ]
+}

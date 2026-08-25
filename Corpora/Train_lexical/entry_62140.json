@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_62140",
+  "text": "",
+  "metadata": {
+    "title": "México de oro y plata",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113771-1",
+      "label": "orfebrería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4157824-7",
+      "label": "Minería de oro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4181304-2",
+      "label": "Minas de plata"
+    }
+  ]
+}

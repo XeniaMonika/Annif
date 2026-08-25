@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3035",
+  "text": "",
+  "metadata": {
+    "title": "Offenbach, compositor de zarzuelas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118589598",
+      "label": "Offenbach, Jacques"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040874-7",
+      "label": "teatro musical"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4190539-8",
+      "label": "zarzuela"
+    }
+  ]
+}

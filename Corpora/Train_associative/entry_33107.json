@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_33107",
+  "text": "",
+  "metadata": {
+    "title": "1802 : España entre dos siglos : ciencia y economía",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066399-1",
+      "label": "economía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066562-8",
+      "label": "Ciencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4274490-8",
+      "label": "Vida intelectual"
+    }
+  ]
+}

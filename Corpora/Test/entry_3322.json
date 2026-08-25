@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3322",
+  "text": "",
+  "metadata": {
+    "title": "El hambre en el Madrid de la Guerra Civil (1936-1939)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4034917-2",
+      "label": "Alimentos--Abastecimiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036862-2",
+      "label": "Madrid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055970-1",
+      "label": "España--Historia--1936-1939 (Guerra civil)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4160816-1",
+      "label": "Hambre"
+    }
+  ]
+}

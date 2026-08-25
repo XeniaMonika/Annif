@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_47384",
+  "text": "",
+  "metadata": {
+    "title": "Mapes de navegació",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033469-7",
+      "label": "costa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046843-4",
+      "label": "Portugal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054184-8",
+      "label": "transporte marítimo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074895-9",
+      "label": "Mediterráneo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4179589-1",
+      "label": "Navegación marítima"
+    }
+  ]
+}

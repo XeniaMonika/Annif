@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_4558",
+  "text": "",
+  "metadata": {
+    "title": "El Real Ingenio de la Moneda de Segovia : maravilla tecnológica del siglo XVI",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059205-4",
+      "label": "técnica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4118566-3",
+      "label": "Segovia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123803-5",
+      "label": "Acuñación de moneda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7613995-5",
+      "label": "Casa de la Moneda de Segovia"
+    }
+  ]
+}

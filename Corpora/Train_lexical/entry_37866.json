@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_37866",
+  "text": "",
+  "metadata": {
+    "title": "El título ejecutivo europeo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4062174-1",
+      "label": "sentencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068999-2",
+      "label": "Extranjero"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4170174-4",
+      "label": "Estados miembros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/5098525-5",
+      "label": "Unión Europea"
+    }
+  ]
+}

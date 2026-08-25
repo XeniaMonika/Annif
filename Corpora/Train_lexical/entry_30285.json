@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_30285",
+  "text": "",
+  "metadata": {
+    "title": "Abitur 2011 : Regelungen für die zentralen schriftlichen Prüfungsaufgaben ; [Deutsch, Englisch, Französisch, Spanisch, Chinesisch, Polnisch, Russisch, Türkisch, Latein, Mathematik]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4023118-5",
+      "label": "Hamburgo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047614-5",
+      "label": "Pregunta de examen"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049194-8",
+      "label": "Matura (educación)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130588-7",
+      "label": "Examen escrito"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4341104-6",
+      "label": "Examen central"
+    }
+  ]
+}

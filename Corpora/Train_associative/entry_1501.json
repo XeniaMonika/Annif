@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1501",
+  "text": "",
+  "metadata": {
+    "title": "La montaña y el arte : miradas desde la pintura, la música y la literatura",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000626-8",
+      "label": "Estética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033422-3",
+      "label": "numeración de las artes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040802-4",
+      "label": "música"
+    }
+  ]
+}

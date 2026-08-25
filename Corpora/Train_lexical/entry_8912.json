@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_8912",
+  "text": "",
+  "metadata": {
+    "title": "Home extended",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1086939328",
+      "label": "vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4013843-4",
+      "label": "Viviendas unifamiliares"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049202-3",
+      "label": "casa adosada"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4152938-8",
+      "label": "Ampliación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4311326-6",
+      "label": "Casas de campo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4817881-0",
+      "label": "Edificios--Rehabilitación"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_15707",
+  "text": "",
+  "metadata": {
+    "title": "Teatro y música en los inicios del siglo XXI",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040801-2",
+      "label": "musical"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040874-7",
+      "label": "teatro musical"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4190539-8",
+      "label": "zarzuela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4235850-4",
+      "label": "producción musical"
+    }
+  ]
+}

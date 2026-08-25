@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_42748",
+  "text": "",
+  "metadata": {
+    "title": "Casa, familia y sociedad : (País Vasco, España y América, siglos XV - XIX)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4016397-0",
+      "label": "familia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069161-5",
+      "label": "País Vasco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194079-9",
+      "label": "Hispanoamérica"
+    }
+  ]
+}

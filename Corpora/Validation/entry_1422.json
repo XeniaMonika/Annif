@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_1422",
+  "text": "",
+  "metadata": {
+    "title": "Tres escritoras censuradas : Simon de Beauvoir, Betty Friedan y Mary McCarthy",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118507877",
+      "label": "Beauvoir, Simone"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118535528",
+      "label": "Friedan, Betty"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118575686",
+      "label": "McCarthy, Mary"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061418-9",
+      "label": "Traducciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4067601-8",
+      "label": "Censura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

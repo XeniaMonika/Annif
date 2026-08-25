@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2321",
+  "text": "",
+  "metadata": {
+    "title": "Piano, vocal, and chamber music",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1322704155",
+      "label": "Nakpil, Julio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045771-0",
+      "label": "Filipinas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063783-9",
+      "label": "Música vocal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129951-6",
+      "label": "Música instrumental"
+    }
+  ]
+}

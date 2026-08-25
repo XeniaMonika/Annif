@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_50713",
+  "text": "",
+  "metadata": {
+    "title": "Estudios de dialectología hispánica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4021806-5",
+      "label": "Gramática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040725-1",
+      "label": "dialecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113661-5",
+      "label": "Lengua gallega"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120201-6",
+      "label": "lenguas iberorromances"
+    }
+  ]
+}

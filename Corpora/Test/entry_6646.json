@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_6646",
+  "text": "",
+  "metadata": {
+    "title": "El libro de privilegios de los jurados de Sevilla",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4049923-6",
+      "label": "juez"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063317-2",
+      "label": "administración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4118612-6",
+      "label": "Provincia de Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132797-4",
+      "label": "privilegio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140391-5",
+      "label": "Deber"
+    }
+  ]
+}

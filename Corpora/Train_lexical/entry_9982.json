@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_9982",
+  "text": "",
+  "metadata": {
+    "title": "Poblenou : atlas ilustrado de un barrio industrial",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077814-9",
+      "label": "Barrios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123412-1",
+      "label": "Ilustración científica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4161627-3",
+      "label": "ciudad industrial"
+    }
+  ]
+}

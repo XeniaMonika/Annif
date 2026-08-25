@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_302",
+  "text": "",
+  "metadata": {
+    "title": "Narrativa gráfica y traducción biosanitaria: información accesible para pacientes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1098455932",
+      "label": "Alfabetización en salud"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016216-3",
+      "label": "Lenguajes especializados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124854-5",
+      "label": "técnica narrativa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4647152-2",
+      "label": "Bioquímica clínica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4681021-3",
+      "label": "Información para el paciente"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7658564-5",
+      "label": "novela gráfica"
+    }
+  ]
+}

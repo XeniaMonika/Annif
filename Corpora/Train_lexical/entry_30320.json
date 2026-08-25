@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_30320",
+  "text": "",
+  "metadata": {
+    "title": "James Turrell",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118962736",
+      "label": "Turrell, James"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131808-0",
+      "label": "Instalaciones (Arte)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4166524-7",
+      "label": "Land art"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4357183-9",
+      "label": "Arte de proyecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4614008-6",
+      "label": "Instalación lumínica"
+    }
+  ]
+}

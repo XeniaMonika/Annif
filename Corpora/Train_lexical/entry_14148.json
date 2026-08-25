@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_14148",
+  "text": "",
+  "metadata": {
+    "title": "Tauromaquia : historia, arte, literatura y medios de comunicación en Europa y América",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130211-4",
+      "label": "Corridas de toros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4169187-8",
+      "label": "Medios de comunicación"
+    }
+  ]
+}

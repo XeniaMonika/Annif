@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_48796",
+  "text": "",
+  "metadata": {
+    "title": "Access and preservation of electronic information : best practices and solutions ; proceedings of the DLM-Forum 2002, Barcelona, 6-8 May 2002",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4026899-8",
+      "label": "información"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072803-1",
+      "label": "búsqueda y recuperación de información"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132784-6",
+      "label": "provisión de información"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4151918-8",
+      "label": "medio electrónico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4196910-8",
+      "label": "Medios digitales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4420040-7",
+      "label": "Archivado"
+    }
+  ]
+}

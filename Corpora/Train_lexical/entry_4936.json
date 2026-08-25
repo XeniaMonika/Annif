@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_4936",
+  "text": "",
+  "metadata": {
+    "title": "El dragón con corona",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1206288906",
+      "label": "SARS-CoV-2"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4012864-7",
+      "label": "Dragones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050152-8",
+      "label": "Caballeros y caballería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4112701-8",
+      "label": "Lucha contra"
+    }
+  ]
+}

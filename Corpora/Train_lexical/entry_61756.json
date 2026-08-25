@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_61756",
+  "text": "",
+  "metadata": {
+    "title": "Estudio de la erosión hidrica y estrategias de control",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4007367-1",
+      "label": "Suelos--Erosión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069568-2",
+      "label": "Suelos--Protección"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4311151-8",
+      "label": "Propiedades fisicoquímicas del suelo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4418694-0",
+      "label": "Lavado"
+    }
+  ]
+}

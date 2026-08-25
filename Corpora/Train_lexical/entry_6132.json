@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_6132",
+  "text": "",
+  "metadata": {
+    "title": "Sobre el conocimiento de las pinturas originales y de las copias (1791 y 1805)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4032423-0",
+      "label": "Copia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4172832-4",
+      "label": "Original"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4388531-7",
+      "label": "Conocimiento del arte"
+    }
+  ]
+}

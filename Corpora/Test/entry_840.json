@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_840",
+  "text": "",
+  "metadata": {
+    "title": "Respeta València : el juego del patrimonio histórico",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4011453-3",
+      "label": "monumento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033560-4",
+      "label": "Patrimonio cultural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062284-8",
+      "label": "Valencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4845922-7",
+      "label": "Smartphones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7705206-7",
+      "label": "Aplicaciones para móviles"
+    }
+  ]
+}

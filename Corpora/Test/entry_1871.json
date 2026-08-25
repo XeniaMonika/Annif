@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1871",
+  "text": "",
+  "metadata": {
+    "title": "Viajes con mi cura : las andanzas de Graham Greene por España y Portugal",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11854179X",
+      "label": "Greene, Graham"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1234676176",
+      "label": "Durán, Leopoldo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046843-4",
+      "label": "Portugal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049275-8",
+      "label": "Viaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

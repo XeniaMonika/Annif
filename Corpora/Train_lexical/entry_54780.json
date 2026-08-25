@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_54780",
+  "text": "",
+  "metadata": {
+    "title": "Corpus oral de la variedad juvenil universitaria del español hablado en Alicante",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020717-1",
+      "label": "lenguaje oral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077741-8",
+      "label": "Variación (Lingüística)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079702-8",
+      "label": "Alicante"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4253697-2",
+      "label": "Estudiantes--Lenguaje"
+    }
+  ]
+}

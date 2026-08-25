@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_73846",
+  "text": "",
+  "metadata": {
+    "title": "Semijazyčnyj slovarʹ po televideniju, radiolokacii i antennam : anglo-russko-francuzsko-ispansko-italʹjansko-gollandsko-nemeckij",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002210-9",
+      "label": "Antenas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016845-1",
+      "label": "tecnología de la televisión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4176765-2",
+      "label": "radar"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_20207",
+  "text": "",
+  "metadata": {
+    "title": "El monasterio de San Jerónimo de Buenavista",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4734550-0",
+      "label": "San Jerónimo de Buenavista"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7583222-7",
+      "label": "dependencia monástica"
+    }
+  ]
+}

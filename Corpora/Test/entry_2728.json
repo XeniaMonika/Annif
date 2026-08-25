@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2728",
+  "text": "",
+  "metadata": {
+    "title": "El léxico de los documentos del Monasterio de San Salvador de Oña (siglos X-XIII)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4031225-2",
+      "label": "Monasterios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039691-5",
+      "label": "Lengua latina medieval y moderna"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4080584-0",
+      "label": "Burgos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120134-6",
+      "label": "castellano medieval"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    }
+  ]
+}

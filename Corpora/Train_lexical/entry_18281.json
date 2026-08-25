@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_18281",
+  "text": "",
+  "metadata": {
+    "title": "Educatión, tecnología digital y patrimonio cultural : para una educatción inclusiva",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033560-4",
+      "label": "Patrimonio cultural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074659-8",
+      "label": "Educación en medios de comunicación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123065-6",
+      "label": "digitalización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4696474-5",
+      "label": "inclusión social"
+    }
+  ]
+}

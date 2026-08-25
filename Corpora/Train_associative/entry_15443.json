@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_15443",
+  "text": "",
+  "metadata": {
+    "title": "Conocimiento y acción : relaciones históricas de la ciencia, la tecnología y la sociedad en México",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046514-7",
+      "label": "política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056618-3",
+      "label": "Estado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059205-4",
+      "label": "técnica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066562-8",
+      "label": "Ciencia"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_14644",
+  "text": "",
+  "metadata": {
+    "title": "El léxico de astronomía y navegación en Martín Cortés de Albacar",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1175406872",
+      "label": "Cortés, Martín"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4003311-9",
+      "label": "Astronomía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016216-3",
+      "label": "Lenguajes especializados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4179589-1",
+      "label": "Navegación marítima"
+    }
+  ]
+}

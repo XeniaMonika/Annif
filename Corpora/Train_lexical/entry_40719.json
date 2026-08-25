@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_40719",
+  "text": "",
+  "metadata": {
+    "title": "Los cuentos de mi pueblo : quinto y sexto grados",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4048089-6",
+      "label": "Quintana Roo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4067225-6",
+      "label": "Yucatán"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4202494-8",
+      "label": "Curso escolar 5.º-6.º"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4220899-3",
+      "label": "Lengua maya"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241679-6",
+      "label": "Comprensión lectora"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4566914-4",
+      "label": "Campeche"
+    }
+  ]
+}

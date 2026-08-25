@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_1990",
+  "text": "",
+  "metadata": {
+    "title": "Narrativas periféricas : historia e historiografía del exilio español en México",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015961-9",
+      "label": "Literatura--Autores exiliados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036019-2",
+      "label": "Historia de la literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055970-1",
+      "label": "España--Historia--1936-1939 (Guerra civil)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4390089-6",
+      "label": "Refugiado español"
+    }
+  ]
+}

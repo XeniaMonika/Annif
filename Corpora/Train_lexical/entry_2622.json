@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_2622",
+  "text": "",
+  "metadata": {
+    "title": "Cartas de Federico, Pedro, Fernando, Luis y Juan de Madrazo, Eugenio de Ochoa e Isidoro Gil",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/100617301",
+      "label": "Ochoa, Eugenio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1056482257",
+      "label": "Gil, Isidoro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/116443-0",
+      "label": "Museo del Prado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/116655291",
+      "label": "Madrazo y Kuntz, Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/116655305",
+      "label": "Madrazo, Pedro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119424517",
+      "label": "Madrazo y Kuntz, Federico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1284315258",
+      "label": "Madrazo Kuntz, Fernando"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1284315746",
+      "label": "Madrazo y Kuntz, Juan"
+    }
+  ]
+}

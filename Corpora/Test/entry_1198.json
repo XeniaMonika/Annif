@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1198",
+  "text": "",
+  "metadata": {
+    "title": "Gastronomía, cultura y sostenibilidad : etnografías contemporáneas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4031445-5",
+      "label": "Cocina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061644-7",
+      "label": "Medio ambiente--Protección"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130874-8",
+      "label": "Etnometodología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4326464-5",
+      "label": "Desarrollo sostenible"
+    }
+  ]
+}

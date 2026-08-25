@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_11322",
+  "text": "",
+  "metadata": {
+    "title": "Romanobarbarica : scritti scelti",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020378-5",
+      "label": "Germanos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4030206-4",
+      "label": "Celtas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076778-4",
+      "label": "Imperio Romano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188482-6",
+      "label": "Roma--Historia--S.III-VI (Invasiones bárbaras)"
+    }
+  ]
+}

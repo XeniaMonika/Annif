@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_44571",
+  "text": "",
+  "metadata": {
+    "title": "Langenscheidts Euro-Set : Englisch - Französisch - Italienisch - Spanisch ; [das schnelle Wörterbuch-Set mit rund 180.000 Stichwörtern und Wendungen] ; schnelles 32-Bit-Programm, umfassende Suchoptionen, Benutzerwörterbücher, verknüpfbar mit allen Titeln der PC-Bibliothek, für Windows und Mac OS",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014777-0",
+      "label": "Lengua inglesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113615-9",
+      "label": "Lengua francesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114056-4",
+      "label": "Lengua italiana"
+    }
+  ]
+}

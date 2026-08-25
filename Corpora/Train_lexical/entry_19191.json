@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_19191",
+  "text": "",
+  "metadata": {
+    "title": "Vies d'écrivains, vies d'artistes : Espagne, France, Italie, XVIe-XVIIIe siècles",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4018145-5",
+      "label": "Francia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027833-5",
+      "label": "Italia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033423-5",
+      "label": "Artistas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053309-8",
+      "label": "Escritores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    }
+  ]
+}

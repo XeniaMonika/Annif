@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_69724",
+  "text": "",
+  "metadata": {
+    "title": "Multilingual glossary of automatic control technology : English, French, Russian, Italian, Spanish, Japanese",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014777-0",
+      "label": "Lengua inglesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051038-4",
+      "label": "Lengua rusa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076594-5",
+      "label": "ingeniería de control"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113615-9",
+      "label": "Lengua francesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114056-4",
+      "label": "Lengua italiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114069-2",
+      "label": "Lengua japonesa"
+    }
+  ]
+}

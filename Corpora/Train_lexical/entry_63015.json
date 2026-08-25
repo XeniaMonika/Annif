@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_63015",
+  "text": "",
+  "metadata": {
+    "title": "Temas de nematología agrícola I",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006862-6",
+      "label": "Plagas del campo--Control biológico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034402-2",
+      "label": "Agricultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075152-1",
+      "label": "Micosis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128872-5",
+      "label": "Nematodos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132093-1",
+      "label": "plaga vegetal"
+    }
+  ]
+}

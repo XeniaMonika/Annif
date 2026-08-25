@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_22354",
+  "text": "",
+  "metadata": {
+    "title": "Arquitectura y geometría : monasterio de San Lorenzo de El Escorial",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014422-7",
+      "label": "El Escorial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020236-7",
+      "label": "Geometría"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7583222-7",
+      "label": "dependencia monástica"
+    }
+  ]
+}

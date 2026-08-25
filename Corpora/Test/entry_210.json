@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_210",
+  "text": "",
+  "metadata": {
+    "title": "El 47 : un hombre. Un autobús. El destino de un barrio",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034288-8",
+      "label": "Éxodo rural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4172391-0",
+      "label": "Transporte público"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4172576-1",
+      "label": "Conductores de autobuses"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177420-6",
+      "label": "Infraestructura regional"
+    }
+  ]
+}

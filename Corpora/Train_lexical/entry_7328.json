@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_7328",
+  "text": "",
+  "metadata": {
+    "title": "Alhambra, belleza abstracta",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4020236-7",
+      "label": "Geometría"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4093883-9",
+      "label": "Alhambra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4134930-1",
+      "label": "ornamento arquitectónico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138356-4",
+      "label": "Equipamiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4141396-9",
+      "label": "Casa nobiliaria"
+    }
+  ]
+}

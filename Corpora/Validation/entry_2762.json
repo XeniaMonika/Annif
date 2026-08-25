@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2762",
+  "text": "",
+  "metadata": {
+    "title": "Los visigodos en Salamanca",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002827-6",
+      "label": "arqueología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4065792-9",
+      "label": "Visigodos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071507-3",
+      "label": "Hallazgos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4415840-3",
+      "label": "Provincia de Salamanca"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_9100",
+  "text": "",
+  "metadata": {
+    "title": "Médicos e inquisición en el siglo XVII",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002475-1",
+      "label": "Farmacéuticos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4003157-3",
+      "label": "Médicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4009985-4",
+      "label": "Cirujanos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027106-7",
+      "label": "Inquisición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4290923-5",
+      "label": "barbero"
+    }
+  ]
+}

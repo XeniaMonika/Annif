@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5925",
+  "text": "",
+  "metadata": {
+    "title": "El libro de Calila e Digna",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4061418-9",
+      "label": "Traducciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4117192-5",
+      "label": "Historia del texto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120134-6",
+      "label": "castellano medieval"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4250623-2",
+      "label": "Kalīla wa-Dimna"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4629054-0",
+      "label": "Calila y Dimna"
+    }
+  ]
+}

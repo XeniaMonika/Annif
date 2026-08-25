@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5665",
+  "text": "",
+  "metadata": {
+    "title": "El Dorado : crónica de la expedición de Pedro de Ursua y Lope de Aguirre",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118952838",
+      "label": "Aguirre, Lope"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119031183",
+      "label": "Ursúa, Pedro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4092479-8",
+      "label": "Eldorado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129116-5",
+      "label": "Expedición"
+    }
+  ]
+}

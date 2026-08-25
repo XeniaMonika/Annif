@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_912",
+  "text": "",
+  "metadata": {
+    "title": "Sub topo graphia : Espai Cràter Museum Olot",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124970-7",
+      "label": "Edificios para museos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130344-1",
+      "label": "Cráter"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4481407-0",
+      "label": "Olot"
+    }
+  ]
+}

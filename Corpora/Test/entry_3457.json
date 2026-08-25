@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3457",
+  "text": "",
+  "metadata": {
+    "title": "La visita de Carlos IV a la ciudad de Barcelona, 1802",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139615-7",
+      "label": "Desfile festivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4144953-8",
+      "label": "visita"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4154166-2",
+      "label": "Decoración festiva"
+    }
+  ]
+}

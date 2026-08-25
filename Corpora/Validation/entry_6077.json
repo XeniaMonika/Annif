@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_6077",
+  "text": "",
+  "metadata": {
+    "title": "Catalogo razonado biográfico y bibliográfico de los autores portugueses que escribieron en Castellano",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046843-4",
+      "label": "Portugal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053309-8",
+      "label": "Escritores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    }
+  ]
+}

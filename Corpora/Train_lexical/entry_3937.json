@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_3937",
+  "text": "",
+  "metadata": {
+    "title": "Narradores de memorias",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040235-6",
+      "label": "Asesinato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078782-5",
+      "label": "Víctimas de delitos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4137568-3",
+      "label": "conflicto armado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4190984-7",
+      "label": "civil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4300999-2",
+      "label": "Masacres"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7514412-8",
+      "label": "desaparición forzada"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7619747-5",
+      "label": "Conflicto interno"
+    }
+  ]
+}

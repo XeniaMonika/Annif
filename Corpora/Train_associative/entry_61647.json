@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_61647",
+  "text": "",
+  "metadata": {
+    "title": "Machinae novae Favsti Verantii siceni, cvm declaratione Latina, Italica, Hispanica, Gallica, et Germanica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4059205-4",
+      "label": "técnica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113615-9",
+      "label": "Lengua francesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114056-4",
+      "label": "Lengua italiana"
+    }
+  ]
+}

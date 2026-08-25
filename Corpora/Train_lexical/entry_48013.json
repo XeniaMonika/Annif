@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_48013",
+  "text": "",
+  "metadata": {
+    "title": "Cádiz : cuna de dos cantes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035669-3",
+      "label": "Lied"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071246-1",
+      "label": "flamenco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4086458-3",
+      "label": "Cádiz"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4276473-7",
+      "label": "Carnavales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4451488-8",
+      "label": "Copla"
+    }
+  ]
+}

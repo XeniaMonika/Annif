@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5188",
+  "text": "",
+  "metadata": {
+    "title": "Las lenguas de Aragón en el primer tercio del siglo veinte",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040725-1",
+      "label": "dialecto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068794-6",
+      "label": "Aragón"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120218-1",
+      "label": "Lengua catalana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4268550-3",
+      "label": "aragonés"
+    }
+  ]
+}

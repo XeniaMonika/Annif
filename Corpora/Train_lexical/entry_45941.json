@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_45941",
+  "text": "",
+  "metadata": {
+    "title": "Libro y lectura en la Península Ibérica y América (siglos XIII a XVIII)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035441-6",
+      "label": "Lectores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194079-9",
+      "label": "Hispanoamérica"
+    }
+  ]
+}

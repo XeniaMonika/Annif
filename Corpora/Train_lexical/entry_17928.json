@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_17928",
+  "text": "",
+  "metadata": {
+    "title": "Libros y lectores en la Gazeta de literatura de México (1788 - 1795) de José Antonio Alzate",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1073169286",
+      "label": "Gazeta de literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035441-6",
+      "label": "Lectores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036020-9",
+      "label": "Crítica literaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4146819-3",
+      "label": "bibliología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4167445-5",
+      "label": "Estudio de audiencia"
+    }
+  ]
+}

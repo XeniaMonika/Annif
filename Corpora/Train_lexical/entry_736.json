@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_736",
+  "text": "",
+  "metadata": {
+    "title": "Cervantes El arte de la novela",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11851993X",
+      "label": "Cervantes Saavedra, Miguel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033229-9",
+      "label": "crítica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036020-9",
+      "label": "Crítica literaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050479-7",
+      "label": "Novelas"
+    }
+  ]
+}

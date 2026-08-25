@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_14505",
+  "text": "",
+  "metadata": {
+    "title": "Ibérico : lengua, escritura, epigrafía",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4027107-9",
+      "label": "Inscripciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053297-5",
+      "label": "sistema de escritura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4568712-2",
+      "label": "Lengua ibera"
+    }
+  ]
+}

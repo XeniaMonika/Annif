@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_19300",
+  "text": "",
+  "metadata": {
+    "title": "Pueblos y lenguas de Europa, Asia, África y Oceanía",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000695-5",
+      "label": "África"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4003217-6",
+      "label": "Asia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    }
+  ]
+}

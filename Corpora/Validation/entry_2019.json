@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2019",
+  "text": "",
+  "metadata": {
+    "title": "Dramaturgas del siglo XXI : antología",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4053311-6",
+      "label": "escritor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4155230-1",
+      "label": "Drama femenino"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4750929-6",
+      "label": "dramaturgo"
+    }
+  ]
+}

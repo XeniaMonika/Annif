@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_620",
+  "text": "",
+  "metadata": {
+    "title": "Arte de retorno : relaciones artísticas entre América Latina, Canarias y Europa",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073188-1",
+      "label": "Islas Canarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165964-8",
+      "label": "Intercambio cultural"
+    }
+  ]
+}

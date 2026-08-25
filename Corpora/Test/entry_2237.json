@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2237",
+  "text": "",
+  "metadata": {
+    "title": "Goya en la literatura, en la música y en las creaciones audiovisuales : actas del seminario internacional",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118541064",
+      "label": "Goya y Lucientes, Francisco José"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040802-4",
+      "label": "música"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068939-6",
+      "label": "Medios audiovisuales"
+    }
+  ]
+}

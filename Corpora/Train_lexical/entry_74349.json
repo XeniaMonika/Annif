@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_74349",
+  "text": "",
+  "metadata": {
+    "title": "Palacio de Colón : memoria",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079228-6",
+      "label": "Indias Occidentales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4094983-7",
+      "label": "La Española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4118416-6",
+      "label": "Santo Domingo"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2450",
+  "text": "",
+  "metadata": {
+    "title": "La Inquisición española y la censura literaria",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008598-3",
+      "label": "impresión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4027106-7",
+      "label": "Inquisición"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4067601-8",
+      "label": "Censura"
+    }
+  ]
+}

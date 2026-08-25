@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_10582",
+  "text": "",
+  "metadata": {
+    "title": "Fons de Teatre Valenciá de la Biblioteca Bas Carbonell",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/119388804",
+      "label": "Bas Carbonell, Manuel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4012899-4",
+      "label": "Teatro (Género literario)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4305449-3",
+      "label": "valenciano"
+    }
+  ]
+}

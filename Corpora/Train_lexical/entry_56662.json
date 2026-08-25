@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_56662",
+  "text": "",
+  "metadata": {
+    "title": "Problemas de autoría, de estructura y de fuentes en el Poema de mio Cid",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4117195-0",
+      "label": "Estructura del texto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130545-0",
+      "label": "Autoría"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4174961-3",
+      "label": "Poema del Cid"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188682-3",
+      "label": "Plantilla"
+    }
+  ]
+}

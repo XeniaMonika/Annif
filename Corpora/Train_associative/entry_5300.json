@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5300",
+  "text": "",
+  "metadata": {
+    "title": "El águila y el cóndor : México/Perú : 2° ensayo de comparación",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046514-7",
+      "label": "política"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049680-6",
+      "label": "revolución"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4186820-1",
+      "label": "independencia"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_38096",
+  "text": "",
+  "metadata": {
+    "title": "Sprachkontakt in der Romania",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4007607-6",
+      "label": "Bolivia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077723-6",
+      "label": "Lenguas en contacto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113615-9",
+      "label": "Lengua francesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114056-4",
+      "label": "Lengua italiana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115788-6",
+      "label": "Lenguas románicas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133214-3",
+      "label": "Lengua quechua"
+    }
+  ]
+}

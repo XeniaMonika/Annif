@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_11645",
+  "text": "",
+  "metadata": {
+    "title": "\"Castellano\" y \"Español\" dos nombres para una lengua",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4317876-5",
+      "label": "Denominación en el idioma"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4370994-1",
+      "label": "castellano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4370996-5",
+      "label": "español"
+    }
+  ]
+}

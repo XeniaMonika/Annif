@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_36140",
+  "text": "",
+  "metadata": {
+    "title": "Arte codeco",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4032354-7",
+      "label": "Arte conceptual"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4070059-8",
+      "label": "Codificación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123065-6",
+      "label": "digitalización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4131740-3",
+      "label": "Arte objetual"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4148976-7",
+      "label": "Decodificación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4811935-0",
+      "label": "Códec"
+    }
+  ]
+}

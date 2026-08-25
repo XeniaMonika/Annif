@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_3330",
+  "text": "",
+  "metadata": {
+    "title": "La cruzada del océano : la gran aventura de la conquista de América",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014841-5",
+      "label": "Descubrimientos científicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4264420-3",
+      "label": "Expansión territorial"
+    }
+  ]
+}

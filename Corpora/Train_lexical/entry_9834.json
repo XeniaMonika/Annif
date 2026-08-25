@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_9834",
+  "text": "",
+  "metadata": {
+    "title": "Picasso - Cela : historia de una amistad : Colección Gabarrón",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/10019781-4",
+      "label": "Fundación Cristóbal Gabarrón"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118594206",
+      "label": "Picasso, Pablo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118667629",
+      "label": "Cela, Camilo José"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018480-8",
+      "label": "amistad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    }
+  ]
+}

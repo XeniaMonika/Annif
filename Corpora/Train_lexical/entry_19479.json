@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_19479",
+  "text": "",
+  "metadata": {
+    "title": "Violencia, delincuencia y seguridad pública en América Latina",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020832-1",
+      "label": "Violencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127888-4",
+      "label": "seguridad pública"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128511-6",
+      "label": "Seguridad y orden"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4157234-8",
+      "label": "crimen violento"
+    }
+  ]
+}

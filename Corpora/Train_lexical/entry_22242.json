@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_22242",
+  "text": "",
+  "metadata": {
+    "title": "Arte y reputación : estudios sobre el reconocimiento artístico",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020588-5",
+      "label": "sociedad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033423-5",
+      "label": "Artistas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033643-8",
+      "label": "Historia del arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033659-1",
+      "label": "Crítica artística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076334-1",
+      "label": "Prestigio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077618-9",
+      "label": "Estatus social"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4189718-3",
+      "label": "juicio de valor"
+    }
+  ]
+}

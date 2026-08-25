@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5870",
+  "text": "",
+  "metadata": {
+    "title": "Etrusco : lingua, scrittura, epigrafia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4021806-5",
+      "label": "Gramática"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4152508-5",
+      "label": "epigrafía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4153120-6",
+      "label": "Lengua etrusca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7663650-1",
+      "label": "Sistema de escritura"
+    }
+  ]
+}

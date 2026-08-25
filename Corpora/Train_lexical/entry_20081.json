@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_20081",
+  "text": "",
+  "metadata": {
+    "title": "Once upon a time at 55th and Hoover",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4003920-1",
+      "label": "emigración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4013960-8",
+      "label": "inmigración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4028808-0",
+      "label": "Judíos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049859-1",
+      "label": "Rodas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078704-7",
+      "label": "EE. UU."
+    }
+  ]
+}

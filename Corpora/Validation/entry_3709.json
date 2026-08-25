@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_3709",
+  "text": "",
+  "metadata": {
+    "title": "Manuscritos hispánicos de las bibliotecas de Parma y Bolonia : Biblioteca Palatina de Parma, Biblioteca Universitaria de Bolonia y Biblioteca del Archiginnasio de Bolonia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/41595-9",
+      "label": "Biblioteca Municipal del Archiginnasio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4238453-9",
+      "label": "Archiginnasio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/803228-2",
+      "label": "Biblioteca Palatina de Parma"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/815225-1",
+      "label": "Universidad de Bolonia"
+    }
+  ]
+}

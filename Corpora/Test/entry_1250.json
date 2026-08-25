@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1250",
+  "text": "",
+  "metadata": {
+    "title": "Sobre ciudades y guerras : ensayos de literatura y cine contemporáneos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126697-3",
+      "label": "Ciudad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4136410-7",
+      "label": "Guerra--En el arte"
+    }
+  ]
+}

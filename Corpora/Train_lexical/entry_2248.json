@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2248",
+  "text": "",
+  "metadata": {
+    "title": "El enfoque por tareas en los libros de texto alemanes para la clase de español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006681-2",
+      "label": "Sistema educativo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011882-4",
+      "label": "Alemania"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018428-6",
+      "label": "enseñanza de idiomas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055974-9",
+      "label": "Lengua española--Didáctica--Extranjeros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4180102-7",
+      "label": "Investigación sobre los libros de texto"
+    }
+  ]
+}

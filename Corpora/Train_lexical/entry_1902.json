@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1902",
+  "text": "",
+  "metadata": {
+    "title": "El asesinato del obispo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/130055263",
+      "label": "Montesinos, Antón"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040235-6",
+      "label": "Asesinato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4166472-3",
+      "label": "hermano lego"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4236561-2",
+      "label": "Educación"
+    }
+  ]
+}

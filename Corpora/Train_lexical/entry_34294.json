@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_34294",
+  "text": "",
+  "metadata": {
+    "title": "Hemingway and Franco",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118549030",
+      "label": "Hemingway, Ernest"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4067601-8",
+      "label": "Censura"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_71022",
+  "text": "",
+  "metadata": {
+    "title": "Wörterbuch der Kraftübertragungselemente",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020807-2",
+      "label": "caja de cambios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033774-1",
+      "label": "Embrague"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4067333-9",
+      "label": "engranaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4169176-3",
+      "label": "Transmisión mecánica de la fuerza"
+    }
+  ]
+}

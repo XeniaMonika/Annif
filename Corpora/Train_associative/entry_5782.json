@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5782",
+  "text": "",
+  "metadata": {
+    "title": "Arte, ciudad y culturas nobiliarias en España (siglos XV-XIX)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000464-8",
+      "label": "Nobleza"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056723-0",
+      "label": "Ciudades"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125698-0",
+      "label": "Civilización"
+    }
+  ]
+}

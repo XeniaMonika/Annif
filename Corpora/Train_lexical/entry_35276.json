@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_35276",
+  "text": "",
+  "metadata": {
+    "title": "La clonación arquitectónica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4032423-0",
+      "label": "Copia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4065958-6",
+      "label": "Reconstrucción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4136102-7",
+      "label": "reconstrucción arquitectónica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4171533-0",
+      "label": "Nueva construcción"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_3890",
+  "text": "",
+  "metadata": {
+    "title": "Enfermedades y prácticas curativas en México : diálogos entre el pasado y el presente",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020754-7",
+      "label": "Salud"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159404-6",
+      "label": "medicina familiar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4518241-3",
+      "label": "Conocimientos locales"
+    }
+  ]
+}

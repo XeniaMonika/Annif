@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5568",
+  "text": "",
+  "metadata": {
+    "title": "Los hombres de la monarquía universal",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040034-7",
+      "label": "monarquía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046517-2",
+      "label": "Políticos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4456587-2",
+      "label": "cargo público"
+    }
+  ]
+}

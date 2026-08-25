@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_24910",
+  "text": "",
+  "metadata": {
+    "title": "Estudios de historia y espiritualidad monástica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1008453-8",
+      "label": "cisterciense"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1017943-4",
+      "label": "Carteros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/25880-5",
+      "label": "benedictinos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4043726-7",
+      "label": "orden religiosa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074927-7",
+      "label": "monacato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/5285601-X",
+      "label": "camaldulenses"
+    }
+  ]
+}

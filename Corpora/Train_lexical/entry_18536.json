@@ -1,0 +1,42 @@
+{
+  "document_id": "entry_18536",
+  "text": "",
+  "metadata": {
+    "title": "Estudios",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1069451622",
+      "label": "Ayuntamiento de Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019956-3",
+      "label": "municipio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033639-6",
+      "label": "Fomento de las artes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054671-8",
+      "label": "Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056673-0",
+      "label": "sector público"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165975-2",
+      "label": "Patrimonio cultural--Protección"
+    }
+  ]
+}

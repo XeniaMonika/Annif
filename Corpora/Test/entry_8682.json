@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_8682",
+  "text": "",
+  "metadata": {
+    "title": "Libro de los juegos : acedrex, dados e tablas ; ordenamiento de las tafurerías",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4051891-7",
+      "label": "Ajedrez"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4137590-7",
+      "label": "Juegos de mesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4190299-3",
+      "label": "Juegos de dados"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_61703",
+  "text": "",
+  "metadata": {
+    "title": "Pinturas y pintores flamencos, holandeses y alemanes en el Museo de Bellas Artes de Bilbao",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1014232-0",
+      "label": "Museo de Bellas Artes de Bilbao"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011882-4",
+      "label": "Alemania"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4042203-3",
+      "label": "Países Bajos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071249-7",
+      "label": "Flandes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_36019",
+  "text": "",
+  "metadata": {
+    "title": "Catálogo de tipos de Poaceae del herbario del Museo de La Plata (LP)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4021764-4",
+      "label": "Gramíneas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4156898-9",
+      "label": "Cebada"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4178233-1",
+      "label": "Poa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4661853-3",
+      "label": "hierba pluma"
+    }
+  ]
+}

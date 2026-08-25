@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_61392",
+  "text": "",
+  "metadata": {
+    "title": "Bibliografía nacional española",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1027025-5",
+      "label": "Biblioteca Nacional de España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4013134-8",
+      "label": "impreso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139307-7",
+      "label": "CD-ROM"
+    }
+  ]
+}

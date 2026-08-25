@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5717",
+  "text": "",
+  "metadata": {
+    "title": "Léxico disponible de la provincia de Córdoba",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4085329-9",
+      "label": "Provincia de Córdoba"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132191-1",
+      "label": "Frecuencia de las palabras"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4167532-0",
+      "label": "Lexicometría"
+    }
+  ]
+}

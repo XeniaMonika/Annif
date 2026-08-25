@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_43034",
+  "text": "",
+  "metadata": {
+    "title": "Concierto barroco : estudios sobre música, dramaturgia e historia cultural",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004541-9",
+      "label": "Barroco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040802-4",
+      "label": "música"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4043582-9",
+      "label": "ópera"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    }
+  ]
+}

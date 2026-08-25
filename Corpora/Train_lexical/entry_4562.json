@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_4562",
+  "text": "",
+  "metadata": {
+    "title": "Libros y autores en el Virreinato del Perú : el legado de la cultura letrada hasta la Independencia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006439-6",
+      "label": "Bibliotecas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4146827-2",
+      "label": "Producción editorial"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4273696-1",
+      "label": "Cultura de la lectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4433423-0",
+      "label": "Vice reino del Perú"
+    }
+  ]
+}

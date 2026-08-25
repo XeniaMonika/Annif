@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_41230",
+  "text": "",
+  "metadata": {
+    "title": "FastiOnlineDocuments&Research : FOLD&R",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4074900-9",
+      "label": "Cuenca del Mediterráneo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129464-6",
+      "label": "Excavación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133697-5",
+      "label": "Topografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4164039-1",
+      "label": "arqueología clásica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4318315-3",
+      "label": "Yacimiento arqueológico"
+    }
+  ]
+}

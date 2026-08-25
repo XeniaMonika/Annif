@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_61410",
+  "text": "",
+  "metadata": {
+    "title": "Sources and methods : labour statistics",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002730-2",
+      "label": "desempleo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4005979-0",
+      "label": "ocupación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006287-9",
+      "label": "población humana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4006298-3",
+      "label": "Estadísticas demográficas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120509-1",
+      "label": "Comparación internacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4134368-2",
+      "label": "Censos"
+    }
+  ]
+}

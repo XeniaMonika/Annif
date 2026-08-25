@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2373",
+  "text": "",
+  "metadata": {
+    "title": "Recuerdos de viaje : historia del souvenir en Andalucía",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018406-7",
+      "label": "turismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073883-8",
+      "label": "artesanía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4181892-1",
+      "label": "recuerdo de viaje"
+    }
+  ]
+}

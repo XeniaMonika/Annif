@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_25289",
+  "text": "",
+  "metadata": {
+    "title": "Diseño y desarrollo del currículum",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4022349-8",
+      "label": "Escuelas primarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064016-4",
+      "label": "Enseñanza preescolar"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4070157-8",
+      "label": "Desarrollo curricular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077347-4",
+      "label": "educación secundaria"
+    }
+  ]
+}

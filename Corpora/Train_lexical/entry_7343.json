@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_7343",
+  "text": "",
+  "metadata": {
+    "title": "Cartografía digital de Galicia en 1753 : jurisdicciones, provincias y Reino",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1275665721",
+      "label": "QGIS"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019119-9",
+      "label": "Galicia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127430-1",
+      "label": "Fabricación de tarjetas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188124-2",
+      "label": "Geografía administrativa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4238091-1",
+      "label": "Mapas antiguos"
+    }
+  ]
+}

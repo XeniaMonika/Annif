@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_1212",
+  "text": "",
+  "metadata": {
+    "title": "Métricos pinceles : literatura y artes plásticas en el Siglo de Oro",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4117314-4",
+      "label": "Ut pictura poesis (Estética)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4181251-7",
+      "label": "Literatura española--S.XVI-XVII"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_23368",
+  "text": "",
+  "metadata": {
+    "title": "Vivir juntos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4015701-5",
+      "label": "Europa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038373-8",
+      "label": "habitat colectivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4328530-2",
+      "label": "Edificio de apartamentos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4432488-1",
+      "label": "unidad habitacional"
+    }
+  ]
+}

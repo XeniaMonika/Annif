@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_70821",
+  "text": "",
+  "metadata": {
+    "title": "El conocimiento de la pintura",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038971-6",
+      "label": "Método"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121131-5",
+      "label": "Interpretación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125321-8",
+      "label": "Contemplación del arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132569-2",
+      "label": "Análisis de imágenes"
+    }
+  ]
+}

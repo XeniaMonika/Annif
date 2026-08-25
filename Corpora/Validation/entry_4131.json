@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_4131",
+  "text": "",
+  "metadata": {
+    "title": "El primitivo romance hispánico",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4027107-9",
+      "label": "Inscripciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120134-6",
+      "label": "castellano medieval"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120392-6",
+      "label": "Visigodo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4237883-7",
+      "label": "El Burgo de Osma"
+    }
+  ]
+}

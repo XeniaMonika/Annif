@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_48444",
+  "text": "",
+  "metadata": {
+    "title": "La arquitectural del sol",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018406-7",
+      "label": "turismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4025922-5",
+      "label": "Hoteles"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073188-1",
+      "label": "Islas Canarias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132518-7",
+      "label": "alquiler vacacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4299983-2",
+      "label": "Paisaje"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_64250",
+  "text": "",
+  "metadata": {
+    "title": "I ttè : historias bribris",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040600-3",
+      "label": "Tradición oral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115456-3",
+      "label": "Historia oral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4136947-6",
+      "label": "cuento popular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4477897-1",
+      "label": "Bribris (Indios)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4481553-0",
+      "label": "Lengua bribri"
+    }
+  ]
+}

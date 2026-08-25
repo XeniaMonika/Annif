@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5352",
+  "text": "",
+  "metadata": {
+    "title": "Un nuevo léxico en la red",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4016216-3",
+      "label": "Lenguajes especializados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4041605-7",
+      "label": "Neologismos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4363898-3",
+      "label": "World Wide Web (Sistema de recuperación de la información)"
+    }
+  ]
+}

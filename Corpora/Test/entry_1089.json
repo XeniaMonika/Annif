@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1089",
+  "text": "",
+  "metadata": {
+    "title": "El gran libro del humor español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4026170-0",
+      "label": "humor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125698-0",
+      "label": "Civilización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4302716-7",
+      "label": "Literatura humorística"
+    }
+  ]
+}

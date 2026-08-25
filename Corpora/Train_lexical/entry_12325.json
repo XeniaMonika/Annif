@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_12325",
+  "text": "",
+  "metadata": {
+    "title": "¡Cuánto cuesta leer! : reflexiones sobre el precio de algunos libros españoles (1543-1806)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008626-4",
+      "label": "Libros--Comercio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121054-2",
+      "label": "Mercado del libro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4146826-0",
+      "label": "Libros--Precios"
+    }
+  ]
+}

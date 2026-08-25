@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_9728",
+  "text": "",
+  "metadata": {
+    "title": "El barrio de la Plata",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077575-6",
+      "label": "Situación social"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077814-9",
+      "label": "Barrios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4142399-9",
+      "label": "Anécdotas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4297960-2",
+      "label": "Residentes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2503",
+  "text": "",
+  "metadata": {
+    "title": "Pedro Antonio de Alarcón : su colección de \"cartes de visite\", imágenes para la memoria",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118869302",
+      "label": "Alarcón, Pedro Antonio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4025111-1",
+      "label": "Personaje histórico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188409-7",
+      "label": "tarjeta de visita"
+    }
+  ]
+}

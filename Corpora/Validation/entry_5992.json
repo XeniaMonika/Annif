@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5992",
+  "text": "",
+  "metadata": {
+    "title": "Estudios sobre el primer siglo de San Benito de Valladolid",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1008640-7",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/25880-5",
+      "label": "benedictinos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074927-7",
+      "label": "monacato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4830675-7",
+      "label": "San Benito"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4830678-2",
+      "label": "Convento de San Benito de Valladolid"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_1232",
+  "text": "",
+  "metadata": {
+    "title": "Traducción bíblica e historia de las lenguas iberorrománicas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006406-2",
+      "label": "La Biblia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061418-9",
+      "label": "Traducciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115788-6",
+      "label": "Lenguas románicas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120201-6",
+      "label": "lenguas iberorromances"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127276-6",
+      "label": "Lingüística histórica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4182511-1",
+      "label": "evolución del lenguaje"
+    }
+  ]
+}

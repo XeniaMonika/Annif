@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_284",
+  "text": "",
+  "metadata": {
+    "title": "Entre Góngora y Menéndez Pelayo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11854070X",
+      "label": "Góngora y Argote, Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118580817",
+      "label": "Menéndez y Pelayo, Marcelino"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/122745132",
+      "label": "Artigas, Miguel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4017894-8",
+      "label": "investigación"
+    }
+  ]
+}

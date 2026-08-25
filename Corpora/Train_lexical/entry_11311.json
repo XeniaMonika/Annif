@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11311",
+  "text": "",
+  "metadata": {
+    "title": "Manual actualizado de vocabulario español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035548-2",
+      "label": "Lexicografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054490-4",
+      "label": "Semántica general"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066957-9",
+      "label": "formación de palabras"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    }
+  ]
+}

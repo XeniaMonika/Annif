@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_14206",
+  "text": "",
+  "metadata": {
+    "title": "Catálogo de plantas y líquenes de Colombia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4017450-5",
+      "label": "Líquenes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019654-9",
+      "label": "Tracheobionta"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4031812-6",
+      "label": "Colombia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040211-3",
+      "label": "Musgos"
+    }
+  ]
+}

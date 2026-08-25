@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_19389",
+  "text": "",
+  "metadata": {
+    "title": "Emergencia alimentaria : Grecia, Portugal, España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4022047-3",
+      "label": "Grecia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046843-4",
+      "label": "Portugal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123819-9",
+      "label": "Ayuda alimentaria"
+    }
+  ]
+}

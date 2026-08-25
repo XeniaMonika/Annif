@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_624",
+  "text": "",
+  "metadata": {
+    "title": "Libros e imprentas en Andalucía : una breve historia cultural",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008598-3",
+      "label": "impresión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008626-4",
+      "label": "Libros--Comercio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4273696-1",
+      "label": "Cultura de la lectura"
+    }
+  ]
+}

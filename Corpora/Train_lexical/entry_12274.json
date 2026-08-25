@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_12274",
+  "text": "",
+  "metadata": {
+    "title": "Estudios sobre los gitanismos del español",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077741-8",
+      "label": "Variación (Lingüística)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129847-0",
+      "label": "Lengua romaní"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4788810-6",
+      "label": "Hispano-romani"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1215",
+  "text": "",
+  "metadata": {
+    "title": "La comunidad hispánica y su lengua",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4056483-6",
+      "label": "Norma lingüística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4182072-1",
+      "label": "Área de influencia del español"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4310282-7",
+      "label": "comunidad de hablantes"
+    }
+  ]
+}

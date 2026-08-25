@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_43849",
+  "text": "",
+  "metadata": {
+    "title": "Rome houses",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023693-6",
+      "label": "vivienda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4050471-2",
+      "label": "Roma"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072819-5",
+      "label": "Decoración interior"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241891-4",
+      "label": "apartamiento"
+    }
+  ]
+}

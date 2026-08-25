@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_30520",
+  "text": "",
+  "metadata": {
+    "title": "Genesis - die Schöpfung, the creation, la création, la creazione, la creación",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006619-8",
+      "label": "lenguaje visual"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4067439-3",
+      "label": "Signos y símbolos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071706-9",
+      "label": "Relato de la creación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4123412-1",
+      "label": "Ilustración científica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4174687-9",
+      "label": "pictograma"
+    }
+  ]
+}

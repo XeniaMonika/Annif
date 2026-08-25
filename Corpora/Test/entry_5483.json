@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5483",
+  "text": "",
+  "metadata": {
+    "title": "Poesía y filosofía : María Zambrano, la Generación del 27 y Emilio Prados",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118793217",
+      "label": "Prados, Emilio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/11922299X",
+      "label": "Zambrano, María"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045791-6",
+      "label": "Filosofía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4156602-6",
+      "label": "Generación del 27"
+    }
+  ]
+}

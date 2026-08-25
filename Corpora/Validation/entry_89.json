@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_89",
+  "text": "",
+  "metadata": {
+    "title": "Los escritores y el flamenco : la lucha antifranquista (1967-1978)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4053309-8",
+      "label": "Escritores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071246-1",
+      "label": "flamenco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4079262-6",
+      "label": "resistencia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122803-0",
+      "label": "Antifascismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124099-6",
+      "label": "Cantantes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4155196-5",
+      "label": "Franquismo"
+    }
+  ]
+}

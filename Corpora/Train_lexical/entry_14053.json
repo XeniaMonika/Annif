@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_14053",
+  "text": "",
+  "metadata": {
+    "title": "La fiesta mexicana",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008017-1",
+      "label": "costumbre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071788-4",
+      "label": "Vida social"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115741-2",
+      "label": "Vida religiosa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121260-5",
+      "label": "fiesta"
+    }
+  ]
+}

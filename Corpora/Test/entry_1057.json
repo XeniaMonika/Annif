@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_1057",
+  "text": "",
+  "metadata": {
+    "title": "Tesoros lexicográficos y terminología médica : la explotación del recurso TeLeMe",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4016216-3",
+      "label": "Lenguajes especializados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035548-2",
+      "label": "Lexicografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4038243-6",
+      "label": "Medicina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165338-5",
+      "label": "Corpora (Lingüística)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_48825",
+  "text": "",
+  "metadata": {
+    "title": "Los pintores de la Corte de Felipe III : la Casa Real de El Pardo",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4064542-3",
+      "label": "pintura mural"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074442-5",
+      "label": "Mecenazgo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4471045-8",
+      "label": "Palacio Real de Madrid"
+    }
+  ]
+}

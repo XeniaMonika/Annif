@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_2534",
+  "text": "",
+  "metadata": {
+    "title": "Curso de conversación y redacción",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4018428-6",
+      "label": "enseñanza de idiomas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071461-5",
+      "label": "adquisición de segunda lengua"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138539-1",
+      "label": "Comunicación oral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4241679-6",
+      "label": "Comprensión lectora"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4246820-6",
+      "label": "Curso para avanzados"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4294535-5",
+      "label": "comunicación escrita"
+    }
+  ]
+}

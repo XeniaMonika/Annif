@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_8564",
+  "text": "",
+  "metadata": {
+    "title": "El \"Libro de los ordenamientos\" de la ciudad de Sevilla : edición y estudio lingüístico",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4054671-8",
+      "label": "Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120134-6",
+      "label": "castellano medieval"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129916-4",
+      "label": "Análisis lingüístico"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4238205-1",
+      "label": "cartulario"
+    }
+  ]
+}

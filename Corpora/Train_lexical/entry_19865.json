@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_19865",
+  "text": "",
+  "metadata": {
+    "title": "Christopher Columbus Book of privileges : 1502 : the claiming of a new world",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118564994",
+      "label": "Colombo, Cristoforo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/1252290764",
+      "label": "Códice diplomático"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014841-5",
+      "label": "Descubrimientos científicos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132797-4",
+      "label": "privilegio"
+    }
+  ]
+}

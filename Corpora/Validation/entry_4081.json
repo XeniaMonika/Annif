@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_4081",
+  "text": "",
+  "metadata": {
+    "title": "Puerto y ciudad en Andalucía oriental",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001909-3",
+      "label": "Andalucía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4022873-3",
+      "label": "asentamiento portuario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056730-8",
+      "label": "desarrollo urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074898-4",
+      "label": "Costa mediterránea"
+    }
+  ]
+}

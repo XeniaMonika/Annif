@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2",
+  "text": "",
+  "metadata": {
+    "title": "El castellano de Getxo : estudio empírico de aspectos morfológicos, sintácticos y semánticos de una variedad del castellano hablado en el País Vasco",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1074319915",
+      "label": "Español regional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054490-4",
+      "label": "Semántica general"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4058779-4",
+      "label": "Sintaxis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4170560-9",
+      "label": "Morfología (Gramática)"
+    }
+  ]
+}

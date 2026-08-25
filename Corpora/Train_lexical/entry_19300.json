@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_19300",
+  "text": "",
+  "metadata": {
+    "title": "Una historia del museo en nueve conceptos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040795-0",
+      "label": "Museos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4135231-2",
+      "label": "Presentaciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165992-2",
+      "label": "Mediación cultural (arte)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4204973-8",
+      "label": "Concepto"
+    }
+  ]
+}

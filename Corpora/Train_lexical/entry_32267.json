@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_32267",
+  "text": "",
+  "metadata": {
+    "title": "El monumento a Cristóbal Colón de Arturo Mélida",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118564994",
+      "label": "Colombo, Cristoforo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/136804551",
+      "label": "Mélida y Alinari, Arturo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011453-3",
+      "label": "monumento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4121208-3",
+      "label": "borrador"
+    }
+  ]
+}

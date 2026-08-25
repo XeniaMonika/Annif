@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_4509",
+  "text": "",
+  "metadata": {
+    "title": "Kindergarten & school plans",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4030584-3",
+      "label": "Construcción de una guardería"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046235-3",
+      "label": "planeamiento"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4180094-1",
+      "label": "Construcción de colegios"
+    }
+  ]
+}

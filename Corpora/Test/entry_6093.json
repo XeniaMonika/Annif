@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_6093",
+  "text": "",
+  "metadata": {
+    "title": "Administración electrónica y ciudadanos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008767-0",
+      "label": "participación ciudadana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4063317-2",
+      "label": "administración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114011-4",
+      "label": "Sociedad de la información"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4308416-3",
+      "label": "Internet"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4728387-7",
+      "label": "Internet en la administración pública"
+    }
+  ]
+}

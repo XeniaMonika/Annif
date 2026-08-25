@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_21790",
+  "text": "",
+  "metadata": {
+    "title": "Pin uno,  pin dos,  pin tres : das große  Buch der Kinderlieder und Reimspiele aus Spanien und Lateinamerika",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4055974-9",
+      "label": "Lengua española--Didáctica--Extranjeros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4127870-7",
+      "label": "Canciones infantiles"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4163853-0",
+      "label": "rima infantil"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4297440-9",
+      "label": "Canción de juego"
+    }
+  ]
+}

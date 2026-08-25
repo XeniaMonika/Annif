@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_800",
+  "text": "",
+  "metadata": {
+    "title": "Literatura latinoamericana y otras artes en el siglo XXI",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4062809-7",
+      "label": "Adaptaciones cinematográficas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194079-9",
+      "label": "Hispanoamérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4605581-2",
+      "label": "Arte intermedia"
+    }
+  ]
+}

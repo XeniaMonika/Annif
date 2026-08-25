@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_10082",
+  "text": "",
+  "metadata": {
+    "title": "A dictionary of proverbs, sayings, saws, adages : English and Spanish",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014777-0",
+      "label": "Lengua inglesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056550-6",
+      "label": "Refranes y proverbios"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177363-9",
+      "label": "Estribillo"
+    }
+  ]
+}

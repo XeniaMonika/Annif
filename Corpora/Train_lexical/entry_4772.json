@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_4772",
+  "text": "",
+  "metadata": {
+    "title": "Glorias de Sevilla",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4054671-8",
+      "label": "Sevilla"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072608-3",
+      "label": "Escultura en madera"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074563-6",
+      "label": "Virgen María--Iconografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074567-3",
+      "label": "Virgen María--Culto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4176065-7",
+      "label": "Procesiones religiosas"
+    }
+  ]
+}

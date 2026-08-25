@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2902",
+  "text": "",
+  "metadata": {
+    "title": "Studi di filologia, linguistica e letteratura in onore di Anna Maria Guerrieri",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4068754-5",
+      "label": "Civilización clásica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115788-6",
+      "label": "Lenguas románicas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129108-6",
+      "label": "Historia medieval"
+    }
+  ]
+}

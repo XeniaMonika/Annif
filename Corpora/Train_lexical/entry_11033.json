@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_11033",
+  "text": "",
+  "metadata": {
+    "title": "El lenguaje de los bosques",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4069161-5",
+      "label": "País Vasco"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077575-6",
+      "label": "Situación social"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133695-1",
+      "label": "Geografía humana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4297634-0",
+      "label": "Zona forestal"
+    }
+  ]
+}

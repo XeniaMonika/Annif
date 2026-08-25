@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_73340",
+  "text": "",
+  "metadata": {
+    "title": "El cobre chileno",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4009929-5",
+      "label": "Chile"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4066493-4",
+      "label": "Política económica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4132281-2",
+      "label": "Minería del cobre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4166120-5",
+      "label": "industria del cobre"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4406622-3",
+      "label": "Comercio del cobre"
+    }
+  ]
+}

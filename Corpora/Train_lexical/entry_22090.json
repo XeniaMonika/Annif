@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_22090",
+  "text": "",
+  "metadata": {
+    "title": "Urban landscapes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077804-6",
+      "label": "Diseño urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4182746-6",
+      "label": "Arquitectura del paisaje urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4182753-3",
+      "label": "parque urbano"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_2568",
+  "text": "",
+  "metadata": {
+    "title": "Literatura, cine y prensa : criterios, valores y actitudes",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4020645-2",
+      "label": "orden social"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047150-0",
+      "label": "Prensa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4157063-7",
+      "label": "Imagen de la empresa"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1816",
+  "text": "",
+  "metadata": {
+    "title": "Diccionario de la recepción teatral en España",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059702-7",
+      "label": "Teatros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4059714-3",
+      "label": "Crítica teatral"
+    }
+  ]
+}

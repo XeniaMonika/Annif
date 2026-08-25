@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_9061",
+  "text": "",
+  "metadata": {
+    "title": "La crítica taurina : antología",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4005709-4",
+      "label": "informe"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047150-0",
+      "label": "Prensa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130211-4",
+      "label": "Corridas de toros"
+    }
+  ]
+}

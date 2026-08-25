@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_72436",
+  "text": "",
+  "metadata": {
+    "title": "Mitos, leyendas y cuentos peruanos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015464-6",
+      "label": "narración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035028-9",
+      "label": "leyenda"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045312-1",
+      "label": "Perú"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075159-4",
+      "label": "Mito"
+    }
+  ]
+}

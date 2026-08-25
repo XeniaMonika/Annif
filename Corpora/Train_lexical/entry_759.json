@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_759",
+  "text": "",
+  "metadata": {
+    "title": "El trabajo en México : de la época prehispánica al siglo XIX",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002567-6",
+      "label": "Trabajo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4005857-8",
+      "label": "profesión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4164027-5",
+      "label": "Estructura de clases"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4248362-1",
+      "label": "Situación económica"
+    }
+  ]
+}

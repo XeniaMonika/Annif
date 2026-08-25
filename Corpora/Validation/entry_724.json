@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_724",
+  "text": "",
+  "metadata": {
+    "title": "Insula Fidei : catálogo histórico artístico de las hermandades y cofradías de San Fernando",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4010109-5",
+      "label": "Arte religioso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018672-6",
+      "label": "Piedad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4105284-5",
+      "label": "San Fernando"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130300-3",
+      "label": "Cofradías"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4176065-7",
+      "label": "Procesiones religiosas"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_36607",
+  "text": "",
+  "metadata": {
+    "title": "Tesoros de papel : documentos del Centro de Estudios de Historia de México CONDUMEX ; [en Museo Soumaya]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1234161-7",
+      "label": "Centro de Estudios de Historia de México (Condumex)"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4003942-0",
+      "label": "Autógrafos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4013134-8",
+      "label": "impreso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    }
+  ]
+}

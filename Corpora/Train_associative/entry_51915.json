@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_51915",
+  "text": "",
+  "metadata": {
+    "title": "Tumacacori",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1008636-5",
+      "label": "Franciscanos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039567-4",
+      "label": "Misiones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055967-1",
+      "label": "Españoles"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073436-5",
+      "label": "Iglesias"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/80092-2",
+      "label": "Jesuitas"
+    }
+  ]
+}

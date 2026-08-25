@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5200",
+  "text": "",
+  "metadata": {
+    "title": "El manuscrito de barro",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4040235-6",
+      "label": "Asesinato"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114067-9",
+      "label": "Camino de Santiago"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138490-8",
+      "label": "peregrino"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4387933-0",
+      "label": "estudiante de Derecho"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_20109",
+  "text": "",
+  "metadata": {
+    "title": "Ciudad : inscripción y huella ; escenas y paisajes de la ciudad construida y habitada",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002230-4",
+      "label": "antropología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4054858-2",
+      "label": "Asentamientos humanos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056723-0",
+      "label": "Ciudades"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056730-8",
+      "label": "desarrollo urbano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056795-3",
+      "label": "diseño urbano"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_41834",
+  "text": "",
+  "metadata": {
+    "title": "WHO medicines bookshelf version 4.0",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4078940-8",
+      "label": "medicina tradicional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4143182-0",
+      "label": "Seguridad de los medicamentos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4250192-1",
+      "label": "Etnobotánica"
+    }
+  ]
+}

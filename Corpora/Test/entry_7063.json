@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_7063",
+  "text": "",
+  "metadata": {
+    "title": "La senda española de los artistas flamencos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/116443-0",
+      "label": "Museo del Prado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4025453-7",
+      "label": "Patio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4042203-3",
+      "label": "Países Bajos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077647-5",
+      "label": "Países Bajos españoles"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4160343-6",
+      "label": "Arte cortesano"
+    }
+  ]
+}

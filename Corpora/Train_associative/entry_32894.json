@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_32894",
+  "text": "",
+  "metadata": {
+    "title": "Migraciones",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4013960-8",
+      "label": "inmigración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120730-0",
+      "label": "migración humana"
+    }
+  ]
+}

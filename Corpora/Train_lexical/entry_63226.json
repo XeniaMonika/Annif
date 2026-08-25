@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_63226",
+  "text": "",
+  "metadata": {
+    "title": "München 5 Architekten : Robert Vorhoelzer, Hans Döllgast, Sep Ruf, Josef Wiedemann, Uwe Kiessler ; [catálogo de la exposición]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11880944X",
+      "label": "Ruf, Sep"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118824988",
+      "label": "Döllgast, Hans"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118914669",
+      "label": "Vorhoelzer, Robert"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119075342",
+      "label": "Kiessler, Uwe"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/11940074X",
+      "label": "Wiedemann, Josef"
+    }
+  ]
+}

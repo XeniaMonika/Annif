@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_5787",
+  "text": "",
+  "metadata": {
+    "title": "Terminología, neología y traducción",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4041605-7",
+      "label": "Neologismos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4061418-9",
+      "label": "Traducciones"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124840-5",
+      "label": "Extranjerismos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_6727",
+  "text": "",
+  "metadata": {
+    "title": "Saberes y sabores en México y el Caribe",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4073241-1",
+      "label": "el Caribe"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124670-6",
+      "label": "Comida"
+    }
+  ]
+}

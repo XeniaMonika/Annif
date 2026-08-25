@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_13340",
+  "text": "",
+  "metadata": {
+    "title": "La imagen de tu vida",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/11851993X",
+      "label": "Cervantes Saavedra, Miguel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4019614-8",
+      "label": ""
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026482-8",
+      "label": "Identidad"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4065348-1",
+      "label": "cosmovisión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138347-3",
+      "label": "filosofía de la vida"
+    }
+  ]
+}

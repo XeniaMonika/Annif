@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_75730",
+  "text": "",
+  "metadata": {
+    "title": "Baja California : [la península del noroeste] ; reseña histórico-geográfica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4029307-5",
+      "label": "California"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4075382-7",
+      "label": "Baja California"
+    }
+  ]
+}

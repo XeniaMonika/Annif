@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_78801",
+  "text": "",
+  "metadata": {
+    "title": "Aug. Leonhardi Dresden",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/135807514",
+      "label": "Leonhardi, Christian August"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4009848-5",
+      "label": "Industria química"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129988-7",
+      "label": "Dresde-Loschwitz"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159653-5",
+      "label": "Fabricación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4185528-0",
+      "label": "Tintas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4250288-3",
+      "label": "Fábricas"
+    }
+  ]
+}

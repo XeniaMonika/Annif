@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_70560",
+  "text": "",
+  "metadata": {
+    "title": "Estudios experimentales sobre el vocabulario",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4044302-4",
+      "label": "pedagogía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4126555-5",
+      "label": "vocabulario"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4139286-3",
+      "label": "Lenguaje de los alumnos"
+    }
+  ]
+}

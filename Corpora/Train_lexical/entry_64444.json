@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_64444",
+  "text": "",
+  "metadata": {
+    "title": "Relatos de novelistas españolas (1939 - 1969)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4053311-6",
+      "label": "escritor"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129548-1",
+      "label": "prosa breve"
+    }
+  ]
+}

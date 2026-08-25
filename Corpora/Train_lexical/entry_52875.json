@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_52875",
+  "text": "",
+  "metadata": {
+    "title": "Una mirada sobre la red",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002581-0",
+      "label": "Movimiento obrero"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018520-5",
+      "label": "movimiento pacifista"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071428-7",
+      "label": "movimiento feminista"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4115439-3",
+      "label": "Ecologismo"
+    }
+  ]
+}

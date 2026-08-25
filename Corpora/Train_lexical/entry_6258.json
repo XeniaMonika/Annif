@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_6258",
+  "text": "",
+  "metadata": {
+    "title": "Buenos (con)vivires en Ecuador y Bolivia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4007607-6",
+      "label": "Bolivia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4034922-6",
+      "label": "Calidad de vida"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129321-6",
+      "label": "Ecuador"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130642-9",
+      "label": "Condiciones de vida"
+    }
+  ]
+}

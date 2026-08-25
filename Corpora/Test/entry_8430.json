@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_8430",
+  "text": "",
+  "metadata": {
+    "title": "Producción y comercio del libro en Santiago : (1501 - 1553)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4008570-3",
+      "label": "Libros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008598-3",
+      "label": "impresión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4008626-4",
+      "label": "Libros--Comercio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023222-0",
+      "label": "Comercio"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4051658-1",
+      "label": "Santiago de Compostela"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159653-5",
+      "label": "Fabricación"
+    }
+  ]
+}

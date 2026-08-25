@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_2576",
+  "text": "",
+  "metadata": {
+    "title": "Libro de estilo de la lengua española : según la norma panhispánica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4056483-6",
+      "label": "Norma lingüística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116621-8",
+      "label": "estilística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4191506-9",
+      "label": "uso del lenguaje"
+    }
+  ]
+}

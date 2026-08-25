@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_12286",
+  "text": "",
+  "metadata": {
+    "title": "Der König von Havanna",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002963-3",
+      "label": "Pobres"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4023865-9",
+      "label": "La Habana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4042870-9",
+      "label": "sinhogarismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116629-2",
+      "label": "Menor que ha cumplido una condena"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4167616-6",
+      "label": "aventura amorosa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4169389-9",
+      "label": "Melodrama cinematográfico"
+    }
+  ]
+}

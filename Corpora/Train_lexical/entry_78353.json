@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_78353",
+  "text": "",
+  "metadata": {
+    "title": "Historia de Chile : Pedro de Valdivia",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/119295318",
+      "label": "Valdivia, Pedro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4001670-5",
+      "label": "América"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4009929-5",
+      "label": "Chile"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078014-4",
+      "label": "América del Sur"
+    }
+  ]
+}

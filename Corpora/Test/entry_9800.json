@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_9800",
+  "text": "",
+  "metadata": {
+    "title": "Los restos arqueológicos de la Plaza del Rey de Barcelona : de Barcino a Barcinona (siglos I - VII)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4004503-1",
+      "label": "Barcelona"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4071507-3",
+      "label": "Hallazgos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076769-3",
+      "label": "Época romana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129464-6",
+      "label": "Excavación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7583808-4",
+      "label": "Plaza del Rey"
+    }
+  ]
+}

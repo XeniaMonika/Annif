@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_47178",
+  "text": "",
+  "metadata": {
+    "title": "Arqueología de la arquitectura",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002851-3",
+      "label": "arquitectura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4011455-7",
+      "label": "Edificios históricos--Restauración"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4138633-4",
+      "label": "Arqueología medieval"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4144149-7",
+      "label": "arqueología de las elevaciones"
+    }
+  ]
+}

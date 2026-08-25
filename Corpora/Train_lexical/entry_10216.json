@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_10216",
+  "text": "",
+  "metadata": {
+    "title": "Dictionarium latinum andrologiae, gynecologiae et embryologiae : ab antiquitate usque ad XVI saeculum (DILAGE)",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4001968-8",
+      "label": "Andrología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4014562-1",
+      "label": "Embriología humana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018225-3",
+      "label": "Ginecología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5768",
+  "text": "",
+  "metadata": {
+    "title": "Pinturas y alhajas de María Teresa de Vallabriga",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1172055009",
+      "label": "Borbón y Vallabriga y Rozas, María Teresa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037220-0",
+      "label": "Pintura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4052945-9",
+      "label": "Joyas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4128844-0",
+      "label": "colección"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4145426-1",
+      "label": "Pintura de retrato"
+    }
+  ]
+}

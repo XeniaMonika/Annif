@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2501",
+  "text": "",
+  "metadata": {
+    "title": "El libro rojo de los afromexicanos : historia y derechos humanos de las comunidades afromexicanas",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4039058-5",
+      "label": "México"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074725-6",
+      "label": "Derechos humanos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077575-6",
+      "label": "Situación social"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116433-7",
+      "label": "Raza negra"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4153096-2",
+      "label": "Identidad étnica"
+    }
+  ]
+}

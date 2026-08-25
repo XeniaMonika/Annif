@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_1807",
+  "text": "",
+  "metadata": {
+    "title": "Florilegios latinos y sociedad",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4049716-1",
+      "label": "Recepción"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114364-4",
+      "label": "Lengua latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7794975-4",
+      "label": "Florilegio"
+    }
+  ]
+}

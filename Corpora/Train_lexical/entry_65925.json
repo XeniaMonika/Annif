@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_65925",
+  "text": "",
+  "metadata": {
+    "title": "Autor/lector : Huidobro, Borges, Fuentes y Sarduy",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118513532",
+      "label": "Borges, Jorge Luis"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118703420",
+      "label": "Fuentes, Carlos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118775286",
+      "label": "Huidobro, Vicente"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/118794574",
+      "label": "Sarduy, Severo"
+    }
+  ]
+}

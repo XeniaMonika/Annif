@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_46804",
+  "text": "",
+  "metadata": {
+    "title": "Poesía e imagen",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4012112-4",
+      "label": "Lenguaje poético"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036774-5",
+      "label": "Poesía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4072730-0",
+      "label": "imaginación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120201-6",
+      "label": "lenguas iberorromances"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_72532",
+  "text": "",
+  "metadata": {
+    "title": "Juristisches Wörterbuch : deutsch-spanisch, spanisch-deutsch",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4048737-4",
+      "label": "Derecho"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4048839-1",
+      "label": "Derecho--Terminología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    }
+  ]
+}

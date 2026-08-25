@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_5541",
+  "text": "",
+  "metadata": {
+    "title": "Retórica, filosofía y educación : de la Antigüedad al Medioevo : instituciones, cuerpos, discursos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015482-8",
+      "label": "educación"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4045791-6",
+      "label": "Filosofía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4068754-5",
+      "label": "Civilización clásica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4076704-8",
+      "label": "Retórica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4129108-6",
+      "label": "Historia medieval"
+    }
+  ]
+}

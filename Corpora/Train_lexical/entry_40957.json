@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_40957",
+  "text": "",
+  "metadata": {
+    "title": "Mapa topográfico 1:5.000 : litoral de Huelva, Cádiz y Málaga",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4033469-7",
+      "label": "costa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037191-8",
+      "label": "Provincia de Málaga"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4089291-8",
+      "label": "Provincia de Huelva"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4133697-5",
+      "label": "Topografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4191914-2",
+      "label": "Provincia de Cádiz"
+    }
+  ]
+}

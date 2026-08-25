@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_11022",
+  "text": "",
+  "metadata": {
+    "title": "Chronica Hispana saecvli VIII et IX",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4047912-2",
+      "label": "Península Ibérica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4148008-9",
+      "label": "Crónica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4285738-7",
+      "label": "mozárabe"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7716044-7",
+      "label": "Crónica de Albelda"
+    }
+  ]
+}

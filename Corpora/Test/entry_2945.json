@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2945",
+  "text": "",
+  "metadata": {
+    "title": "Educación y cultura en época de los Reyes Católicos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006650-2",
+      "label": "Bildung"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040802-4",
+      "label": "música"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125698-0",
+      "label": "Civilización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4130226-6",
+      "label": "Educación religiosa"
+    }
+  ]
+}

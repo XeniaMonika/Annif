@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_643",
+  "text": "",
+  "metadata": {
+    "title": "Santos y reliquias : sonido, imagen, liturgia, textos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4006568-6",
+      "label": "Imágenes"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4024052-6",
+      "label": "Santos cristianos--Culto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036050-7",
+      "label": "Liturgia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040802-4",
+      "label": "música"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4177751-7",
+      "label": "Reliquias"
+    }
+  ]
+}

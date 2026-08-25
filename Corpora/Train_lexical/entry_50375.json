@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_50375",
+  "text": "",
+  "metadata": {
+    "title": "Biblioteca Riccardiana, Biblioteca Medicea Laurenziana, Biblioteca Moreniana, Biblioteca Marucelliana",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/1019149-5",
+      "label": "Biblioteca Medicea Laurenziana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4250882-4",
+      "label": "Biblioteca Marucelliana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/803226-9",
+      "label": "Biblioteca Moreniana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/806131-2",
+      "label": "Biblioteca Riccardiana"
+    }
+  ]
+}

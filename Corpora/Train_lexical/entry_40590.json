@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_40590",
+  "text": "",
+  "metadata": {
+    "title": "Fachwörterbuch Kraftfahrzeugtechnik : [Autoelektrik, Autoelektronik, Motor-Management, Fahrsicherheitssysteme ; deutsch, englisch, französisch, spanisch]",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4014777-0",
+      "label": "Lengua inglesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113292-0",
+      "label": "Lengua alemana"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4113615-9",
+      "label": "Lengua francesa"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4165441-9",
+      "label": "Tecnología de los vehículos de motor"
+    }
+  ]
+}

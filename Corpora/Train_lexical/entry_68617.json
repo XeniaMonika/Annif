@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_68617",
+  "text": "",
+  "metadata": {
+    "title": "Bemessungstafeln für Stahlbetonquerschnitte auf der Grundlage von DIN 1045",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4005461-5",
+      "label": "Cálculo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056840-4",
+      "label": "Hormigón armado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056844-1",
+      "label": "elemento de hormigón armado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125463-6",
+      "label": "Sección transversal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4207435-6",
+      "label": "DIN 1045"
+    }
+  ]
+}

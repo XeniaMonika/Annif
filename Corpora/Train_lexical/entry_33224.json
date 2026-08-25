@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_33224",
+  "text": "",
+  "metadata": {
+    "title": "Sistema de información geográfico y bases de datos relacionadas del mapa metalogenético de América del Sur : memoria explicativa",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4015501-8",
+      "label": "yacimiento mineral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078014-4",
+      "label": "América del Sur"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4122281-7",
+      "label": "Metalogenia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4140085-9",
+      "label": "Geología económica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4166450-4",
+      "label": "Formación de yacimientos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4188678-1",
+      "label": "Distribución"
+    }
+  ]
+}

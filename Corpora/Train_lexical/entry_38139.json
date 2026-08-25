@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_38139",
+  "text": "",
+  "metadata": {
+    "title": "Herbivores : the assessment of intake, digestability and the roles of secondary compounts",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4062676-3",
+      "label": "Digestión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4136640-2",
+      "label": "Plantas forrajeras"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4159584-1",
+      "label": "Herbívoros"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4174059-2",
+      "label": "herbívoro"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4317043-2",
+      "label": "Digestibilidad"
+    }
+  ]
+}

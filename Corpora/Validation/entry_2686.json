@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_2686",
+  "text": "",
+  "metadata": {
+    "title": "Discurso turístico e internet",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4018406-7",
+      "label": "turismo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194747-2",
+      "label": "análisis del discurso"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4535907-6",
+      "label": "Medios de comunicación en línea"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7501235-2",
+      "label": "Jerga de Internet"
+    }
+  ]
+}

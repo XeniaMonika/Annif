@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_2579",
+  "text": "",
+  "metadata": {
+    "title": "Lengua, cultura, discurso : estudios ofrecidos al profesor Manuel Casado Velarde",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/133037665",
+      "label": "Casado Velarde, Manuel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114409-0",
+      "label": "Lengua inglesa--Lexicología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4125698-0",
+      "label": "Civilización"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4194747-2",
+      "label": "análisis del discurso"
+    }
+  ]
+}

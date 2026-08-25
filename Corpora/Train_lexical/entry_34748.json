@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_34748",
+  "text": "",
+  "metadata": {
+    "title": "Olite, Ujué, Larraga, Miranda de Arga y Falces",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4478464-8",
+      "label": "Olite"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7728331-4",
+      "label": "Falces"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7728332-6",
+      "label": "Miranda de Arga"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7728333-8",
+      "label": "Larraga"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7728335-1",
+      "label": "Ujué"
+    }
+  ]
+}

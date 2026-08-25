@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_51",
+  "text": "",
+  "metadata": {
+    "title": "Picasso × Barceló : reflejos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118594206",
+      "label": "Picasso, Pablo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/119211777",
+      "label": "Barceló, Miquel"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4030270-2",
+      "label": "Cerámica"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046277-8",
+      "label": "Escultura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4183075-1",
+      "label": "gres"
+    }
+  ]
+}

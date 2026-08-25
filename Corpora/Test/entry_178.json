@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_178",
+  "text": "",
+  "metadata": {
+    "title": "Museos para la democracia sociocultural",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4011413-2",
+      "label": "Democracia"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4040795-0",
+      "label": "Museos"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4170787-4",
+      "label": "Museología"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4323345-4",
+      "label": "Factor sociocultural"
+    }
+  ]
+}

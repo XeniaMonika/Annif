@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_33245",
+  "text": "",
+  "metadata": {
+    "title": "Mapa de necesidades de cualificación en la industria española",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002623-1",
+      "label": "Trabajadores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4005871-2",
+      "label": "Formación ocupacional"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026779-9",
+      "label": "industria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4069335-1",
+      "label": "Cualificaciones profesionales"
+    }
+  ]
+}

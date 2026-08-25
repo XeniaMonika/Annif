@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_56839",
+  "text": "",
+  "metadata": {
+    "title": "Dinamarca Jacobea : historia, arte y literatura",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4010877-6",
+      "label": "Dinamarca"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4033535-5",
+      "label": "culto"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114067-9",
+      "label": "Camino de Santiago"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    }
+  ]
+}

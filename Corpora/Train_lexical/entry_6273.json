@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_6273",
+  "text": "",
+  "metadata": {
+    "title": "Hierros artísticos",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4029916-8",
+      "label": "Cataluña"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4052911-3",
+      "label": "Artesanía del forjado"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4340612-9",
+      "label": "Concurso de fotografía"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/7665556-8",
+      "label": "hierro forjado"
+    }
+  ]
+}

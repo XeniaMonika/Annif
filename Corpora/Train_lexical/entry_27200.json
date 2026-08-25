@@ -1,0 +1,34 @@
+{
+  "document_id": "entry_27200",
+  "text": "",
+  "metadata": {
+    "title": "Man & machine",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002567-6",
+      "label": "Trabajo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4002805-7",
+      "label": "Mundo laboral"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4026955-3",
+      "label": "Ingeniero"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4032231-2",
+      "label": "Diseño"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4037786-6",
+      "label": "Máquinas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120482-7",
+      "label": "Fotografía industrial"
+    }
+  ]
+}

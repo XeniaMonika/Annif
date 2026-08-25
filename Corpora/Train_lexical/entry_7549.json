@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_7549",
+  "text": "",
+  "metadata": {
+    "title": "La música para piano compuesta por autores castellonenses hasta 1936",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4030993-9",
+      "label": "Música para piano"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4032009-1",
+      "label": "Compositores"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4408519-9",
+      "label": "Provincia de Castellón"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4428235-7",
+      "label": "música académica del siglo XX"
+    }
+  ]
+}

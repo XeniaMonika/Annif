@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_16000",
+  "text": "",
+  "metadata": {
+    "title": "Estéticas de autenticidad : literatura, arte, cine y creación intermedial en Hispanoamérica",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4000626-8",
+      "label": "Estética"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4114333-4",
+      "label": "Arte"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4605581-2",
+      "label": "Arte intermedia"
+    }
+  ]
+}

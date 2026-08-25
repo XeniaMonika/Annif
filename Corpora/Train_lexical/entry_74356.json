@@ -1,0 +1,22 @@
+{
+  "document_id": "entry_74356",
+  "text": "",
+  "metadata": {
+    "title": "Elsevier's Fachwörterbuch für Fernsehen, Funkortung und Antennen : in sechs Sprachen ; Englisch/Amerikanisch, Französisch, Spanisch, Italienisch, Niederländisch, Deutsch",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4002210-9",
+      "label": "Antenas"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4016825-6",
+      "label": "Televisión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4018904-1",
+      "label": "Localización por radio"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "entry_63933",
+  "text": "",
+  "metadata": {
+    "title": "Manual de estilo de \"tve\"",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4016825-6",
+      "label": "Televisión"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4056449-6",
+      "label": "Lenguaje"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4077640-2",
+      "label": "Lengua española"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4116621-8",
+      "label": "estilística"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4124256-7",
+      "label": "Estilo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4154074-8",
+      "label": "Lenguaje televisivo"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/514419-X",
+      "label": "Televisión Española"
+    }
+  ]
+}

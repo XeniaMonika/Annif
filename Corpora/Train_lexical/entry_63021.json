@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_63021",
+  "text": "",
+  "metadata": {
+    "title": "Cine Disney",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/118526006",
+      "label": "Disney, Walt"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4036910-9",
+      "label": "cuento de hadas popular"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4078704-7",
+      "label": "EE. UU."
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4190578-7",
+      "label": "Dibujos animados"
+    }
+  ]
+}

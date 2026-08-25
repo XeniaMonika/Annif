@@ -1,0 +1,26 @@
+{
+  "document_id": "entry_26408",
+  "text": "",
+  "metadata": {
+    "title": "The state of the world's animal genetic resources for food and agriculture",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4114379-6",
+      "label": "Producción alimentaria"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4117223-1",
+      "label": "Producción ganadera"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4156623-3",
+      "label": "Recursos genéticos forestales"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4264352-1",
+      "label": "Variabilidad genética"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "entry_54130",
+  "text": "",
+  "metadata": {
+    "title": "Iberoromania : revista dedicada a las lenguas, literaturas y culturas de la Península  Ibérica y de Americá Latina",
+    "author": ""
+  },
+  "subjects": [
+    {
+      "uri": "https://d-nb.info/gnd/4035964-5",
+      "label": "Literatura"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4046843-4",
+      "label": "Portugal"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4055964-6",
+      "label": "España"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4074032-8",
+      "label": "América Latina"
+    },
+    {
+      "uri": "https://d-nb.info/gnd/4120201-6",
+      "label": "lenguas iberorromances"
+    }
+  ]
+}
