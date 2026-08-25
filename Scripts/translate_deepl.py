@@ -3,7 +3,7 @@ import json
 import os
 
 # --- Config ---
-auth_key = "26f65985-0eae-4c1a-afee-b98450db11ff:fx"  
+auth_key = ""  
 input_path = "./Data/Vocabs/keywords_untranslated.json"       
 output_path = "./Data/Vocabs/keywords_translated_deepl.json"     
 batch_size = 50  
